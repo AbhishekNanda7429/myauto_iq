@@ -1,0 +1,460 @@
+dealerid,leadstatustypename,LeadTypeName,LeadTypeID,CustomerCreatedUTC,LeadCreatedUTC,leadsourcename,SalesPersonFirstName,SalesPersonLastName,firstname,lastname,middlename,email,emailalt,VehicleYear,VehicleMake,VehicleModel,VehicleVIN,VehicleStockNumber,SoldDateUTC,DoNotCall,DoNotEmail,DoNotMail
+4282,Active,Phone,3,12/30/10 13:42,4/12/24 15:47,Atamian Website Sales,Jessica Thompson,Ferreira,Jeffrey King,Mckillop,,justinbonilla@johnston-roberts.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,4/16/11 0:00,4/10/14 18:12,Repeat Customer,Frederick Harrell,LeDuc,Lori Reid,Wisky,Alberto,rmoore@moon.com,rmoore@moon.com,2011,Honda,Accord,1HGCP2F31BA118045,LB4260,4/10/14 4:00,FALSE,FALSE,FALSE
+4282,Sold,Import,4,6/24/11 18:57,6/2/07 0:00,DMS Sales,Norma Fisher,Ramey,Tabitha Foster,Pennington,,terry54@faulkner-howard.com,,2007,Honda,Civic,2HGFG12877H543027,7H756,6/2/07 4:00,FALSE,FALSE,FALSE
+4282,Sold,Phone,3,6/29/11 22:11,8/23/21 21:17,Target ReVo Mailer,Emily Blair,Alhado,Thomas Lucas,Walsh,J,michaelcoleman@faulkner-howard.com,,2019,Honda,CR-V,2HKRW2H5XKH660733,1H1236-1,8/25/21 17:53,FALSE,FALSE,FALSE
+4282,Sold,Phone,3,6/29/11 22:19,9/15/22 14:26,Atamian Honda Website,Frederick Harrell,Desrochers,Scott Campbell,Longo,,rcollins@wyatt.com,,2023,Honda,CR-V,2HKRS4H72PH403131,3H101,11/1/22 18:08,FALSE,FALSE,FALSE
+4282,Lost,Internet,1,6/30/11 1:59,6/24/20 19:17,Dealer Inspire,Elizabeth Houston,Lemus,Kaitlin Gregory,Longo,,veronicahall@faulkner-howard.com,,2020,Honda,CR-V,5J6RW2H2XLA000538,0H722,,FALSE,TRUE,FALSE
+4282,Sold,Phone,3,6/30/11 3:05,4/8/24 21:52,Service Drive,Jessica Thompson,Ferreira,Dwayne Howard,Ha,,jenniferhughes@johnston-roberts.com,hollymoore@poole-miller.org,2024,Honda,Civic,2HGFE2F28RH571164,4H1169,4/9/24 14:34,FALSE,FALSE,FALSE
+4282,,,,6/30/11 3:43,,,Jerome Page,Matevosyan,Gerald White,Mai,,perezveronica@wiley-parsons.com,,,,,,,,FALSE,TRUE,FALSE
+4282,Sold,Internet,1,8/14/11 0:00,3/23/23 15:15,BlackBookOnline,Frederick Harrell,Desrochers,Jason Carroll,Sheahan,Lee,penavanessa@moon.com,lleonard@estes.com,2023,Honda,CR-V,7FARS4H73PE023296,3H477,3/24/23 17:08,FALSE,FALSE,FALSE
+4282,Active,Internet,1,11/12/11 20:14,4/7/24 18:52,Hds Program Lead - Get E-Price,Leslie Herring,Vaz,Jeremiah Rubio,Moretti,,mooreeric@moon.com,,2024,Honda,CR-V,2HKRS4H77RH476806,4H1143,,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,11/23/11 16:44,7/15/23 18:53,Repeat Customer,Ronald Garcia,Calcano,Mary Wells,Taylor,Philomena,jessica44@gomez.org,,2024,Honda,CR-V Hybrid,5J6RS6H86RL003022,4H090S,8/1/23 18:19,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,2/27/12 21:27,4/12/24 16:45,Service Drive,Jeremy Wood,Torra,Pam Taylor,Fortes,De Oliveira,wjones@johnson-wilkins.com,,2024,Honda,Civic,2HGFE2F57RH562191,4H1116,4/16/24 19:44,FALSE,FALSE,FALSE
+4282,Lost,Internet,1,3/27/12 15:37,5/12/23 17:35,Hds Program Lead - Get E-Price,Jeremy Wood,Torra,Sandra Robinson,Lieu,The,jschultz@poole-miller.org,jschultz@poole-miller.org,2023,Honda,Civic Type R,JHMFL5G41PX002010,3H697,,FALSE,TRUE,FALSE
+4282,Bad,Internet,1,3/30/12 0:58,4/11/24 22:43,Dealer Inspire - Website,Heather Welch,Buonopane,James Phillips,Tasch,,nicholasjones@gomez.org,,,,,,,,FALSE,FALSE,FALSE
+4282,Lost,Walk-in,2,10/13/12 15:07,10/13/12 15:07,Location,Thomas Chavez,Marte,Robert Davis,Custeau,M,phillipsbrian@gomez.org,,2012,Honda,Odyssey,5FNRL5H62CB088821,2H1177,,FALSE,FALSE,FALSE
+4282,Active,Phone,3,10/14/12 15:25,4/10/24 18:46,Service Drive,Leslie Herring,Vaz,Mary Armstrong,Ashford,,webereric@gomez.org,,,,,,,,FALSE,FALSE,FALSE
+4282,Active,Phone,3,2/15/13 19:30,1/8/24 15:59,Service Drive,Jeremy Wood,Torra,Caroline Banks,Milinazzo,,andrewnewton@faulkner-howard.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Lost,Internet,1,2/19/13 21:46,2/19/13 20:17,Make An Offer - Dealer.Com Website,Benjamin Shelton,Moronta,Debbie Trujillo,Pesantes,,laurajones@johnston-roberts.com,lawsondonna@stark.org,2010,Chevrolet,Cobalt,1G1AD5F51A7229040,3H023-3,,TRUE,TRUE,TRUE
+4282,Lost,Internet,1,3/23/13 20:09,4/9/24 23:22,Hds Program Lead - Get E-Price,Leslie Herring,Vaz,Brett Freeman,Murguz,,ambertaylor@wilson.info,jessica68@johnston-roberts.com,1900,None,None,,,,FALSE,FALSE,FALSE
+4282,Active,Walk-in,2,4/7/13 17:44,4/8/24 17:11,Repeat Customer,John Lamb,Perez,Timothy Hayden,Kivlehan,Ann,clintonmoody@miller.com,,2022,Honda,HR-V,3CZRU6H33NM741643,AZ6324,,FALSE,TRUE,FALSE
+4282,Sold,Phone,3,4/22/13 0:42,6/20/19 16:03,Repeat Customer,Michael Ellis,Genao,Jacob Melendez,Nguy,,pstout@johnston-roberts.com,hernandezrichard@faulkner-howard.com,2019,Honda,Pilot,5FNYF6H5XKB086054,9H1046,6/22/19 17:27,FALSE,FALSE,FALSE
+4282,Active,Phone,3,4/25/13 20:53,4/9/24 17:40,Repeat Customer,Frederick Harrell,LeDuc,Jason Carroll,Kostka,E,jill58@stark.org,,2024,Honda,HR-V,3CZRZ2H36RM742415,4H507,,FALSE,TRUE,FALSE
+4282,Sold,Internet,1,7/16/13 22:04,12/8/14 23:00,Auto Alert,Emily Blair,Alhado,Adam Thomas,Hutchinson,,denisetaylor@johnston-roberts.com,poolejessica@faulkner-howard.com,2015,Honda,Civic,2HGFB2F59FH503017,5H159,12/9/14 5:00,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,7/23/13 18:05,5/26/22 18:19,Auto Alert,John Lamb,Perez,Tyler Anderson,Dagostino,A,joshuagreen@gomez.org,,2023,Honda,HR-V,3CZRZ2H34PM711189,3H037,9/1/22 23:14,FALSE,FALSE,FALSE
+4282,Active,Internet,1,8/4/13 23:36,4/12/24 21:30,EDMUNDS TRADE IN,Leslie Herring,Vaz,Andrew Lowery,Linskey,,lisa53@gomez.org,lisa53@gomez.org,2022,Honda,HR-V,3CZRU6H33NM741643,AZ6324,,FALSE,TRUE,FALSE
+4282,Sold,Walk-in,2,11/9/13 16:56,3/13/21 14:39,Target ReVo Mailer,Jonathan Williams,Holder,Mrs. Rebecca Thomas,Rodriguez,A,manuel19@moon.com,,2018,Honda,Pilot,5FNYF6H56JB047315,1H528-1,3/13/21 16:00,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,11/30/13 21:46,12/13/18 17:06,Repeat Customer,Jessica Thompson,Ferreira,Dana Lloyd,Simari,M,bernardkim@yu.com,phillipburch@grant-johnson.com,2018,Honda,Accord,1HGCV2F57JA025181,8H752,12/13/18 18:27,FALSE,TRUE,FALSE
+4282,Sold,Internet,1,3/23/14 17:57,4/5/22 1:57,Capital One Digital Retail,Emily Blair,Alhado,Devin Marsh,Soun,Nancy,brandon41@gomez.org,,2019,Honda,CR-V,2HKRW2H51KH618175,2H646-1,4/10/22 19:52,FALSE,FALSE,FALSE
+4282,Lost,Phone,3,4/29/14 20:10,4/11/24 23:38,Service Drive,Ronald Garcia,Calcano,Mariah Smith DDS,Harrer,,dianadaugherty@stark.org,dianadaugherty@stark.org,2024,Honda,Civic Hatchback,,,,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,8/16/14 18:15,4/8/24 19:21,"Carfax, Inc",Jerome Page,Matevosyan,Elizabeth Houston,Beggan,V,joneschristopher@gomez.org,joneschristopher@gomez.org,2024,Honda,CR-V,2HKRS4H77RH476806,4H1143,4/8/24 22:22,FALSE,TRUE,FALSE
+4282,Sold,Phone,3,8/18/14 14:16,11/25/22 19:15,Auto Alert,Jonathan Williams,Holder,Mary Gray,Doyle,K,jonhouse@johnston-roberts.com,,2023,Honda,HR-V,3CZRZ2H3XPM723976,3H104,12/1/22 18:01,FALSE,FALSE,FALSE
+4282,Sold,Phone,3,9/21/14 0:34,9/8/19 17:10,Repeat Customer,Michael Ellis,Genao,Madison Jackson,Velasquez,,monicabishop@faulkner-howard.com,,2019,Honda,CR-V,2HKRW6H36KH226573,9H1558,9/10/19 21:03,FALSE,FALSE,FALSE
+4282,Active,Internet,1,12/29/14 21:17,4/11/24 22:38,Truecar/Truecar,Heather Welch,Buonopane,Dustin Benson,Aryal,,scottanthony@gomez.org,,2024,Honda,Accord Sedan,1HGCY1F35RA055212,4H1174,,FALSE,FALSE,FALSE
+4282,Lost,Internet,1,5/12/15 19:16,6/26/19 18:06,Thirdparty,Jonathan Williams,Holder,Erin Wu,Shaheed,,brandycardenas@gomez.org,brandycardenas@gomez.org,2019,Honda,CR-V,,,,FALSE,FALSE,FALSE
+4282,,,,5/26/15 13:40,,,Theresa Mays,Marinos,Katrina Johnson,Hines,,daykaren@johnston-roberts.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,6/18/15 12:25,1/8/18 15:13,Repeat Customer,Jonathan Williams,Holder,Jordan Payne,Lytle,,vwatkins@johnston-roberts.com,,2018,Honda,Civic,2HGFC2F52JH519274,8H356,1/8/18 16:53,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,7/20/15 15:28,7/20/15 13:32,Repeat Customer,Norma Fisher,Ramey,Hannah Wilson,Cerbone,,barnesjacob@johnston-roberts.com,estradasarah@bowen.biz,2015,Honda,Odyssey,5FNRL5H64FB112816,5H1430S,7/20/15 4:00,FALSE,TRUE,FALSE
+4282,,,,7/29/15 17:56,,,Jonathan Williams,Holder,Kathleen Todd,Semiglia,,,,,,,,,,FALSE,FALSE,FALSE
+4282,,,,9/10/15 18:02,,,Jonathan Williams,Holder,Michael James,Oatman,,vwilcox@stark.org,,,,,,,,FALSE,TRUE,FALSE
+4282,Sold,Phone,3,9/12/15 17:27,4/8/23 15:17,Location,Theresa Mays,Marinos,Nicole King,Delcore,S,rebekahsmith@johnston-roberts.com,,2023,Honda,Accord Hybrid,1HGCY2F62PA010872,3H364,4/8/23 19:39,FALSE,FALSE,FALSE
+4282,Sold,PreviousCustomer,10,9/19/15 15:26,4/7/24 20:10,Atamian Website Sales,Jonathan Williams,Holder,James Mcclure,Hulburt,,coreymoore@faulkner-howard.com,raymondboyd@faulkner-howard.com,2023,Mazda,CX-5,JM3KFBCM0P0191356,AZ6352,4/7/24 21:00,FALSE,FALSE,FALSE
+4282,Active,Phone,3,9/22/15 19:59,4/8/24 20:37,Service Drive,John Lamb,Perez,Wanda Burgess,Robinson,,keithsantana@moon.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Bad,Internet,1,10/12/15 13:23,4/9/24 12:44,Dealer Inspire - Website,Heather Welch,Buonopane,Jeremy Carroll,Mcnamara,A,uflores@faulkner-howard.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Lost,Internet,1,10/29/15 13:34,4/9/24 4:42,Truecar/Truecar,Elizabeth Houston,Lemus,Christopher Kramer,Furlong,,hhenry@johnston-roberts.com,,2024,Honda,Accord Sedan,1HGCY1F35RA043061,4H953,,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,11/3/15 1:02,12/2/15 2:48,E Pricer - Dealer.Com Website,Elizabeth Houston,Lemus,Ethan King,Gargoloff,,nicholas80@johnston-roberts.com,,2016,Honda,Odyssey,5FNRL5H6XGB036522,6H302,12/11/15 5:00,FALSE,FALSE,FALSE
+4282,Active,Internet,1,3/15/16 22:23,4/12/24 19:24,Truecar/Truecar,Leslie Herring,Vaz,Mr. Travis Harris III,Stuart,,bbowen@johnston-roberts.com,zpeters@gomez.org,2024,Honda,Civic,,,,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,4/17/16 18:34,4/13/16 13:31,Edmunds Price Promise,Frederick Harrell,LeDuc,Robert Johnson,Pavlov,,wvaughan@gomez.org,wvaughan@gomez.org,2016,Honda,Accord,1HGCR3F96GA026327,6H1078S,4/17/16 4:00,FALSE,FALSE,FALSE
+4282,Lost,Phone,3,6/25/16 16:53,6/25/16 16:53,Google Page,Jessica Thompson,Ferreira,Kelly Peters,Garrett,,zlane@johnston-roberts.com,,2017,Honda,Ridgeline,,,,FALSE,TRUE,FALSE
+4282,Lost,Internet,1,7/25/16 19:54,7/25/16 19:54,Costco Auto Program,Emily Blair,Alhado,Steven Pierce,Ganley,D,lawsonjason@johnston-roberts.com,lawsonjason@johnston-roberts.com,2016,Honda,HR-V,3CZRU6H31GM745340,6H1122,,FALSE,TRUE,FALSE
+4282,Lost,Internet,1,8/16/16 20:03,8/18/23 17:16,Dealer Inspire - Website,Frederick Harrell,LeDuc,Jeffrey King,Sinopoli,Vito,gjones@villanueva.biz,,2024,Honda,CR-V Hybrid,5J6RS6H88RL012403,4H276,,FALSE,FALSE,FALSE
+4282,Lost,Walk-in,2,9/28/16 13:29,9/14/19 17:08,Loyalty Offer Campaign,Jonathan Williams,Holder,Larry Fuller,Yaing,,cstewart@johnston-roberts.com,,2019,Honda,Odyssey,5FNRL6H51KB138457,9H1508,,FALSE,FALSE,FALSE
+4282,,,,2/15/17 14:41,,,Ronald Garcia,Calcano,Vickie Burns,Ortiz,,wardwilliam@henry-fletcher.com,,,,,,,,FALSE,TRUE,FALSE
+4282,,,,2/15/17 15:45,,,Francisco Romero,Pena,Joseph Huang,Vioula,,parkerdavid@moon.com,,,,,,,,FALSE,FALSE,FALSE
+4282,,,,2/22/17 15:40,,,Theresa Mays,Marinos,Austin Morgan,Levine,,,,,,,,,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/27/17 13:49,2/2/24 21:33,EDMUNDS TRADE IN,Anthony Ruiz,Perez,John Miller,Santorsola,,taylorsteven@johnston-roberts.com,,1900,None,None,,,,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,5/4/17 15:25,8/16/23 17:25,Capital One,Jonathan Williams,Holder,David Turner,Duchemin,Ann,nicoledurham@gomez.org,nicoledurham@gomez.org,2023,Honda,Civic,2HGFE2F55PH571517,3H975,8/18/23 0:23,FALSE,FALSE,FALSE
+4282,Lost,Internet,1,5/20/17 16:54,4/8/24 11:53,Hds Program Lead - Get E-Price,Anthony Ruiz,Perez,James Phillips,Rosa,,riveranicole@faulkner-howard.com,,2021,Honda,CR-V,2HKRW2H26MH625194,4H798S-1,,FALSE,FALSE,FALSE
+4282,Sold,Phone,3,7/11/17 17:58,4/7/24 17:55,Atamian Honda Website,Theresa Mays,Marinos,Ashley Sandoval,Pesantes,Piedad,,,2024,Honda,Pilot,5FNYG1H71RB032055,4H901,4/7/24 20:04,FALSE,TRUE,FALSE
+4282,Lost,Internet,1,10/23/17 15:24,4/12/24 16:33,EDMUNDS TRADE IN,Heather Welch,Buonopane,John Cervantes,Tucci,,henry07@gomez.org,nsullivan@gomez.org,1900,None,None,,,,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,10/29/17 18:10,6/6/22 12:09,Podium - Webchat,Michael Ellis,Genao,Donald Harris,Hunt,Ann,butlerjoseph@gomez.org,,2019,Honda,Civic,2HGFC2F64KH570107,2H472-4,6/7/22 23:37,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,12/4/17 13:14,8/9/17 16:56,Referral,Norma Fisher,Ramey,Amanda Curry,Whittaker,,freynolds@johnston-roberts.com,zthomas@faulkner-howard.com,2014,Honda,Accord,1HGCR2F83EA238407,7H1000S1,8/9/17 18:17,FALSE,FALSE,FALSE
+4282,Sold,Phone,3,12/5/17 15:32,10/26/23 20:02,Repeat Customer,Frederick Harrell,Desrochers,Christopher York,Louis,Thomas,kathleenfuller@faulkner-howard.com,,2024,Honda,Pilot,5FNYG1H8XRB015666,4H392,11/7/23 16:34,FALSE,TRUE,FALSE
+4282,Sold,Phone,3,12/7/17 21:47,7/5/22 22:52,Atamian Honda Website,Jonathan Williams,Holder,Benjamin Taylor,Anton,E,michael75@gomez.org,,2019,Honda,CR-V,2HKRW2H57KH664321,3H003-1,7/6/22 0:35,FALSE,FALSE,FALSE
+4282,Bad,Internet,1,1/11/18 19:40,11/22/23 18:29,EDMUNDS TRADE IN,Benjamin Shelton,Moronta,Jessica Thompson,Celado,M,francisdaugherty@moon.com,,2024,Honda,,,,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,1/27/18 18:41,1/3/24 17:27,Truecar/Truecar,Elizabeth Houston,Lemus,Regina Crawford,Collins,L,herreracassandra@johnston-roberts.com,grant52@johnston-roberts.com,2024,Honda,Accord Sedan,1HGCY1F35RA055212,4H1174,,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,2/5/18 15:56,2/5/18 15:56,Edmunds,Jonathan Williams,Holder,Henry Reeves,Smith,R,rodriguezmarc@moon.com,,2018,Honda,Pilot,5FNYF6H58JB007818,8H490,2/7/18 1:35,FALSE,FALSE,FALSE
+4282,Bad,Internet,1,3/17/18 13:54,3/17/18 13:54,Truecar/Truecar,Elizabeth Houston,Lemus,Gary Gill,Dublie,,geoffreygrant@lopez.com,,2018,Honda,Civic,,,,TRUE,FALSE,FALSE
+4282,Sold,Internet,1,3/23/18 19:03,3/23/18 19:03,Dealer Inspire,Michael Ellis,Genao,Chloe Monroe,Chhrech,,fbenjamin@johnston-roberts.com,,2018,Honda,CR-V,2HKRW6H31JH205984,8H581,3/30/18 22:02,FALSE,FALSE,FALSE
+4282,Lost,Internet,1,4/30/18 13:30,4/24/24 22:28,Truecar/Truecar,Heather Welch,Buonopane,Stephanie Mosley,Alcantara,,williamsjulie@johnston-roberts.com,,2024,Honda,HR-V,,,,FALSE,FALSE,FALSE
+4282,Bad,Walk-in,2,4/30/18 22:13,4/30/18 22:13,Referral,Emily Blair,Alhado,Caroline Clark,Sullivan,Lynn,qmarshall@gomez.org,jasminebrown@gomez.org,2018,Honda,Pilot,5FNYF6H02JB035022,8H959,,FALSE,TRUE,FALSE
+4282,Sold,Walk-in,2,5/5/18 18:03,2/24/23 15:01,Repeat Customer,Jonathan Williams,Holder,Martha Mitchell,Ban,,hernandezdavid@moreno.com,,2023,Honda,CR-V Hybrid,2HKRS6H59PH813497,3H329,2/24/23 15:46,FALSE,TRUE,FALSE
+4282,Sold,Walk-in,2,5/19/18 18:13,9/7/22 17:47,Cargurus,Michael Ellis,Genao,Steven Campbell,Mbugua,W.,robinsonjulie@gomez.org,,2020,Honda,Pilot,5FNYF6H58LB045472,2H989-1,9/12/22 19:01,FALSE,FALSE,FALSE
+4282,Sold,Phone,3,5/23/18 3:42,4/12/24 17:47,Atamian Honda Website,Jonathan Williams,Holder,Roger Barrera,Fucarile,Kathryn,wpark@faulkner-howard.com,,2025,Honda,Pilot,5FNYG1H48SB008055,5H010,4/22/24 19:11,FALSE,FALSE,FALSE
+4282,Active,Internet,1,5/31/18 18:07,4/10/24 7:14,Truecar/Truecar,Anthony Ruiz,Perez,Christopher Stokes,San,,patricia22@johnston-roberts.com,,2024,Honda,Civic Type R,,,,FALSE,FALSE,FALSE
+4282,,,,6/6/18 16:11,,,Michael Ellis,Genao,Kelly Peters,Sopp,,,,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,6/21/18 15:33,6/21/18 15:33,Dealer Inspire,Emily Blair,Alhado,Angelica Walsh,Donovan,M,emma71@johnston-roberts.com,emma71@johnston-roberts.com,2018,Honda,CR-V,5J6RW2H86JL018217,8H969,6/21/18 18:27,FALSE,FALSE,FALSE
+4282,,,,7/18/18 20:22,,,Jonathan Williams,Holder,Kelly Peters,Mccarthy,,ilamb@black-robles.com,,,,,,,,FALSE,TRUE,FALSE
+4282,Sold,Internet,1,7/19/18 19:48,7/9/18 18:08,Thirdparty,Norma Fisher,Ramey,Jonathan Noble,Morel,J,martinezkathy@gomez.org,,2016,Honda,CR-V,5J6RM4H70GL079421,8H730S-1,7/21/18 16:33,FALSE,FALSE,FALSE
+4282,,,,7/25/18 15:46,,,Emily Blair,Alhado,Cassandra Hunt,Mcnaught,,lauragriffin@stark.org,,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,8/19/18 18:58,8/19/18 18:58,Location,Norma Fisher,Ramey,Benjamin Taylor,Mckay,B,wgarcia@johnston-roberts.com,davidanderson@johnston-roberts.com,2019,Honda,Odyssey,5FNRL6H73KB004308,9H013,8/28/18 0:54,FALSE,TRUE,FALSE
+4282,Lost,Internet,1,9/29/18 19:51,9/29/18 19:51,Dealer Inspire - Conversations,Benjamin Shelton,Moronta,Joshua Keller,Morales,,brittany78@johnston-roberts.com,,2015,Honda,Civic,19XFB2F57FE254923,8H1270S2,,FALSE,TRUE,FALSE
+4282,Sold,Internet,1,10/20/18 17:10,10/20/18 17:10,Unknown,John Lamb,Perez,Matthew Mcneil,Hannula,,kim09@johnston-roberts.com,kim09@johnston-roberts.com,2018,Honda,CR-V,2HKRW6H34JH226697,8H1504,10/21/18 20:25,FALSE,TRUE,FALSE
+4282,Sold,Internet,1,10/30/18 13:47,10/30/18 13:47,Truecar/Ticketsatwork,Michael Ellis,Genao,Sydney Nelson,Oliveira,Demelo,collinsgordon@johnston-roberts.com,uberg@gibson.net,2019,Honda,Pilot,5FNYF6H59KB027156,9H107,11/15/18 23:19,FALSE,FALSE,FALSE
+4282,,,,11/14/18 15:13,,,Jerome Page,Matevosyan,Michelle Wallace,Gorse,,jeremy57@johnston-roberts.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,11/24/18 18:42,10/12/18 16:42,Atamian Honda Website,Frederick Harrell,LeDuc,Nathan Kirk,Mcdonough,,adrake@faulkner-howard.com,,2018,Honda,CR-V,2HKRW2H52JH696186,8H1693,11/24/18 18:39,FALSE,FALSE,FALSE
+4282,Active,Phone,3,12/17/18 19:44,4/8/24 20:21,Location,Elizabeth Houston,Lemus,Samuel Phelps,Hanks,,brownrebecca@gomez.org,,,,,,,,FALSE,FALSE,FALSE
+4282,,,,2/23/19 22:11,,,Jonathan Williams,Holder,Hunter Wright,Phommavong,,katieleonard@johnston-roberts.com,katieleonard@johnston-roberts.com,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,3/26/19 5:54,4/10/24 22:41,Cargurus,Jerome Page,Matevosyan,Jeffrey King,Graham,R,paula36@dennis.biz,paula36@dennis.biz,2021,Honda,Pilot,5FNYF6H31MB037603,4H901-1,4/14/24 19:09,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,5/2/19 22:19,5/16/22 18:31,Atamian Honda Website,John Lamb,Perez,Henry Myers,Beamud,E,carlsonjeffrey@moreno.com,,2022,Honda,HR-V,3CZRU6H19NM772927,2H728,5/16/22 19:01,FALSE,FALSE,FALSE
+4282,Active,Phone,3,5/7/19 12:51,4/9/24 14:22,Service Drive,Michael Ellis,Genao,Caroline Clark,Trzcienski,,blackwelljoann@gomez.org,,,,,,,,FALSE,FALSE,FALSE
+4282,Bad,Phone,3,5/17/19 2:55,6/16/23 18:41,Vin Equity Mining Campaign,Frederick Harrell,Desrochers,John Smith,Winnett,,sarahsnow@hernandez-harris.org,sarahsnow@hernandez-harris.org,,,,,,,FALSE,FALSE,FALSE
+4282,Lost,Internet,1,6/1/19 22:25,4/8/24 15:50,Edmunds,Ronald Garcia,Calcano,Douglas Phillips,Basch,J,apeterson@gomez.org,,2024,Honda,Civic Hatchback,19XFL1H80RE015880,4H868,,FALSE,FALSE,FALSE
+4282,Lost,Phone,3,7/17/19 19:13,10/6/22 13:37,Auto Alert,Emily Blair,Alhado,Adam Thomas,Baker,,rrivera@johnston-roberts.com,,2020,Honda,HR-V,3CZRU6H32LM716553,4H113-1,,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,8/24/19 16:43,8/24/19 16:43,Location,Frederick Harrell,LeDuc,Elizabeth Moody,Wilkening,,richard56@johnston-roberts.com,,2018,Honda,Civic,SHHFK7H42JU402365,9H1190-1,8/24/19 17:22,TRUE,TRUE,FALSE
+4282,Bad,Phone,3,8/24/19 19:57,4/12/24 15:12,Service Drive,Jonathan Williams,Holder,Brad Garcia,Dipietro,Joseph,sarah03@johnston-roberts.com,,,,,,,,FALSE,TRUE,FALSE
+4282,Lost,Internet,1,9/6/19 0:14,4/10/24 3:13,"Carfax, Inc",Anthony Ruiz,Perez,Michelle Mullins,Pires,,vpatterson@johnston-roberts.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,10/19/19 13:23,11/12/21 22:48,Auto Alert,Francisco Romero,Pena,Tanya Fleming,Pacheco,,thomastapia@johnston-roberts.com,,2022,Honda,Civic,2HGFE2F50NH542648,2H191,11/15/21 21:57,FALSE,FALSE,FALSE
+4282,Lost,Phone,3,10/24/19 17:56,4/9/24 23:22,Service Drive,Anthony Ruiz,Perez,Cynthia Torres,Cyr,,smithtyler@estes.com,,,,,,,,FALSE,TRUE,FALSE
+4282,Sold,Walk-in,2,11/27/19 21:45,9/8/21 16:53,Employee,Frederick Harrell,LeDuc,Todd Lee,Leduc,J,wayne82@johnston-roberts.com,,2021,Honda,Pilot,5FNYF6H20MB098142,1H944S,9/8/21 18:51,FALSE,FALSE,FALSE
+4282,Sold,Phone,3,12/4/19 15:01,1/15/22 14:34,Service Drive  Auto Alert,Ronald Garcia,Calcano,Cathy Washington,Feliciano,,bgiles@gomez.org,bgiles@gomez.org,2022,Honda,HR-V,3CZRU6H16NM741456,2H370,1/18/22 15:48,FALSE,FALSE,FALSE
+4282,Active,Internet,1,12/4/19 15:41,4/11/24 19:39,Thirdparty Honda -,Anthony Ruiz,Perez,Christopher Kramer,Mcgowan,P,darrenmcmillan@johnston-roberts.com,,2024,Honda,Accord,,,,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,12/6/19 16:57,12/6/19 16:57,Location,Jeremy Wood,Torra,Michele Vang,Whiting,Margaret,warebrittany@johnston-roberts.com,,2019,Honda,HR-V,3CZRU6H54KM739123,9H1576,12/6/19 18:53,FALSE,FALSE,FALSE
+4282,Lost,Internet,1,12/10/19 16:23,12/10/19 16:23,Dealer Inspire Credit App:Partial,Frederick Harrell,Desrochers,Daniel Howard,Saysisouphanh,,davistracy@johnston-roberts.com,,2020,Honda,Civic,2HGFC2F6XLH510141,0H162,,FALSE,FALSE,FALSE
+4282,Lost,Phone,3,12/17/19 19:49,7/5/23 21:27,Service Drive,Emily Blair,Alhado,Steven Harris,Sbordy,,kathrynhudson@johnston-roberts.com,,2022,Honda,CR-V,2HKRW2H54NH645469,JC6133,,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,12/17/19 20:58,3/20/18 23:11,Location,Elizabeth Houston,Lemus,Anna Barnes,Heng,,curryjacob@johnston-roberts.com,gregorywatts@gomez.org,2015,Toyota,RAV4,2T3RFREV3FW369258,8H279-1,3/21/18 0:13,FALSE,TRUE,FALSE
+4282,,,,1/18/20 16:51,,,Frederick Harrell,LeDuc,Michael Jackson,Mondoth,,amy16@johnston-roberts.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,2/3/20 14:13,2/3/20 14:13,Dealer Inspire,Theresa Mays,Marinos,Colin Graham,Vu,Xuan,leahhowe@gomez.org,,2020,Honda,Pilot,5FNYF6H67LB031667,0H198,2/17/20 21:18,FALSE,TRUE,FALSE
+4282,Lost,Phone,3,2/17/20 15:14,11/9/23 15:29,Service Drive,Ronald Garcia,Calcano,Erin Olson,Oliveria,,,,,,,,,,FALSE,FALSE,FALSE
+4282,Lost,Phone,3,5/19/20 16:16,6/23/22 22:04,Service Drive,Emily Blair,Alhado,David Savage Jr.,Moxley,,gary18@gomez.org,,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,Phone,3,5/19/20 18:11,12/19/22 15:13,Auto Alert,Frederick Harrell,LeDuc,Rebecca Sandoval,Holmes,A,melissanavarro@acevedo-smith.org,,2023,Honda,Accord,1HGCY1F37PA026310,3H651,5/10/23 16:01,FALSE,FALSE,FALSE
+4282,,,,5/20/20 14:31,,,Frederick Harrell,Desrochers,Mrs. Natasha Kirk DDS,Le,,rfuentes@johnston-roberts.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,5/28/20 20:14,2/2/22 16:42,BlackBookOnline,Ronald Garcia,Calcano,Allen Trevino,Skinner,Mary,ishepherd@faulkner-howard.com,,2022,Honda,Insight,19XZE4F55NE010508,2H463,2/5/22 16:21,FALSE,FALSE,FALSE
+4282,Sold,Referral,9,6/4/20 15:28,6/4/20 15:28,Referral,Frederick Harrell,Desrochers,Debbie Trujillo,Rivera Baez,Isabel,mark92@johnston-roberts.com,,2020,Honda,HR-V,3CZRU6H3XLM700388,0H114,6/4/20 18:41,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,6/6/20 14:02,5/29/20 23:43,Truecar/Aaa,Jessica Thompson,Ferreira,Jeremy Lynch DVM,Shaffer,A,taguirre@faulkner-howard.com,,2020,Honda,CR-V,2HKRW2H84LH643471,0H758,7/1/20 1:14,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,6/15/20 16:47,6/9/21 20:18,Repeat Customer,John Lamb,Perez,Tiffany Aguirre,Chanthachem,,christianhancock@johnston-roberts.com,,2021,Honda,Accord,1HGCV2F36MA020816,1H948S,6/9/21 20:50,FALSE,FALSE,FALSE
+4282,Active,Phone,3,7/7/20 21:47,4/9/24 17:39,Truecar/Truecar,Emily Blair,Alhado,Jodi Briggs,Rad,,rebeccaunderwood@gomez.org,,2024,Honda,CR-V Hybrid,2HKRS6H57RH811749,4H1191,,FALSE,FALSE,FALSE
+4282,,,,7/30/20 1:57,,,Francisco Romero,Pena,Michael Hoffman,Xazier,,,,,,,,,,FALSE,FALSE,FALSE
+4282,,,,8/7/20 20:25,,,Jonathan Williams,Holder,Mrs. Angela Allen,Cannizzaro,,timothystrong@gomez.org,,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,8/14/20 21:22,7/27/20 20:14,Thirdparty,Emily Blair,Alhado,Jeremy Carroll,Moriarty,Marie,anthonyvincent@gomez.org,anthonyvincent@gomez.org,2018,Honda,HR-V,3CZRU6H31JG716071,0H476-1,7/27/20 22:28,FALSE,FALSE,FALSE
+4282,Sold,Phone,3,8/25/20 19:53,4/13/19 14:35,Referral,Emily Blair,Alhado,Henry King,Tringale,R,collinssean@gomez.org,,2019,Honda,CR-V,2HKRW2H99KH621599,9H691,4/13/19 15:47,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,9/11/20 17:16,12/30/23 19:20,Repeat Customer,Michael Ellis,Genao,Courtney Sherman,Tejeda Rodriguez,,msmith@johnston-roberts.com,,2024,Honda,CR-V,2HKRS4H78RH427758,4H338,12/30/23 21:24,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,9/22/20 22:06,3/5/23 17:44,Auto Alert,Theresa Mays,Marinos,Caroline Clark,Chirk,,zritter@johnston-roberts.com,,2023,Honda,Civic,2HGFE2F55PH531924,3H442,4/1/23 18:18,FALSE,FALSE,FALSE
+4282,Sold,Phone,3,9/23/20 16:03,11/22/22 15:31,Service Drive,Jeremy Wood,Torra,Brad Garcia,Klock,Andrew,lauren24@lewis-arellano.com,,2023,Honda,HR-V,3CZRZ2H30PM724392,3H112,12/1/22 19:33,FALSE,FALSE,FALSE
+4282,Bad,Phone,3,9/25/20 18:43,6/2/22 23:14,Service Drive,Elizabeth Houston,Lemus,Wayne Wilson,Kokoliadis,,zmoore@gomez.org,,,,,,,,FALSE,TRUE,FALSE
+4282,Active,Phone,3,12/10/20 22:36,8/26/23 18:31,Service Drive,Francisco Romero,Pena,Zachary Carey,Mauricio,J,ejohnson@johnston-roberts.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,12/19/20 18:08,12/19/20 18:08,Edmunds Carcode,Benjamin Shelton,Moronta,Tammy Jenkins,Casanova,Isthar,rhodesjohn@gomez.org,,2017,Honda,Pilot,5FNYF6H51HB073685,1H099-1,12/19/20 22:50,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,1/18/21 22:09,11/12/17 1:53,Dealer Inspire,John Lamb,Perez,Lori Shaw,Longo,T,robinsonjulia@johnston-roberts.com,mejialisa@gomez.org,2017,Honda,Pilot,5FNYF6H90HB086754,7H1630,11/18/17 19:55,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,1/24/21 21:55,10/26/23 14:35,Location,Emily Blair,Alhado,Richard French,Chouinard,,katiechapman@faulkner-howard.com,,2024,Honda,CR-V,2HKRS4H70RH435384,4H382,11/1/23 16:31,FALSE,FALSE,FALSE
+4282,Lost,Phone,3,1/26/21 15:56,4/8/23 13:13,Service Drive,Jerome Page,Matevosyan,Tyler Parsons,Patel,Vasant,amandasnyder@wyatt.com,,2023,Honda,CR-V Hybrid,2HKRS6H5XPH816912,3H421,,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,2/15/21 20:26,2/15/21 20:26,Truecar/Truecar,Frederick Harrell,LeDuc,Dennis Mann,Geraci,Ann,banksbrooke@yu.com,,2021,Honda,Pilot,5FNYF6H30MB065988,1H644S,3/30/21 23:04,FALSE,TRUE,FALSE
+4282,Sold,Phone,3,2/15/21 21:21,4/9/24 21:26,Repeat Customer,Frederick Harrell,Desrochers,Paul Gonzalez,Delisi,,bailey91@johnston-roberts.com,,2020,Nissan,Rogue Sport,JN1BJ1CWXLW366743,AZ6370,4/20/24 20:00,FALSE,FALSE,FALSE
+4282,Lost,Walk-in,2,2/25/21 18:26,12/20/23 14:53,Service,Theresa Mays,Marinos,Frederick Harrell,Dieudonne,,nathangardner@villanueva.biz,,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,Phone,3,2/27/21 16:34,2/27/21 16:33,Service,Jeremy Wood,Torra,Sophia Oliver,Salvati,Rose,patricia39@johnston-roberts.com,alexander65@johnston-roberts.com,2021,Honda,CR-V Hybrid,7FART6H85ME013348,1H587,2/27/21 19:04,FALSE,FALSE,FALSE
+4282,Lost,Internet,1,3/11/21 16:33,3/11/21 16:31,Podium - Webchat,Francisco Romero,Pena,Victor Serrano,Gray,,lori49@gomez.org,,2018,Honda,Pilot,5FNYF6H9XJB063178,1H119-1,,FALSE,FALSE,FALSE
+4282,,,,3/22/21 21:20,,,Norma Fisher,Ramey,Andrew Smith,Li,,osmith@johnston-roberts.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,Phone,3,4/24/21 19:46,4/20/24 15:11,Repeat Customer,Frederick Harrell,Desrochers,Rachel Moore,Stettiner,S,shudson@stark.org,,2021,Honda,CR-V,2HKRW2H97MH602312,LB6419,4/20/24 15:52,FALSE,FALSE,FALSE
+4282,Active,Phone,3,4/25/21 13:17,11/16/23 17:55,Vin Equity Mining Campaign,Leslie Herring,Vaz,Casey Berry,Flores,Antonio,wongalexander@moon.com,wongalexander@moon.com,2024,Honda,CR-V,7FARS4H42RE006031,4H455,,FALSE,TRUE,FALSE
+4282,Sold,Phone,3,4/25/21 21:21,11/19/21 15:08,Target ReVo Mailer,Jonathan Williams,Holder,Anthony Johnson,Kenney,,salinasdavid@johnston-roberts.com,,2018,Honda,Pilot,5FNYF6H55JB039609,2H149-1,11/20/21 20:48,FALSE,FALSE,FALSE
+4282,Sold,Phone,3,4/29/21 16:25,4/29/21 16:25,Google Page,Frederick Harrell,LeDuc,Christopher Robinson,Le,H,johnsonblake@gomez.org,,2021,Honda,CR-V,5J6RW2H83ML019152,1H873,6/2/21 0:55,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,5/1/21 18:24,5/1/21 18:24,Location,Frederick Harrell,Desrochers,Douglas Kirby,King,,santiagocrystal@johnston-roberts.com,,2021,Honda,Civic,SHHFK7H67MU413268,1H783,5/1/21 19:56,FALSE,FALSE,FALSE
+4282,,,,5/6/21 2:15,,,Frederick Harrell,LeDuc,Jason Carroll,Wan,,richardsbrett@johnston-roberts.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,5/15/21 14:17,4/12/24 19:26,Repeat Customer,Francisco Romero,Pena,Tammy Cain,Demelo,Tavares,ericaperry@moon.com,,2021,Honda,Accord,1HGCV1F37MA052653,LB6395,4/12/24 20:52,FALSE,FALSE,FALSE
+4282,Sold,Phone,3,5/15/21 15:56,4/10/24 20:25,AMP - Discuss Lease End,Emily Blair,Alhado,Lorraine Monroe,Cadeus,Jackie,matthewluna@johnston-roberts.com,,2024,Honda,Civic,2HGFE2F52RH573647,4H1196,4/19/24 0:21,FALSE,FALSE,FALSE
+4282,,,,5/15/21 16:14,,,Emily Blair,Alhado,Christy Gonzalez,Minichello,Ann,,,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,5/27/21 18:01,9/22/19 19:03,Location,Ronald Garcia,Calcano,Elizabeth Houston,Lewis,,katherine54@acevedo-smith.org,henryle@gomez.org,2017,Honda,CR-V,5J6RW2H88HL016771,9H982-1,9/22/19 20:02,FALSE,FALSE,FALSE
+4282,Active,Phone,3,5/31/21 19:03,4/11/24 14:09,Repeat Customer,Jeremy Wood,Torra,Tony Salinas,Seng,,shermantheresa@gomez.org,,,,,,,,FALSE,FALSE,FALSE
+4282,Active,Phone,3,6/1/21 16:36,4/11/24 15:06,Lease End Conquest,Emily Blair,Alhado,Kathleen Sparks,Llc,,roberthughes@gomez.org,,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,6/5/21 17:28,6/5/21 17:28,Referral,Emily Blair,Alhado,Ricardo Mitchell,Ramirez Tavarez,R,sstephenson@johnston-roberts.com,sstephenson@johnston-roberts.com,2021,Honda,CR-V,2HKRW2H88MH642194,1H759,6/5/21 19:07,FALSE,FALSE,FALSE
+4282,Sold,PreviousCustomer,10,6/12/21 19:08,1/2/24 21:08,Repeat Customer,Francisco Romero,Pena,Tamara Schneider,Fidel,B,jasonross@moon.com,,2024,Honda,CR-V,2HKRS4H7XRH443590,4H497,1/3/24 17:37,FALSE,FALSE,FALSE
+4282,Active,Phone,3,7/3/21 18:01,4/10/24 19:01,Lease End Conquest,Elizabeth Houston,Lemus,Nicholas Fernandez,Marquez,,nicholeturner@johnston-roberts.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,7/18/21 19:15,3/27/24 17:21,Hds Program Lead - Get E-Price,Francisco Romero,Pena,Crystal Smith,Firik,Caglar,erinmccoy@moon.com,,2024,Honda,Odyssey,5FNRL6H94RB032727,4H863,,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,7/21/21 14:52,7/18/21 18:10,Location,Emily Blair,Alhado,Tom Olson,Vecchia,C,daniel98@gomez.org,,2021,Honda,Pilot,5FNYF6H53MB074637,1H822,7/23/21 15:14,FALSE,FALSE,FALSE
+4282,Active,Internet,1,7/27/21 16:07,2/16/24 17:25,Ready Automotive Marketing,Suzanne Thomas,Espinosa,John Smith,Wade,,amyscott@johnston-roberts.com,,,,,,,,FALSE,TRUE,FALSE
+4282,,,,8/2/21 20:44,,,Ronald Garcia,Calcano,Holly Williams,Chow,,jenniferestrada@johnston-roberts.com,,,,,,,,FALSE,TRUE,FALSE
+4282,Sold,Internet,1,8/6/21 13:55,8/6/21 13:55,Unknown,Leslie Herring,Vaz,Laura Myers,Mwaura,,kimberly03@moon.com,james14@moon.com,2021,Honda,Accord,1HGCV1F33MA080742,1H1000S,8/7/21 15:47,FALSE,FALSE,FALSE
+4282,Active,Phone,3,8/12/21 23:05,1/10/24 16:57,Service Drive,Theresa Mays,Marinos,Ronald Brown III,Daley,,howardjames@johnston-roberts.com,,,,,,,,FALSE,TRUE,FALSE
+4282,Lost,Phone,3,8/23/21 21:19,1/2/24 18:24,Service Drive,Jeremy Wood,Torra,Jeffrey King,Consoli,,jesse33@johnston-roberts.com,jesse33@johnston-roberts.com,2024,Honda,Pilot,5FNYG1H56RB025634,4H604,,FALSE,FALSE,FALSE
+4282,,,,10/5/21 17:43,,,Elizabeth Houston,Lemus,Michelle Wallace,Etim,,qmartinez@gomez.org,,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,10/11/21 15:28,10/11/21 15:28,Cargurus,John Lamb,Perez,Tracy Reed,Colon Flores,,ijohnson@johnston-roberts.com,ijohnson@johnston-roberts.com,2021,Honda,CR-V,5J6RW2H75ML026711,1H1354,10/12/21 18:32,FALSE,FALSE,FALSE
+4282,Active,Phone,3,10/11/21 17:20,4/10/24 21:51,Service Drive,Benjamin Shelton,Moronta,Kimberly Cohen,Doamba,Ar,linda38@johnston-roberts.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,10/16/21 20:57,10/16/21 20:57,Atamian Honda Website,Emily Blair,Alhado,Brady Donaldson,Santiago,,wcraig@johnston-roberts.com,,2019,Honda,HR-V,3CZRU6H50KM731665,1H1349-1,10/16/21 22:31,FALSE,FALSE,FALSE
+4282,,,,10/28/21 15:35,,,Jonathan Williams,Holder,Frederick Harrell,Crisafulli,,dylanmartinez@faulkner-howard.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Lost,Phone,3,11/10/21 16:45,11/8/21 23:53,Service Drive  Auto Alert,Theresa Mays,Marinos,Robin Miller,Valenzuela,Emilio,lisaharris@gomez.org,mark44@moreno.com,,,,,,,FALSE,TRUE,FALSE
+4282,Active,Phone,3,12/22/21 19:43,4/15/24 21:49,Service Drive,Jonathan Williams,Holder,Caroline Clark,Grand,A,gordon43@johnston-roberts.com,,,,,,,,FALSE,FALSE,FALSE
+4282,,,,12/26/21 18:41,,,Theresa Mays,Marinos,Sarah Ryan,Hernandez,,,,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,1/16/22 17:09,1/16/22 17:09,Referral,Frederick Harrell,LeDuc,Angela Owen,Rodriguez,,ronald51@johnston-roberts.com,,2019,Honda,Civic,2HGFC2F67KH598774,CV5877,1/16/22 18:13,FALSE,FALSE,FALSE
+4282,Sold,Phone,3,2/26/22 18:09,2/26/22 18:09,Location,Ronald Garcia,Calcano,Brenda Montoya,Rosario,,william17@moon.com,,2021,Honda,CR-V,2HKRW2H51MH601668,TS5900,2/26/22 20:30,FALSE,FALSE,FALSE
+4282,Active,Phone,3,3/3/22 14:29,4/15/24 13:01,Service Drive,Jeremy Wood,Torra,John Underwood,Flores,,timothy40@johnston-roberts.com,,2024,Honda,Civic Sedan,2HGFE2F50RH552389,4H1117,,FALSE,FALSE,FALSE
+4282,Sold,Phone,3,3/5/22 18:15,3/5/22 18:15,Atamian Honda Website,John Lamb,Perez,Robert Ford,Chhim,C,carlosrodriguez@johnston-roberts.com,,2019,Honda,HR-V,3CZRU6H36KM727084,2H141-1,3/5/22 20:58,FALSE,FALSE,FALSE
+4282,Active,Phone,3,3/9/22 21:21,4/8/24 14:04,Service Drive,Jonathan Williams,Holder,Donna Johnson,Pal,,jmorgan@johnston-roberts.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Lost,Phone,3,3/17/22 21:44,3/17/22 21:44,Atamian Honda Website,Thomas Chavez,Marte,Edgar Rodriguez,Ferrera,,tina09@johnston-roberts.com,,2022,Honda,CR-V,,,,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,3/17/22 23:16,5/19/19 18:51,Repeat Customer,Jerome Page,Matevosyan,Thomas Lucas,Judge,H,powelljudy@johnston-roberts.com,,2019,Honda,CR-V,2HKRW2H91KH625436,9H788,5/19/19 20:46,FALSE,FALSE,FALSE
+4282,Lost,Walk-in,2,3/21/22 12:57,3/19/22 20:02,Target ReVo Mailer,Francisco Romero,Pena,Timothy Hayden,Oneil,Marie,jeremy32@wyatt.com,,2022,Honda,HR-V,3CZRU6H51NM760936,2H593,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,3/27/22 15:39,4/10/24 15:36,EDMUNDS TRADE IN,Anthony Ruiz,Perez,Ashley Wilson,Ortiz,,kennethwashington@moon.com,kennethwashington@moon.com,1900,None,None,,,,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,4/1/22 14:25,4/1/22 14:25,Atamian Honda Website,Jerome Page,Matevosyan,Richard Velazquez,Chan,,teresawhite@johnston-roberts.com,,2022,Honda,CR-V,2HKRW2H58NH637262,2H697,4/1/22 15:12,FALSE,FALSE,FALSE
+4282,Lost,Phone,3,4/11/22 20:54,7/5/23 15:07,Repeat Customer,Francisco Romero,Pena,Alison Hernandez,Zaimi,,catherine31@johnston-roberts.com,,2015,Honda,Odyssey,5FNRL5H94FB070514,3H829S-1,,FALSE,FALSE,FALSE
+4282,Active,Walk-in,2,4/13/22 20:36,4/8/24 13:25,Service,Jonathan Williams,Holder,Shawn Ford,Sinha,,paultownsend@johnston-roberts.com,,2016,Honda,Pilot,5FNYF6H03GB123652,4H1122-1,,FALSE,FALSE,FALSE
+4282,Lost,Walk-in,2,4/20/22 12:07,2/11/24 17:37,Location,Jessica Thompson,Ferreira,Kaitlin Gregory,Goodridge,James,fitzgeraldtim@johnston-roberts.com,fitzgeraldtim@johnston-roberts.com,2024,Honda,Pilot,,,,FALSE,TRUE,FALSE
+4282,Sold,Internet,1,4/29/22 16:54,4/13/22 23:18,BlackBookOnline,Jonathan Williams,Holder,Tammy Snyder,Rom,,nicole13@moon.com,waltersrichard@stark.org,2022,Honda,Accord,1HGCV1F31NA044047,2H416S,4/29/22 17:14,FALSE,FALSE,FALSE
+4282,Lost,Internet,1,5/11/22 18:44,4/7/24 21:02,EDMUNDS TRADE IN,Heather Welch,Buonopane,Gina Ritter,Santiago,,jorge17@gomez.org,benjamindavis@moreno.com,1900,None,None,,,,FALSE,FALSE,FALSE
+4282,,,,5/13/22 19:12,,,Jonathan Williams,Holder,Diana Farmer,Groomes,,scott55@gomez.org,,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,6/4/22 22:45,6/4/22 22:45,Hds Program Lead - Get E-Price,Michael Ellis,Genao,Robyn Cross,Kanavas,,renee63@gomez.org,longcourtney@gomez.org,2021,Honda,HR-V,3CZRU6H17MM712675,CV5968,6/12/22 18:27,FALSE,FALSE,FALSE
+4282,,,,6/28/22 19:54,,,Jonathan Williams,Holder,Jennifer Morrison,Sun,,edwardsryan@johnston-roberts.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,7/1/22 14:37,7/1/22 14:37,Dealer Inspire - Website,Frederick Harrell,Desrochers,Paul Phillips,Niven,,conleybrent@gomez.org,,2023,HONDA,ACCORD HYBRID,1HGCY2F59PA008365,3H314,2/16/23 22:46,FALSE,TRUE,FALSE
+4282,Sold,Internet,1,7/5/22 13:40,11/1/23 2:21,Hds Program Lead - Vehicle Configurator - Lead,Ronald Garcia,Calcano,Dorothy Gonzalez,Atherholt,Lotta,frivera@estes.com,fnichols@stark.org,2024,Honda,CR-V Hybrid,7FARS6H87RE044868,4H525,11/22/23 19:45,FALSE,FALSE,FALSE
+4282,,,,7/28/22 14:43,,,Francisco Romero,Pena,Dana Cunningham,Peguero Rondon,,elizabethstewart@moon.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,7/29/22 20:33,2/6/24 16:44,AutoTrader.com,Theresa Mays,Marinos,Lori Smith,Vicente,,yhill@johnston-roberts.com,yhill@johnston-roberts.com,2024,Honda,Pilot,5FNYG1H41RB037519,4H821S,2/6/24 18:30,FALSE,FALSE,FALSE
+4282,Sold,Phone,3,7/31/22 15:18,7/31/22 15:18,Repeat Customer,Jessica Thompson,Ferreira,Nicholas Chavez,Aspell,,michellejackson@stark.org,michellejackson@stark.org,2022,Honda,CR-V,2HKRW2H96NH659893,2H992,7/31/22 17:17,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,8/1/22 16:30,8/1/22 16:30,Referral,Michael Ellis,Genao,Joshua Keller,Guerrier,,daviskatrina@johnston-roberts.com,,2019,Honda,HR-V,3CZRU6H37KM728826,3H012-1,8/1/22 17:33,FALSE,FALSE,FALSE
+4282,Active,Phone,3,8/2/22 17:47,4/10/24 13:21,Atamian Honda Website,Jerome Page,Matevosyan,Sharon Crawford,Melendez,,ariel58@johnston-roberts.com,,2017,Honda,Accord Sedan,1HGCR2F3XHA199954,4H568-3,,FALSE,FALSE,FALSE
+4282,Sold,Phone,3,8/18/22 20:47,8/18/22 20:47,Atamian Honda Website,Michael Ellis,Genao,Kelly Peters,Wipke,Todd,tricia79@johnston-roberts.com,,2020,Honda,Passport,5FNYF8H57LB001281,2H973-1,9/4/22 19:02,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,8/18/22 21:41,8/18/22 21:41,Referral,John Lamb,Perez,Victoria Delgado,Baez,,sanchezjoyce@johnston-roberts.com,,2022,Honda,Ridgeline,5FPYK3F51NB038841,2H1041,8/18/22 23:53,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,8/21/22 15:01,4/9/24 16:04,Location,John Lamb,Perez,Annette Garcia,Ravikumar,,lawrencejessica@johnston-roberts.com,,2024,Honda,CR-V,2HKRS4H76RH475596,4H1133,4/9/24 18:54,FALSE,FALSE,FALSE
+4282,Active,Phone,3,9/1/22 13:02,4/12/24 21:24,Service Drive,Jerome Page,Matevosyan,Daniel Robertson,Ricapito,Grace,cchavez@johnston-roberts.com,,2024,Honda,CR-V Hybrid,2HKRS6H57RH811461,4H1185,,FALSE,FALSE,FALSE
+4282,Lost,Internet,1,9/22/22 17:23,4/12/24 17:50,EDMUNDS TRADE IN,Leslie Herring,Vaz,Jessica Thompson,Pomales,L,nsmith@johnston-roberts.com,,1900,None,None,,,,FALSE,FALSE,FALSE
+4282,Lost,Internet,1,9/28/22 1:42,9/28/22 1:42,Cargurus,Leslie Herring,Vaz,Kelly Macias,Khalifa,,jacqueline32@gomez.org,jacqueline32@gomez.org,2022,Honda,Pilot Special Edtition,,,,FALSE,FALSE,FALSE
+4282,Lost,Phone,3,9/29/22 14:09,10/4/22 11:47,Service Drive,Jessica Thompson,Ferreira,Kristen Chambers,Wamala,,ellisashley@johnston-roberts.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Active,Phone,3,10/25/22 11:31,4/6/23 18:12,Service Drive,Leslie Herring,Vaz,Larry Stewart DDS,Espinal,Augusto,qbaker@gomez.org,qbaker@gomez.org,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,PreviousCustomer,10,11/10/22 20:44,4/9/24 22:26,Repeat Customer,Benjamin Shelton,Moronta,Bryan Edwards,Fifer,A,sydney84@johnston-roberts.com,,2020,Honda,Civic,2HGFC1F36LH682165,4H503-2,4/9/24 23:15,FALSE,FALSE,FALSE
+4282,Active,Phone,3,11/22/22 23:09,4/10/24 19:29,Service Drive,Benjamin Shelton,Moronta,Ryan Robbins,Bonilla,,lgriffin@moon.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,11/26/22 2:04,1/29/23 18:17,Repeat Customer,Michael Ellis,Genao,Lorraine Monroe,Valdez,Alberto,marcus16@estes.com,,2022,Honda,CR-V Hybrid,5J6RT6H86NL050560,3H223-1,1/29/23 19:03,FALSE,FALSE,FALSE
+4282,,,,11/28/22 21:48,,,Jessica Thompson,Ferreira,Natalie Pacheco,Kidarou,,marissa18@gomez.org,,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,12/4/22 20:59,12/4/22 20:59,Hds Program Lead - Check Availability,Emily Blair,Alhado,Michael Smith,Correia,Maria,smithkaitlyn@moon.com,,2019,Honda,CR-V,2HKRW2H54KH605050,3H130-1,12/8/22 17:39,FALSE,FALSE,FALSE
+4282,Lost,Phone,3,12/12/22 20:06,11/17/23 17:04,Service Drive,Leslie Herring,Vaz,Pamela Parks,Rosario,,,,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,12/17/22 19:43,12/17/22 19:43,Location,Frederick Harrell,Desrochers,Maxwell Smith,Guerrero,D,joshuakent@wyatt.com,,2020,Honda,HR-V,3CZRU6H33LM712740,3H104-1,12/17/22 20:39,FALSE,FALSE,FALSE
+4282,,,,12/23/22 21:00,,,Francisco Romero,Pena,Tyler Anderson,Ndungu,G,kristen43@gomez.org,,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,12/29/22 18:26,12/29/22 18:26,Atamian Honda Website,Jonathan Williams,Holder,Jennifer Griffin,Nguyen,,aparker@johnston-roberts.com,,2023,Honda,CR-V,2HKRS4H72PH410239,3H208,12/29/22 19:23,FALSE,FALSE,FALSE
+4282,,,,1/26/23 22:59,,,Francisco Romero,Pena,Laura Munoz,Ansari,,daniel12@johnston-roberts.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Lost,Walk-in,2,2/4/23 19:22,8/2/23 22:34,Repeat Customer,Francisco Romero,Pena,Dennis Bailey,Khillan,,jennaarnold@moon.com,,2020,Honda,Civic Sedan,2HGFC2F6XLH566757,3H789-1,,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,2/5/23 20:56,2/5/23 20:56,Location,Emily Blair,Alhado,David Davis,Nguyen,Trang,angelarowe@johnston-roberts.com,angelarowe@johnston-roberts.com,2023,Honda,CR-V,5J6RS4H77PL004527,3H318,2/5/23 21:54,FALSE,FALSE,FALSE
+4282,Sold,Phone,3,2/11/23 14:47,4/12/23 20:21,Service Drive,John Lamb,Perez,Scott Ward,Silva Flores,Marie,lsantiago@johnston-roberts.com,,2024,Honda,Passport,5FNYF8H68RB002439,4H555,12/19/23 18:53,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,2/13/23 16:59,2/13/23 16:59,Capital One Digital Retail-Contact Only,Francisco Romero,Pena,Jeffrey King,Rosado,Luis,nicole08@johnston-roberts.com,,2015,Acura,MDX,5FRYD4H45FB008142,2H1228S2,2/18/23 15:25,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,2/21/23 21:28,2/21/23 21:28,Dealer Inspire Credit App:Partial,Theresa Mays,Marinos,Emma Nelson,Figueroa,M,charles50@gomez.org,,2018,Honda,Civic,19XFC2F52JE203786,PG6096-1,3/10/23 18:30,FALSE,FALSE,FALSE
+4282,Active,Internet,1,3/3/23 21:59,4/9/24 13:47,Truecar/Lifecare,Elizabeth Houston,Lemus,Christopher Kramer,Sinuon,,lguerra@johnston-roberts.com,rachel44@johnston-roberts.com,2024,Honda,Civic Si,,,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,3/9/23 14:53,4/12/24 19:06,Cargurus,Leslie Herring,Vaz,Jeremy Sanchez DVM,Vicente,,sawyerbrandon@johnston-roberts.com,,2020,Honda,Civic Sedan,2HGFC2F63LH582413,4H886-1,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,3/18/23 6:22,5/2/24 3:08,EDMUNDS TRADE IN,Elizabeth Houston,Lemus,James Hancock,Doss,Et,nguyenerika@johnston-roberts.com,,1900,None,None,,,,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,3/25/23 14:51,3/25/23 14:51,Atamian Honda Website,Jonathan Williams,Holder,David Horton,Perrone,Rosario,xgarcia@faulkner-howard.com,,2023,Honda,Ridgeline,5FPYK3F86PB025192,3H363,3/25/23 18:01,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,4/4/23 21:25,4/4/23 21:25,Referral,Theresa Mays,Marinos,Katrina Johnson,Danas,Peter,hhall@faulkner-howard.com,,2023,Honda,Pilot,5FNYG1H74PB019832,3H526,4/4/23 23:25,FALSE,FALSE,FALSE
+4282,Active,Phone,3,4/8/23 14:37,4/12/24 20:39,Service Drive,Benjamin Shelton,Moronta,Kristina Baker,Waisnor,,brianscott@johnston-roberts.com,,2024,Honda,CR-V,2HKRS4H43RH477098,4H1157,,FALSE,FALSE,FALSE
+4282,Lost,Phone,3,4/10/23 16:41,4/9/24 23:00,Service Drive,Emily Blair,Alhado,Patricia Carpenter,Najera,Gloribel,cookbreanna@johnston-roberts.com,cookbreanna@johnston-roberts.com,2021,Honda,Pilot,5FNYF6H22MB040078,AZ6319,,FALSE,FALSE,FALSE
+4282,,,,4/12/23 19:17,,,Frederick Harrell,LeDuc,David Singh,Connors,,scottzimmerman@wyatt.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,4/19/23 18:24,4/19/23 18:24,Atamian Honda Website,Jeremy Wood,Torra,Janet Williams,Doyle,Patrick,jenniferwilson@johnston-roberts.com,,2020,Honda,Accord,1HGCV1F47LA077978,3H147-2,4/19/23 19:57,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,4/19/23 19:37,4/19/23 19:37,Location,Michael Ellis,Genao,Jason House,Hardy,Nicole,anthonyquinn@johnston-roberts.com,,2021,Honda,Passport,5FNYF8H26MB005264,3H529-1,4/19/23 21:26,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,4/21/23 10:23,4/21/23 10:23,BlackBookOnline,John Lamb,Perez,Kaitlin Gregory,Luise,J,edward39@wyatt.com,,2023,Honda,Accord Hybrid,1HGCY2F76PA027084,3H604,4/21/23 15:58,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,4/22/23 18:37,4/22/23 18:37,Atamian Honda Website,Frederick Harrell,LeDuc,Johnny White III,Kapustin,,wardemma@johnston-roberts.com,,2020,Honda,CR-V,2HKRW2H23LH666249,3H530-1,4/22/23 20:49,FALSE,FALSE,FALSE
+4282,Sold,Referral,9,4/29/23 16:52,4/29/23 16:52,Repeat Customer,Jessica Thompson,Ferreira,Nancy Sims,Reyes-Maldonado,Argeo,peterbrown@johnston-roberts.com,,2023,Honda,CR-V Hybrid,7FARS6H99PE008301,3H561S,4/29/23 18:02,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,5/7/23 0:12,5/7/23 0:12,Thirdparty Honda,Frederick Harrell,Desrochers,Melanie Garcia,Morales Rosario,,patricia20@johnston-roberts.com,,2023,Honda,Accord,1HGCY1F35PA027892,3H705,5/17/23 18:36,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,5/13/23 18:45,5/13/23 18:45,Location,Theresa Mays,Marinos,Joseph Martin,Villa-Gonzalez,,christianhernandez@moon.com,,2023,Honda,Civic,2HGFE2F51PH547540,3H713,5/13/23 19:52,FALSE,FALSE,FALSE
+4282,,,,5/24/23 14:47,,,Frederick Harrell,Desrochers,Donna Barnes,Paquin,,,,,,,,,,FALSE,FALSE,FALSE
+4282,,,,6/6/23 17:11,,,Frederick Harrell,Desrochers,Christopher York,Kinesella,,ricksmith@johnston-roberts.com,,,,,,,,FALSE,FALSE,FALSE
+4282,,,,6/6/23 17:16,,,Jerome Page,Matevosyan,Christine Harris DVM,Medugno,,max90@moon.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,PreviousCustomer,10,6/6/23 17:18,7/20/23 17:15,Service,Ronald Garcia,Calcano,Thomas Richardson,Santana,Gomes,matthew95@moon.com,,2023,Honda,Ridgeline,5FPYK3F53PB042313,3H839,7/20/23 20:09,FALSE,FALSE,FALSE
+4282,Lost,Phone,3,6/6/23 17:45,11/24/23 19:56,Service Drive,Leslie Herring,Vaz,Jason Ward,Darla,,lauren38@gomez.org,,,,,,,,FALSE,FALSE,FALSE
+4282,,,,6/13/23 17:51,,,Frederick Harrell,Desrochers,Gary Gill,Hadnot,,carolinecrosby@gomez.org,,,,,,,,FALSE,FALSE,FALSE
+4282,,,,6/21/23 14:01,,,John Lamb,Perez,Tom Olson,Zona,,floresbrandi@johnston-roberts.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,6/24/23 2:27,6/24/23 2:27,Hds Program Lead - Check Availability,Michael Ellis,Genao,William Bruce,Cogan,Joseph,jensenmichael@johnston-roberts.com,lbaker@johnston-roberts.com,2023,Honda,Odyssey,5FNRL6H64PB076116,3H948,8/2/23 20:16,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,6/26/23 21:34,6/26/23 21:34,Truecar/Liberty Mutual,Frederick Harrell,Desrochers,Isaac Stewart,Wundee,,melissa25@lopez.com,,2020,Honda,CR-V,2HKRW2H29LH618447,3H598S-1,6/27/23 22:23,FALSE,FALSE,FALSE
+4282,,,,7/10/23 18:35,,,Jerome Page,Matevosyan,Brad Hogan,Greer,,,,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,7/16/23 21:51,11/10/23 16:03,Location,Jessica Thompson,Ferreira,Matthew Weiss,Cross,,mrasmussen@johnston-roberts.com,,2017,Honda,CR-V,2HKRW2H56HH684715,4H339S-1,11/10/23 17:29,TRUE,FALSE,FALSE
+4282,,,,7/25/23 13:55,,,Norma Fisher,Ramey,Mariah Smith DDS,Carambot,,brandiriddle@johnston-roberts.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,8/1/23 16:20,8/1/23 16:20,Google Page,Jessica Thompson,Ferreira,Robert Warner,Chhoeun,Vanh,diazanthony@johnston-roberts.com,,2023,Honda,Accord Hybrid,1HGCY2F51PA054627,3H933,8/1/23 17:53,FALSE,FALSE,FALSE
+4282,Active,Phone,3,8/2/23 14:53,4/10/24 22:47,Repeat Customer,Michael Ellis,Genao,Thomas Stokes,Richardson,Lamere,randallwendy@moreno.com,,2021,Honda,Civic Sedan,2HGFC2F69MH542984,4H904-1,,FALSE,FALSE,FALSE
+4282,,,,8/11/23 16:48,,,Ronald Garcia,Calcano,Kaitlin Gregory,Carlson,,colleen36@johnston-roberts.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,8/11/23 17:17,4/12/24 15:22,Cargurus,Leslie Herring,Vaz,Michael Perez,McGuinness,,,,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,8/20/23 20:08,8/20/23 20:08,Google Page,Ronald Garcia,Calcano,Elizabeth Houston,Williams,Danielle,frandall@moreno.com,zmcgrath@gomez.org,2024,Honda,CR-V Hybrid,5J6RS6H81RL006118,4H143,8/21/23 22:43,FALSE,FALSE,FALSE
+4282,Active,Internet,1,8/21/23 2:44,3/6/24 20:23,EDMUNDS TRADE IN,Leslie Herring,Vaz,Christopher Huffman,Cardoso,Pacheco,david97@johnston-roberts.com,,1900,None,None,,,,FALSE,FALSE,FALSE
+4282,Sold,Phone,3,9/2/23 12:03,9/2/23 12:03,Referral,Michael Ellis,Genao,Joyce Allen,Rivera-Cruz,,barbaraprice@johnston-roberts.com,,2017,Honda,HR-V,3CZRU6H38HM729735,4H023-1,9/2/23 15:21,FALSE,FALSE,FALSE
+4282,,,,9/5/23 17:37,,,Francisco Romero,Pena,Dawn Finley,Speel,,ukramer@johnston-roberts.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,9/10/23 3:56,2/27/24 19:32,Truecar/Truecar For Intuit Credit Karma Members,Michael Ellis,Genao,Gregory Campos,Pereyra,Elvira,ashley07@johnston-roberts.com,,2019,Honda,CR-V,2HKRW2H8XKH622784,CV6290,2/27/24 23:54,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,9/13/23 2:08,4/6/24 21:08,Repeat Customer,John Lamb,Perez,Matthew Mcneil,Reyna,A,trevor32@johnston-roberts.com,,2024,Honda,CR-V,2HKRS4H77RH477437,4H1156,4/6/24 22:37,FALSE,FALSE,FALSE
+4282,Active,Phone,3,9/15/23 0:24,4/18/24 23:23,Service Drive,Ronald Garcia,Calcano,Denise Brooks,Rivera Ramos,German,cindy30@johnston-roberts.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,9/30/23 0:45,9/30/23 0:45,Honda Website,Norma Fisher,Ramey,Robert Hughes,Chaulagain,,jennifer98@gomez.org,,2024,Honda,CR-V Hybrid,5J6RS6H52RL009552,4H254S,10/2/23 21:06,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,10/8/23 20:37,10/8/23 20:37,Location,Michael Ellis,Genao,Calvin Huerta,Pereira,,rward@johnston-roberts.com,,2024,Honda,CR-V Hybrid,5J6RS6H88RL012403,4H276,10/8/23 21:40,FALSE,FALSE,FALSE
+4282,Active,Internet,1,10/11/23 18:32,4/1/24 17:46,Capital One,Heather Welch,Buonopane,William Jones,Pieu,,karenwalton@johnston-roberts.com,tsampson@moreno.com,2024,Honda,Civic Sedan,2HGFE2F56RH563364,4H1115,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,10/17/23 18:06,4/11/24 11:22,Thirdparty Honda -,Leslie Herring,Vaz,Wayne Vasquez,Patel,Mohanbhai,harrischristina@gomez.org,larry03@johnston-roberts.com,2024,Honda,CR-V Hybrid,,,,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,11/1/23 22:46,11/1/23 22:46,Google Page,Francisco Romero,Pena,Andrew Stout,Amero,R,bsandoval@salazar-marsh.com,,2024,Honda,CR-V Hybrid,5J6RS6H59RL016076,4H369S,11/1/23 23:10,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,11/7/23 20:59,11/7/23 20:59,Truecar/Beneplace,Theresa Mays,Marinos,Robert Roberts,Bhat,,lauramurray@green-mckinney.org,,2024,Honda,CR-V Hybrid,5J6RS6H89RL013883,4H340S,11/11/23 21:19,FALSE,FALSE,FALSE
+4282,Active,Walk-in,2,11/8/23 13:38,4/9/24 19:49,Location,Frederick Harrell,Desrochers,Christina White,Colon,,vjohnson@moon.com,,2020,Honda,Civic Sedan,2HGFC2F84LH533285,AZ6367,,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,11/24/23 20:13,11/24/23 19:40,Repeat Customer,Theresa Mays,Marinos,Joseph Vaughn,Torres Montalvo,David,rgarcia@gomez.org,,2022,Honda,Accord,1HGCV1F35NA085877,3H1030S1,11/25/23 15:38,FALSE,FALSE,FALSE
+4282,Lost,Phone,3,11/25/23 14:24,11/25/23 14:24,Repeat Customer,Jerome Page,Matevosyan,Paul Parker,Correa,,michaelmarks@johnston-roberts.com,,2024,Honda,Civic Type R,,,,FALSE,FALSE,FALSE
+4282,Lost,Internet,1,11/25/23 23:14,11/25/23 23:14,Thirdparty Honda,Elizabeth Houston,Lemus,Tyler Anderson,Leak,,brianmartinez@johnston-roberts.com,,2024,Honda,HR-V,,,,FALSE,TRUE,FALSE
+4282,,,,11/29/23 18:35,,,Benjamin Shelton,Moronta,Laura Campbell,Hill,,ramirezshirley@johnston-roberts.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,12/5/23 22:11,12/5/23 22:11,Location,Francisco Romero,Pena,Jason Cook,Jocelyn,,melissa88@johnston-roberts.com,,2024,Honda,CR-V,2HKRS4H78RH443099,4H420S,12/5/23 22:56,FALSE,FALSE,FALSE
+4282,Sold,Phone,3,12/11/23 22:00,12/11/23 22:00,Location,Francisco Romero,Pena,David Savage Jr.,Bastos Lopes,Cristine,johnsonjessica@moon.com,,2024,Honda,HR-V,3CZRZ2H50RM743822,4H460S,1/1/24 22:19,FALSE,FALSE,FALSE
+4282,Active,Internet,1,12/20/23 14:08,4/9/24 8:59,"Carfax, Inc",Elizabeth Houston,Lemus,Rebecca Wu,Trinidad,,davidhenderson@lopez.com,,2016,Hyundai,Sonata,5NPE24AAXGH434258,4H1107-1,,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,12/23/23 14:18,12/23/23 14:18,Truecar/Abenity,Francisco Romero,Pena,Leslie Brennan,Paulino,,pamela20@johnston-roberts.com,,2024,Honda,Accord,1HGCY1F32RA021597,4H552,1/4/24 16:48,FALSE,FALSE,FALSE
+4282,,,,12/27/23 16:54,,,Jonathan Williams,Holder,James Diaz,Quirbach,,watsonmatthew@johnston-roberts.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,1/8/24 21:39,1/8/24 21:39,Cargurus,Benjamin Shelton,Moronta,Katrina Johnson,Hodgdon,Joseph,tryan@johnston-roberts.com,,2024,Honda,Civic,2HGFE2F58RH568453,4H1051S,4/13/24 19:34,FALSE,FALSE,FALSE
+4282,Sold,PreviousCustomer,10,1/20/24 15:22,1/19/24 21:29,Repeat Customer,Benjamin Shelton,Moronta,Joseph Vaughn,Kaplan,Arthur,garciaangela@gomez.org,marcuspeters@wyatt.com,2021,Honda,CR-V,2HKRW2H59MH619965,4H577-1,1/20/24 17:06,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,1/21/24 20:10,1/21/24 20:10,Location,Francisco Romero,Pena,Chase Johnson,Chaves,S,blakelam@moon.com,,2020,Honda,Civic,2HGFC2F65LH596653,4H279-1,1/21/24 22:35,FALSE,FALSE,FALSE
+4282,,,,1/29/24 3:56,,,Jessica Thompson,Ferreira,Mallory Clark,RAMIREZ ACEVEDO,,phudson@johnston-roberts.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,PreviousCustomer,10,1/31/24 15:57,1/31/24 15:57,Repeat Customer,Benjamin Shelton,Moronta,Daniel Davis,Hulsoor,James,joshuaglass@faulkner-howard.com,joshuaglass@faulkner-howard.com,2024,Honda,Accord,1HGCY1F3XRA031908,4H694,1/31/24 17:03,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,2/15/24 2:27,2/15/24 2:27,Capital One,Michael Ellis,Genao,Carolyn Durham,Rosa,Marie,ngraham@johnston-roberts.com,,2024,Honda,Civic,2HGFE1F96RH301101,4H534S1,2/18/24 22:07,FALSE,FALSE,FALSE
+4282,Bad,Internet,1,3/19/24 19:47,4/10/24 1:57,EDMUNDS TRADE IN,Leslie Herring,Vaz,Joseph Barnes,Genas,,susangarcia@moon.com,,1900,None,None,,,,FALSE,FALSE,FALSE
+4282,Sold,Phone,3,3/24/24 19:03,3/24/24 19:03,Atamian Honda Website,Benjamin Shelton,Moronta,Chloe Arellano,Resendez Perez,,melissa54@estes.com,,2024,Honda,Civic,19XFL2H89RE021148,4H1031,3/24/24 21:15,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,3/28/24 20:17,3/28/24 21:19,Podium - Webchat,Emily Blair,Alhado,Kathleen Lewis,Lebel,Marie,knightdonna@moreno.com,,2021,Honda,CR-V,5J6RW2H25ML018015,4H585-1,3/28/24 23:24,FALSE,FALSE,FALSE
+4282,Active,Phone,3,3/30/24 13:29,4/11/24 23:53,Service Drive,Anthony Ruiz,Perez,Frederick Harrell,Scott,,juliewarren@wyatt.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,3/30/24 15:43,3/30/24 15:43,Cargurus,Elizabeth Houston,Lemus,Nathan Kim,Haapanen,,ryan10@johnston-roberts.com,,2024,Honda,Accord Sedan,1HGCY1F35RA000596,4H720L-1,,FALSE,FALSE,FALSE
+4282,Lost,Internet,1,4/1/24 15:32,4/1/24 15:32,Cargurus,Heather Welch,Buonopane,Holly Stuart,Jules,,dennis73@company.com,,2017,Honda,Accord Sedan,1HGCR2F3XHA199954,4H568-3,,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,4/1/24 18:04,4/1/24 18:04,Location,Benjamin Shelton,Moronta,Rachel Lee,Santos Soto,Odalis,stephen10@johnston-roberts.com,,2021,Honda,CR-V,2HKRW2H83MH634505,AZ6342,4/1/24 19:52,FALSE,FALSE,FALSE
+4282,,,,4/5/24 13:48,,,Benjamin Shelton,Moronta,Donald Harris,Lapore,,robertsdonna@moon.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Lost,Internet,1,4/5/24 21:31,4/5/24 21:31,Cargurus - Digital Deal,Leslie Herring,Vaz,Thomas Jenkins,Shannon,,kimberlywatkins@johnston-roberts.com,,2016,Honda,Pilot,5FNYF6H03GB123652,4H1122-1,,FALSE,FALSE,FALSE
+4282,Lost,Walk-in,2,4/6/24 15:52,4/6/24 15:52,Location,Theresa Mays,Marinos,Charles Davis,Kawalski,Michael,shaun33@johnston-roberts.com,,2024,Honda,CR-V Hybrid,2HKRS6H9XRH809433,4H843S,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/6/24 16:11,4/6/24 16:11,EDMUNDS TRADE IN,Frederick Harrell,LeDuc,Heather Welch,Stovesand,,smithmark@johnston-roberts.com,larrywilson@faulkner-howard.com,2024,Honda,HR-V,3CZRZ2H70RM766809,4H944,,FALSE,FALSE,FALSE
+4282,Sold,Phone,3,4/6/24 19:33,4/12/24 21:14,Atamian Honda Website,Theresa Mays,Marinos,James Ford,Kalahasti,Kaushik,jacob09@moreno.com,,2024,Honda,CR-V,2HKRS4H77RH478135,4H1172,4/12/24 22:31,FALSE,FALSE,FALSE
+4282,Bad,Internet,1,4/7/24 7:40,4/7/24 7:40,EDMUNDS TRADE IN,Anthony Ruiz,Perez,Gary Howell,Q,,allenkristin@wyatt.com,,1900,None,None,,,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/7/24 8:22,4/7/24 8:22,"Carfax, Inc",Leslie Herring,Vaz,Amy Myers,Nguyen,,rebeccawalker@moreno.com,,2018,Mercedes-Benz,CLA,WDDSJ4GB0JN696633,4H634-1,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/7/24 12:17,4/7/24 12:17,Cargurus,Ronald Garcia,Calcano,Andrew Hudson,Okur,,jwoods@johnston-roberts.com,rogerwright@johnston-roberts.com,2022,Acura,MDX,5J8YE1H37NL028006,AZ6364,,FALSE,FALSE,FALSE
+4282,,,,4/7/24 16:32,,,Norma Fisher,Ramey,Anne Thompson,Patterson,J,curtis73@gomez.org,carriecollier@alvarez.info,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,4/7/24 16:34,4/20/24 16:23,Repeat Customer,Norma Fisher,Ramey,Anne Thompson,Patterson,J,curtis73@gomez.org,carriecollier@alvarez.info,2021,Honda,Civic Sedan,2HGFC2F62MH517957,4H1134-1,4/20/24 17:55,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,4/7/24 17:05,4/7/24 17:05,Location,Jessica Thompson,Ferreira,Daniel Robertson,Giroux,Margaret,qbell@estes.com,,2022,Honda,HR-V,3CZRU6H56NM727060,AZ6348,4/7/24 17:49,FALSE,FALSE,FALSE
+4282,Active,Walk-in,2,4/7/24 17:23,4/7/24 17:23,Repeat Customer,Frederick Harrell,LeDuc,Michael Moore,Walsh,,ujackson@gomez.org,,2021,Honda,CR-V,2HKRW2H2XMH626638,AZ6315,,FALSE,TRUE,FALSE
+4282,Active,Internet,1,4/7/24 17:24,4/7/24 17:24,BLACKBOOK -,Anthony Ruiz,Perez,Katherine Yates,Gately,,evelyn94@johnston-roberts.com,,2024,Honda,HR-V,,,,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,4/7/24 17:26,4/7/24 17:26,Podium - Webchat,Benjamin Shelton,Moronta,Jeremy Costa,Zayed,,,,2024,Honda,CR-V Hybrid,5J6RS6H5XRL030665,4H968SS,4/20/24 19:48,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/7/24 17:43,4/7/24 17:43,Podium - Webchat,Leslie Herring,Vaz,Jennifer Roberts,Zona,,,,2023,HONDA,Ridgeline,,,,FALSE,FALSE,FALSE
+4282,Active,Walk-in,2,4/7/24 17:58,4/7/24 17:58,Location,Emily Blair,Alhado,Isaac Johnson,Kutz,M,,,2021,Jeep,Cherokee,1C4PJMDX6MD140143,AZ6368,,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,4/7/24 18:14,4/7/24 18:14,Dealer Inspire Credit App:Partial,Frederick Harrell,LeDuc,Nicole Armstrong,Pereira,Vincent-Aurther,currybrian@johnston-roberts.com,,2024,Honda,Civic,19XFL2H8XRE017092,4H825,4/7/24 21:21,FALSE,FALSE,FALSE
+4282,Active,Walk-in,2,4/7/24 18:21,4/7/24 18:21,Location,Jessica Thompson,Ferreira,Kelly Peters,Nguyen,Dang,shawn08@johnston-roberts.com,,2024,Honda,Accord Sedan,1HGCY1F27RA039228,4H907,,FALSE,FALSE,FALSE
+4282,Bad,Phone,3,4/7/24 18:23,4/7/24 19:15,Repeat Customer,Jonathan Williams,Holder,Jason Pope,Shannon,Niall,mcbridebradley@johnston-roberts.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/7/24 18:24,4/7/24 18:24,EDMUNDS TRADE IN,Anthony Ruiz,Perez,Robert Hubbard,Lane,,oliverjulie@johnston-roberts.com,,1900,None,None,,,,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,4/7/24 18:25,4/7/24 18:23,Location,Jonathan Williams,Holder,Mark Mccoy,Shannon,,lewisbianca@johnston-roberts.com,,2021,Honda,Civic Type R,SHHFK8G73MU204092,4H801-1,4/8/24 14:45,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,4/7/24 18:33,4/7/24 18:33,Repeat Customer,Frederick Harrell,LeDuc,Ashlee White,Teng,,angelahall@estes.com,,2025,Honda,Pilot,5FNYG1H41SB003750,5H006,4/7/24 19:47,FALSE,TRUE,FALSE
+4282,Lost,Phone,3,4/7/24 19:11,4/7/24 19:11,Atamian Honda Website,Leslie Herring,Vaz,Suzanne Ross,Patel,,,,,,,,,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/7/24 19:17,4/7/24 19:18,Thirdparty Honda -,Anthony Ruiz,Perez,Henry Myers,Rooney,,boydtony@moreno.com,,2024,Honda,Accord,,,,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,4/7/24 19:35,4/7/24 19:35,Atamian Honda Website,Emily Blair,Alhado,Darryl Long,Miller,David,ojones@johnston-roberts.com,,2020,Honda,Pilot,5FNYF6H55LB062133,CV6377,4/7/24 20:47,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/7/24 19:47,4/7/24 19:47,Truecar/Truecar,Leslie Herring,Vaz,Yvette Moore,Hy,,mfisher@johnston-roberts.com,,2024,Honda,Civic Si,2HGFE1E51RH474362,4H1136,,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,4/7/24 20:02,4/7/24 20:02,Location,Jessica Thompson,Ferreira,Kirsten Tran,Gallo,Ep,fmoore@moon.com,,2022,Honda,CR-V Hybrid,5J6RT6H91NL051396,4H1075-1,4/11/24 14:48,FALSE,FALSE,FALSE
+4282,Sold,Referral,9,4/7/24 21:05,4/7/24 21:05,Referral,Theresa Mays,Marinos,Rhonda Williams,Baez Troncoso,Lee,paul77@johnston-roberts.com,,2024,Honda,CR-V,2HKRS4H77RH475185,4H999S,4/7/24 21:28,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/7/24 22:11,4/7/24 22:11,Dealer Inspire - Website,Norma Fisher,Ramey,Paul Phillips,Casas,,orivera@moreno.com,,2020,Honda,CR-V,2HKRW2H84LH683422,4H855-1,,FALSE,TRUE,FALSE
+4282,Active,Phone,3,4/7/24 22:27,4/8/24 21:56,Service Drive,Ronald Garcia,Calcano,Crystal Brown,Beuvelet,Antoine,matthewpetersen@johnston-roberts.com,,2024,Honda,Civic Hatchback,19XFL2H51RE022803,4H1111,,FALSE,FALSE,FALSE
+4282,,,,4/7/24 22:40,,,Jerome Page,Matevosyan,Cynthia Dixon,Maria Tejeda,,kelly65@johnston-roberts.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Lost,Internet,1,4/7/24 23:43,4/7/24 23:43,EDMUNDS TRADE IN,Heather Welch,Buonopane,Victoria Greer,Radden,,turnerjames@johnston-roberts.com,,1900,None,None,,,,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,4/8/24 0:01,4/8/24 0:01,Hds Program Lead - Get E-Price,John Lamb,Perez,Tommy Martin,Rajendran,,robertmarshall@johnston-roberts.com,,2024,Honda,CR-V Hybrid,2HKRS6H89RH806658,4H925,4/9/24 18:56,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/8/24 1:12,4/8/24 1:12,Cargurus Pre-Qualified,Heather Welch,Buonopane,Denise Mays,Kemp,,lroy@johnston-roberts.com,lroy@johnston-roberts.com,2021,Dodge,Challenger,2C3CDZFJ2MH529994,AZ6362,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/8/24 4:50,4/8/24 4:50,EDMUNDS TRADE IN,Anthony Ruiz,Perez,Frederick Harrell,K,,ggonzales@moreno.com,,1900,None,None,,,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/8/24 11:18,4/8/24 11:18,"Carfax, Inc",Heather Welch,Buonopane,Regina Crawford,Devitto,,daniellemorton@moreno.com,,2014,Jeep,Cherokee,1C4PJMDS7EW191581,4H1078S1,,FALSE,FALSE,FALSE
+4282,Bad,Internet,1,4/8/24 12:00,4/8/24 12:00,Edmunds,Heather Welch,Buonopane,Katherine Yates,Demers,L,joseph66@johnston-roberts.com,,2022,Honda,Odyssey,5FNRL6H5XNB002994,4H941-1,,FALSE,FALSE,FALSE
+4282,,,,4/8/24 13:02,,,Theresa Mays,Marinos,Larry Buchanan,Avienika,,,,,,,,,,FALSE,FALSE,FALSE
+4282,,,,4/8/24 13:21,,,Benjamin Shelton,Moronta,Michael Murphy,Corbin,,bcoleman@stark.org,,,,,,,,FALSE,FALSE,FALSE
+4282,,,,4/8/24 13:43,,,Benjamin Shelton,Moronta,Scott Campbell,Som,,,,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,Phone,3,4/8/24 13:55,4/8/24 13:55,Edmunds,Francisco Romero,Pena,Jamie Adams,Aseltine,,,,2022,Honda,Odyssey,5FNRL6H5XNB002994,4H941-1,4/8/24 21:57,FALSE,FALSE,FALSE
+4282,,,,4/8/24 14:24,,,Benjamin Shelton,Moronta,Frederick Harrell,Wanamaker,,,,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,4/8/24 14:25,4/10/24 17:05,Referral,Michael Ellis,Genao,Tristan Garza,Lubin,,johnsonsusan@johnston-roberts.com,,2024,Honda,CR-V Hybrid,2HKRS6H88RH808983,4H1074,4/11/24 17:32,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/8/24 14:34,4/8/24 14:34,Cargurus,Anthony Ruiz,Perez,James Woodard,Cerullo,,frankvillarreal@johnston-roberts.com,,2025,Honda,Pilot,5FNYG1H38SB002313,5H004,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/8/24 15:39,4/8/24 15:39,Truecar/Lifecare,Anthony Ruiz,Perez,Charles Carter,Loomis,,johnsmith@wright-jones.com,,2021,Honda,Pilot,5FNYF6H23MB015982,LB6387,,FALSE,FALSE,FALSE
+4282,Bad,Internet,1,4/8/24 15:43,4/8/24 15:43,EDMUNDS TRADE IN,Heather Welch,Buonopane,Jessica Turner,Doe,,jameslindsey@johnston-roberts.com,,1900,None,None,,,,FALSE,FALSE,FALSE
+4282,Bad,Walk-in,2,4/8/24 16:29,4/8/24 16:29,Repeat Customer,Benjamin Shelton,Moronta,Lisa Mullen,Fernandez Galarza,A,benjaminvaldez@johnston-roberts.com,,2021,Honda,CR-V,2HKRW2H85MH628088,4H1063-1,,FALSE,FALSE,FALSE
+4282,,,,4/8/24 16:44,,,Jerome Page,Matevosyan,James Davis,Sanchez,,,,,,,,,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/8/24 17:03,4/8/24 17:03,"Carfax, Inc",Anthony Ruiz,Perez,Allison Gregory,Ventre,,ole@faulkner-howard.com,,2021,Honda,CR-V,7FARW2H59ME010622,4H731-1,,FALSE,FALSE,FALSE
+4282,Lost,Internet,1,4/8/24 18:24,4/8/24 18:24,"Carfax, Inc",Leslie Herring,Vaz,James Reynolds,Mower,,kbenjamin@johnston-roberts.com,,2016,Honda,Civic Sedan,2HGFC2F52GH572274,AZ6363,,FALSE,FALSE,FALSE
+4282,Lost,Internet,1,4/8/24 18:49,4/8/24 18:49,Cargurus,Leslie Herring,Vaz,Lynn Dalton,Chalke,,millscourtney@johnston-roberts.com,,2019,Nissan,Altima,1N4BL4DV6KC119675,4H1040-1,,FALSE,TRUE,FALSE
+4282,,,,4/8/24 19:22,,,Theresa Mays,Marinos,Morgan Hansen,Im,,,,,,,,,,FALSE,FALSE,FALSE
+4282,Lost,Internet,1,4/8/24 19:32,4/8/24 19:32,Truecar/Autoweb,Heather Welch,Buonopane,Donald Mclaughlin,Siipola,,floresemily@johnston-roberts.com,,2023,Nissan,Murano,5N1AZ2BSXPC141070,AZ6293,,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,4/8/24 19:49,4/8/24 19:49,Referral,John Lamb,Perez,Brandon Mccarthy,Victoria Medrano,,danielfrank@johnston-roberts.com,,2024,Honda,CR-V,2HKRS4H72RH456754,4H1127S,4/8/24 20:15,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,4/8/24 19:56,4/8/24 19:56,Location,Jessica Thompson,Ferreira,David Strong,Pita,,marquezgregory@johnston-roberts.com,,2024,Honda,Accord,1HGCY1F35RA043061,4H953,4/8/24 20:43,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/8/24 20:10,4/8/24 20:10,Edmunds,Anthony Ruiz,Perez,Debbie Trujillo,Rest,,russellmarquez@johnston-roberts.com,,2023,Honda,HR-V,,,,FALSE,FALSE,FALSE
+4282,Active,Phone,3,4/8/24 20:57,4/8/24 20:57,Location,Frederick Harrell,LeDuc,Nicole Moore,Leonard,,,,2021,Kia,Soul,KNDJ23AU8M7767867,AZ6375,,FALSE,FALSE,FALSE
+4282,Active,Phone,3,4/8/24 21:35,4/12/24 21:47,Service Drive,Leslie Herring,Vaz,Patricia Dennis,Perea,,,,,,,,,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/8/24 21:37,4/8/24 16:54,Dealer Inspire Credit App,Norma Fisher,Ramey,Caroline Clark,Concepcion,,cassie89@johnston-roberts.com,,2021,Honda,CR-V,2HKRW2H50MH658301,4H1106-1,,FALSE,FALSE,FALSE
+4282,Lost,Internet,1,4/8/24 21:38,9/18/21 1:47,Blackbook,Benjamin Shelton,Moronta,David Armstrong,Gallegeo,,,,2021,Honda,Civic,,,,FALSE,TRUE,FALSE
+4282,Lost,Internet,1,4/8/24 21:39,2/17/24 2:39,EDMUNDS TRADE IN,Leslie Herring,Vaz,Patrick Johnson,Reuter,A,ballheather@johnston-roberts.com,,1900,None,None,,,,FALSE,FALSE,FALSE
+4282,Active,Walk-in,2,4/8/24 21:40,4/8/24 15:58,Atamian Website Sales,Frederick Harrell,Desrochers,Nicole Burnett,Santos,D,ucain@johnston-roberts.com,,2024,Honda,HR-V,3CZRZ2H3XRM761100,4H839,,FALSE,FALSE,FALSE
+4282,Lost,Internet,1,4/8/24 21:40,4/8/24 15:28,Truecar/U.S. News,Heather Welch,Buonopane,Kathleen Saunders,Garian,,joshua55@gomez.org,,2024,Honda,HR-V,,,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/8/24 21:41,4/8/24 21:41,Truecar/Benefithub,Leslie Herring,Vaz,John Smith,Jr,,carlalexander@wyatt.com,,2024,Honda,Civic,,,,FALSE,TRUE,FALSE
+4282,Active,Internet,1,4/8/24 23:18,4/8/24 23:18,Honda Dealer Assoc Ahm -,Leslie Herring,Vaz,Nicholas Archer,G,,matthewrobinson@johnston-roberts.com,,2024,Honda,CR-V,,,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/8/24 23:43,4/8/24 23:43,"Carfax, Inc",Leslie Herring,Vaz,Sydney Nelson,Morales,,jennifer54@johnston-roberts.com,,2011,Honda,CR-V,JHLRE4H56BC011928,4H1006-2,,FALSE,FALSE,FALSE
+4282,,,,4/9/24 0:09,,,Theresa Mays,Marinos,Kelly Haynes,Shimeni,,stonepatricia@johnston-roberts.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,4/9/24 11:49,4/9/24 11:49,Truecar/U.S. News,Frederick Harrell,Desrochers,Matthew Stanley,Powell,Lee,johnstonjennifer@gomez.org,,2024,Honda,CR-V,2HKRS4H79RH478590,4H1177,4/13/24 19:40,FALSE,TRUE,FALSE
+4282,,,,4/9/24 12:17,,,Jerome Page,Matevosyan,Benjamin Garcia,Monasperro,,,,,,,,,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/9/24 12:31,4/9/24 12:31,Atamian Honda Website,Suzanne Thomas,Espinosa,Laura Myers,Anjiankeng,,,,2022,Hyundai,Santa Fe,5NMS4DAL6NH388422,AZ6311,,FALSE,FALSE,FALSE
+4282,,,,4/9/24 13:07,,,Benjamin Shelton,Moronta,Mark Reyes,Chea,,rickyhoffman@johnston-roberts.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Bad,Internet,1,4/9/24 13:22,4/9/24 13:22,Cargurus - Appt - Digital Deal,Elizabeth Houston,Lemus,Jeffery Campbell,Leadworkflow,,robin93@dickson.info,,2020,Ram,1500,1C6RRFFG1LN403164,4H803-1,,FALSE,FALSE,FALSE
+4282,,,,4/9/24 14:29,,,Theresa Mays,Marinos,Rebecca Hopkins,Rodriguez,,,,,,,,,,FALSE,FALSE,FALSE
+4282,Active,Walk-in,2,4/9/24 15:05,4/9/24 15:05,Location,Michael Ellis,Genao,Mark Mccoy,Hilario Rodriguez,,whitakersean@johnston-roberts.com,,2023,Honda,Civic Sedan,2HGFE2F53PH519965,4H831-1,,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,4/9/24 15:15,4/9/24 15:15,Hds Program Lead - Get E-Price,Michael Ellis,Genao,Victor Serrano,Hudson,Anthony,itaylor@faulkner-howard.com,josephpalmer@ball.net,2024,Honda,Civic,19XFL2H51RE015902,4H903S,4/16/24 21:49,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/9/24 15:56,4/9/24 15:56,"Carfax, Inc",Anthony Ruiz,Perez,Pamela Parks,Routhier,,patrick03@estes.com,,2011,Honda,CR-V,JHLRE4H56BC011928,4H1006-2,,FALSE,FALSE,FALSE
+4282,Lost,Internet,1,4/9/24 16:00,4/9/24 16:00,EDMUNDS TRADE IN,Elizabeth Houston,Lemus,Erin Olson,Martinez,,marissa74@johnston-roberts.com,,1900,None,None,,,,FALSE,FALSE,FALSE
+4282,,,,4/9/24 16:13,,,Jerome Page,Matevosyan,Jeffrey Pierce,Ortiz,,schwartzerica@johnston-roberts.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/9/24 16:16,4/9/24 16:16,Thirdparty Honda -,Anthony Ruiz,Perez,Brittney Thompson,Dejesus,,robert46@johnston-roberts.com,,2024,Honda,Civic Type R,,,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/9/24 16:35,4/9/24 16:35,Honda Website -,Leslie Herring,Vaz,Katrina Johnson,John,,ariana15@johnston-roberts.com,,2024,Honda,Accord,,,,FALSE,TRUE,FALSE
+4282,Sold,Internet,1,4/9/24 16:54,4/9/24 16:54,EDMUNDS TRADE IN,Francisco Romero,Pena,Andrew Long,Pena,Millennia,mramirez@gomez.org,,2024,Honda,Civic,19XFL2H83RE024501,4H780S,4/12/24 22:08,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/9/24 20:42,4/9/24 20:42,"Carfax, Inc",Elizabeth Houston,Lemus,Larry Fuller,Meggs,,nmueller@espinoza.com,,2021,Honda,CR-V,2HKRW2H2XMH626638,AZ6315,,FALSE,FALSE,FALSE
+4282,,,,4/9/24 21:02,,,Benjamin Shelton,Moronta,Sean Hayes,Gupta,,,,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,4/9/24 21:03,4/9/24 21:03,Location,Emily Blair,Alhado,Kaitlin Gregory,Dumont,,,,2024,Honda,Civic,2HGFE2F50RH566972,4H1130,4/9/24 22:19,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/9/24 21:08,4/9/24 21:08,"Carfax, Inc",Anthony Ruiz,Perez,Kristen Stone,Ghee,,millerjesse@johnston-roberts.com,,2024,Honda,Ridgeline,5FPYK3F54RB009159,4H1080,,FALSE,FALSE,FALSE
+4282,Lost,Walk-in,2,4/9/24 21:16,4/9/24 21:16,Location,Benjamin Shelton,Moronta,Mark Johnson,Bukirwa,,jennifer40@johnston-roberts.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/9/24 21:50,4/9/24 21:50,Hds Program Lead - Get E-Price,Leslie Herring,Vaz,Nicole Carter,Shea,,wademichael@harris.com,,2024,Honda,Civic Sedan,2HGFE2F58RH524971,4H541,,FALSE,FALSE,FALSE
+4282,Active,Walk-in,2,4/9/24 22:14,4/9/24 22:14,Google Page,Benjamin Shelton,Moronta,Amanda Garcia,Herner,Ann,tmathews@johnston-roberts.com,,2021,Honda,CR-V,7FARW2H59ME010622,4H731-1,,FALSE,TRUE,FALSE
+4282,Lost,Internet,1,4/9/24 23:48,4/9/24 23:48,"Carfax, Inc",Anthony Ruiz,Perez,Kaitlin Gregory,Deacetis,,joy01@johnston-roberts.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/10/24 0:33,4/10/24 0:33,Truecar/Passport Unlimited,Theresa Mays,Marinos,Lindsey Savage,Kumar,,jharris@johnston-roberts.com,,2024,Honda,Accord Hybrid,1HGCY2F89RA052329,4H1144,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/10/24 1:05,4/10/24 1:05,Dealer Inspire - Website,Anthony Ruiz,Perez,Jennifer Kennedy,Shaikh Jnaid,,ericsmith@johnston-roberts.com,,2020,Honda,Civic Sedan,2HGFC2F84LH533285,AZ6367,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/10/24 11:47,4/10/24 11:47,Podium - Webchat,Leslie Herring,Vaz,Scott Garrett,Nguyen,,stephanie21@johnston-roberts.com,,2016,Honda,Civic Sedan,2HGFC2F52GH572274,AZ6363,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/10/24 12:45,4/10/24 12:45,Cargurus,Leslie Herring,Vaz,Tracey Peterson,Ignace,,jenniferbyrd@johnston-roberts.com,,2021,Honda,CR-V,2HKRW2H2XMH626638,AZ6315,,FALSE,FALSE,FALSE
+4282,Lost,Internet,1,4/10/24 13:13,4/10/24 13:13,"Carfax, Inc",Elizabeth Houston,Lemus,Ashley Sandoval,Desisto,,qwilliams@johnston-roberts.com,,2018,Mercedes-Benz,CLA,WDDSJ4GB0JN696633,4H634-1,,FALSE,FALSE,FALSE
+4282,,,,4/10/24 13:21,,,Benjamin Shelton,Moronta,Kimberly Richard,Haji-Avedikian,,,,,,,,,,FALSE,FALSE,FALSE
+4282,,,,4/10/24 14:35,,,Benjamin Shelton,Moronta,Debbie Trujillo,Abreu,,lnoble@johnston-roberts.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Active,Walk-in,2,4/10/24 14:55,4/10/24 14:55,Atamian Honda Website,Jerome Page,Matevosyan,Wayne Jones,Oshovskyi,,jennifer85@johnston-roberts.com,,2024,Honda,CR-V Hybrid,7FARS6H93RE068917,4H1100S,,FALSE,FALSE,FALSE
+4282,,,,4/10/24 15:07,,,John Lamb,Perez,Jason House,Brady,,,,,,,,,,FALSE,FALSE,FALSE
+4282,Lost,Internet,1,4/10/24 15:34,4/10/24 15:34,"Carfax, Inc",Leslie Herring,Vaz,Amy Jackson,Kelly,,pharvey@johnston-roberts.com,,2018,Mercedes-Benz,CLA,WDDSJ4GB0JN696633,4H634-1,,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,4/10/24 15:43,4/10/24 15:43,Truecar/Truecar,Jerome Page,Matevosyan,Kaitlin Gregory,Niklas,George,jason67@gomez.org,scott27@gomez.org,2023,Honda,Ridgeline,5FPYK3F56PB068789,3H1064,4/10/24 23:29,FALSE,FALSE,FALSE
+4282,Lost,Internet,1,4/10/24 15:52,4/10/24 15:52,"Carfax, Inc",Anthony Ruiz,Perez,Amy Holland,Villanueva,,brendahendrix@johnston-roberts.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Active,Walk-in,2,4/10/24 17:56,4/10/24 17:56,Location,Benjamin Shelton,Moronta,Jessica Thompson,Vargas,Luis,diana20@moon.com,,2020,Chevrolet,Silverado 1500,1GCPYFED0LZ318576,4H874-1,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/10/24 18:50,4/10/24 18:50,Truecar/Consumer Reports,Heather Welch,Buonopane,Lauren Saunders,Y,,edrake@johnston-roberts.com,,2024,Honda,CR-V Hybrid,,,,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,4/10/24 19:22,4/10/24 19:22,Location,Francisco Romero,Pena,Aaron May,Sylvester,J,bbell@johnston-roberts.com,,2020,Honda,Civic,2HGFC2F84LH533285,AZ6367,4/10/24 20:13,FALSE,FALSE,FALSE
+4282,,,,4/10/24 21:09,,,Theresa Mays,Marinos,Thomas Williams,Hernandez,,,,,,,,,,FALSE,FALSE,FALSE
+4282,Lost,Walk-in,2,4/10/24 21:16,4/10/24 21:16,Location,Frederick Harrell,LeDuc,Walter Davis,Patel,,nharrison@johnston-roberts.com,,2024,Honda,CR-V Hybrid,2HKRS6H83RH809345,4H1085,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/10/24 21:29,4/10/24 21:29,Thirdparty Honda -,Heather Welch,Buonopane,Brittney Thompson,Garcia,,adamsandrew@johnston-roberts.com,,2024,Honda,HR-V,,,,FALSE,FALSE,FALSE
+4282,Lost,Phone,3,4/10/24 22:28,4/10/24 22:28,Atamian Honda Website,Heather Welch,Buonopane,Anthony Smith,Coleman,B,,,2014,Honda,Accord Sedan,1HGCR2F52EA297406,4H981-1,,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,4/10/24 22:29,4/10/24 22:29,Cargurus,Michael Ellis,Genao,Jessica Fritz,Carreras Lopez,Ismael,patriciarobinson@brennan.com,,2020,Nissan,Murano,5N1AZ2BS8LN121611,AZ6309,4/19/24 20:48,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/10/24 22:42,4/10/24 22:42,"Carfax, Inc",Heather Welch,Buonopane,Frederick Harrell,Minghetti,,rebeccabarrett@johnston-roberts.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Lost,Internet,1,4/10/24 22:45,4/10/24 22:45,"Carfax, Inc",Heather Welch,Buonopane,Cynthia Williams,Allen,,solistracy@johnston-roberts.com,,2021,Honda,Passport,5FNYF8H50MB021390,4H1055-1,,FALSE,TRUE,FALSE
+4282,Sold,Internet,1,4/10/24 22:51,4/10/24 22:51,Cargurus - Hard Pull - Digital Deal,Ronald Garcia,Calcano,Benjamin Golden,Mendes,Andrade,princedana@johnston-roberts.com,,2021,Jeep,Grand Cherokee,1C4RJFBG6MC507233,AZ6297,4/16/24 15:58,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/10/24 23:06,4/11/24 9:46,Capital One,Leslie Herring,Vaz,Jennifer Hammond,Ses,,snyderlauren@johnston-roberts.com,snyderlauren@johnston-roberts.com,2024,Honda,CR-V,2HKRS4H46RH475748,4H788S,,FALSE,FALSE,FALSE
+4282,Lost,Internet,1,4/10/24 23:07,4/10/24 23:07,Capital One,Heather Welch,Buonopane,Daniel Robertson,Shaw,,peterschristopher@gomez.org,,2016,Honda,Pilot,5FNYF6H03GB123652,4H1122-1,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/11/24 1:05,4/11/24 1:05,"Carfax, Inc",Leslie Herring,Vaz,John Cervantes,Alvarez,,cristina38@johnston-roberts.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/11/24 1:52,4/11/24 1:52,Honda Website -,Leslie Herring,Vaz,Sherry Oliver,Tassinari,,annchoi@johnston-roberts.com,,2025,Honda,Pilot,,,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/11/24 2:07,4/11/24 2:07,Cargurus Pre-Qualified,Theresa Mays,Marinos,Brooke Gomez,Veitch,,mitchellnancy@gomez.org,,2018,Mercedes-Benz,CLA,WDDSJ4GB0JN696633,4H634-1,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/11/24 7:02,4/11/24 7:02,Honda Website -,Leslie Herring,Vaz,Kendra Rodriguez,Dostourian,,lmartinez@faulkner-howard.com,,2024,Honda,Civic,,,,FALSE,FALSE,FALSE
+4282,Lost,Phone,3,4/11/24 12:52,4/11/24 12:52,Atamian Honda Website,Suzanne Thomas,Espinosa,Mariah Smith DDS,P,,,,,,,,,,FALSE,FALSE,FALSE
+4282,Active,Phone,3,4/11/24 12:53,4/11/24 12:53,Referral,Jennifer Hansen,Zizi,Mariah Smith DDS,Federico,,,,2025,Honda,Pilot,5FNYG1H38SB002313,5H004,,FALSE,FALSE,FALSE
+4282,Active,Phone,3,4/11/24 13:39,4/11/24 13:39,Facebook,Ronald Garcia,Calcano,Tara Francis,Dotel caceres,,,,2021,Honda,CR-V,2HKRW2H26MH625194,4H798S-1,,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,4/11/24 13:42,4/11/24 13:42,Podium,Theresa Mays,Marinos,Teresa Young,Moradi,,lauramurphy@brown.com,,2024,Honda,CR-V,2HKRS4H43RH473925,4H1124,4/14/24 18:20,FALSE,FALSE,FALSE
+4282,Sold,Referral,9,4/11/24 14:41,4/11/24 14:41,Referral,John Lamb,Perez,Jeremy Carroll,Mahoney,Anne,mitchellsteven@wyatt.com,,2022,Honda,CR-V,2HKRW2H77NH610085,4H1060-1,4/13/24 14:10,FALSE,FALSE,FALSE
+4282,Active,Phone,3,4/11/24 14:50,4/11/24 14:50,Repeat Customer,Leslie Herring,Vaz,Elizabeth Houston,Scammel,,,,,,,,,,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,4/11/24 15:29,4/11/24 15:29,Hds Program Lead - Get E-Price,Jonathan Williams,Holder,Steven Hill,Libby,Emery,barryamy@henderson.com,,2024,Honda,CR-V Hybrid,5J6RS6H57RL031756,4H926S,4/13/24 16:10,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/11/24 15:57,4/11/24 15:57,Cargurus Pre-Qualified,Leslie Herring,Vaz,James Phillips,Brown,,brownkelly@cox-kramer.com,,2018,Mercedes-Benz,CLA,WDDSJ4GB0JN696633,4H634-1,,FALSE,FALSE,FALSE
+4282,Lost,Internet,1,4/11/24 17:29,4/11/24 17:29,EDMUNDS TRADE IN,Michael Ellis,Genao,Heidi Parrish MD,De Los Santos,Los,nrogers@johnston-roberts.com,,1900,None,None,,,,FALSE,FALSE,FALSE
+4282,Lost,Internet,1,4/11/24 17:43,4/11/24 17:43,Cargurus,Heather Welch,Buonopane,Gregory Guerrero,Kaminski,,gregorymontgomery@johnson-wilkins.com,,2017,Honda,Accord Sedan,1HGCR2F3XHA199954,4H568-3,,FALSE,FALSE,FALSE
+4282,Bad,Internet,1,4/11/24 17:51,4/11/24 17:51,EDMUNDS TRADE IN,Leslie Herring,Vaz,Ann Huber,Hayes,,wbrown@johnston-roberts.com,,1900,None,None,,,,FALSE,FALSE,FALSE
+4282,Sold,Phone,3,4/11/24 18:29,4/11/24 18:29,Facebook,Ronald Garcia,Calcano,Brian Scott,Martinez Moreta,Michael,stevencunningham@johnston-roberts.com,,2021,Honda,HR-V,3CZRU6H30MM739198,AZ6388,4/12/24 18:52,FALSE,FALSE,FALSE
+4282,Bad,Internet,1,4/11/24 18:37,4/11/24 18:37,Truecar/Autoblog,Anthony Ruiz,Perez,Tyler Anderson,Bird,,cwagner@johnston-roberts.com,,2024,Honda,Civic,,,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/11/24 18:57,4/11/24 18:57,Thirdparty Honda -,Heather Welch,Buonopane,John Rocha,Martinez,,michaelparrish@villanueva.biz,,2024,Honda,Ridgeline,,,,TRUE,FALSE,FALSE
+4282,Bad,Internet,1,4/11/24 19:28,4/11/24 19:28,Truecar/Truecar,Leslie Herring,Vaz,Nathan Terry,Chamcham,,liroger@johnston-roberts.com,,2019,Honda,HR-V,3CZRU6H50KM726935,4H951-1,,FALSE,TRUE,FALSE
+4282,Active,Internet,1,4/11/24 20:17,4/11/24 20:17,Truecar/Perks At Work,Heather Welch,Buonopane,Monica Stewart,Tran,,ibrooks@johnston-roberts.com,,2024,Honda,CR-V,,,,FALSE,FALSE,FALSE
+4282,Lost,Internet,1,4/11/24 20:58,4/11/24 20:58,Hds Program Lead - Get E-Price,Heather Welch,Buonopane,Jeffrey King,Patuto,,savannah68@johnston-roberts.com,,2016,Honda,Pilot,5FNYF6H03GB123652,4H1122-1,,FALSE,FALSE,FALSE
+4282,Lost,Internet,1,4/11/24 21:29,4/11/24 21:29,"Carfax, Inc",Anthony Ruiz,Perez,Michelle Benson,Lantigua,,laurajones@moreno.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Lost,Internet,1,4/11/24 21:30,4/11/24 21:30,EDMUNDS TRADE IN,Heather Welch,Buonopane,Daniel Lee,Than,,lindsey61@johnston-roberts.com,,1900,None,None,,,,FALSE,FALSE,FALSE
+4282,Active,Walk-in,2,4/11/24 22:05,4/11/24 22:05,Atamian Website Sales,Jerome Page,Matevosyan,Ashley Jacobs,Restrepo,Yvette,diazfrank@johnston-roberts.com,,2017,Honda,Accord Sedan,1HGCR2F3XHA199954,4H568-3,,FALSE,FALSE,FALSE
+4282,Lost,Internet,1,4/11/24 22:54,4/11/24 22:54,Truecar/Truecar,Anthony Ruiz,Perez,Gerald Michael,Jacobson,,tammy62@johnston-roberts.com,,2018,Mercedes-Benz,CLA,WDDSJ4GB0JN696633,4H634-1,,FALSE,FALSE,FALSE
+4282,,,,4/11/24 23:40,,,Jessica Thompson,Ferreira,Megan Alvarado MD,RANIERI,MARIO,,,,,,,,,FALSE,FALSE,FALSE
+4282,Lost,Internet,1,4/12/24 0:25,4/12/24 0:25,Truecar/Truecar,Heather Welch,Buonopane,Pam Taylor,Asante,,logan02@johnston-roberts.com,,2023,Honda,Accord Hybrid,1HGCY2F52PA059481,4H795-1,,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,4/12/24 1:54,4/12/24 1:54,Hds Program Lead - Get E-Price,John Lamb,Perez,Erika Harris,Piya,Kumar,michael01@johnston-roberts.com,,2024,Honda,Accord,1HGCY1F37RA054482,4H1171,4/13/24 19:51,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/12/24 4:21,4/12/24 4:21,EDMUNDS TRADE IN,Heather Welch,Buonopane,Ricardo Mitchell,R,,jsalas@johnston-roberts.com,,1900,None,None,,,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/12/24 9:17,4/12/24 9:17,"Carfax, Inc",Leslie Herring,Vaz,Lisa Smith,Garcia,,ejones@johnston-roberts.com,,2021,Honda,CR-V,2HKRW2H26MH625194,4H798S-1,,FALSE,FALSE,FALSE
+4282,,,,4/12/24 11:47,,,Jerome Page,Matevosyan,Thomas Stuart,Sanders,,michaelsmith@gomez.org,,,,,,,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/12/24 12:09,4/12/24 12:09,Edmunds,Frederick Harrell,Desrochers,Paul Phillips,Miele,Joseph,fred16@ramirez.com,,2021,Honda,CR-V,7FARW2H5XME002089,AZ6347,,FALSE,FALSE,FALSE
+4282,Active,Walk-in,2,4/12/24 12:25,4/12/24 17:25,Location,Jessica Thompson,Ferreira,Stephanie Thomas,Sek,,,,,,,,,,FALSE,FALSE,FALSE
+4282,,,,4/12/24 12:27,,,Theresa Mays,Marinos,Ashley Foley,Landry,,ialvarez@johnston-roberts.com,,,,,,,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/12/24 12:46,4/12/24 12:46,Thirdparty Honda -,Heather Welch,Buonopane,Emily Brooks,Ramirez,,owensjasmine@estes.com,,2024,Honda,Accord Sedan,1HGCY1F21RA013708,4H736L-1,,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,4/12/24 12:50,4/12/24 13:37,Service Drive,Jeremy Wood,Torra,Kelsey Craig,Fortes,D,igarcia@johnston-roberts.com,,2024,Honda,HR-V,3CZRZ2H38RM768126,4H1015,4/12/24 15:32,FALSE,FALSE,FALSE
+4282,Lost,Internet,1,4/12/24 12:56,4/12/24 12:56,Hds Program Lead - Get E-Price,Anthony Ruiz,Perez,Laura Rocha,Johnson,,ismith@johnston-roberts.com,,2025,Honda,Pilot,5FNYG1H80SB004312,5H007,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/12/24 13:40,4/12/24 13:40,"Carfax, Inc",Leslie Herring,Vaz,Daniel Martin,Gayle,,steventhompson@johnston-roberts.com,,2019,Nissan,Altima,1N4BL4DV6KC119675,4H1040-1,,FALSE,FALSE,FALSE
+4282,,,,4/12/24 14:34,,,Jerome Page,Matevosyan,Jonathan Williams,Whity,,,,,,,,,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/12/24 14:52,4/12/24 14:52,Truecar/Truecar,Heather Welch,Buonopane,Shirley Price,Cicchetto,,wolfbarbara@walton.org,,2018,Mercedes-Benz,CLA,WDDSJ4GB0JN696633,4H634-1,,FALSE,FALSE,FALSE
+4282,Active,Walk-in,2,4/12/24 14:57,4/12/24 14:57,Location,Theresa Mays,Marinos,Brian Scott,Proia,James,westnicole@johnston-roberts.com,,,,,,,,FALSE,TRUE,TRUE
+4282,Sold,Phone,3,4/12/24 16:12,4/12/24 16:12,Atamian Honda Website,Ronald Garcia,Calcano,Darin Bauer,La Rosa,,,,2019,Nissan,Altima,1N4BL4DV6KC119675,4H1040-1,4/13/24 19:29,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/12/24 16:17,4/12/24 16:17,Truecar/Truecar For Intuit Credit Karma Members,Heather Welch,Buonopane,Jennifer Myers,Jewett,,johnsonsarah@johnston-roberts.com,,2024,Honda,Accord,,,,TRUE,FALSE,FALSE
+4282,Lost,Internet,1,4/12/24 16:47,4/12/24 16:47,Cargurus,Jerome Page,Matevosyan,Janet Young,Barry,Bella,nicholsstacy@gomez.org,,2018,Mercedes-Benz,CLA,WDDSJ4GB0JN696633,4H634-1,,FALSE,FALSE,FALSE
+4282,Active,Phone,3,4/12/24 16:48,4/12/24 16:48,Atamian Honda Website,Ronald Garcia,Calcano,Peggy Humphrey,Salguero-pineda,A,,,2024,Honda,CR-V,2HKRS4H43RH477098,4H1157,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/12/24 16:51,4/12/24 16:51,"Carfax, Inc",Heather Welch,Buonopane,Rachel Ferguson,Selphin,,samueldorsey@johnston-roberts.com,,2021,Honda,CR-V,7FARW2H83ME015292,4H546-1,,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,4/12/24 17:11,4/12/24 17:11,Location,Theresa Mays,Marinos,Brittney Thompson,Santiago,Antonio,barajasjonathan@lopez.com,,2021,Honda,CR-V,2HKRW2H26MH625194,4H798S-1,4/12/24 18:32,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,4/12/24 17:57,4/12/24 17:57,Referral,Emily Blair,Alhado,Luis Wood,Zeoli,,,,2011,Honda,CR-V,JHLRE4H56BC011928,4H1006-2,4/12/24 18:39,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/12/24 18:03,4/12/24 18:03,"Carfax, Inc",Heather Welch,Buonopane,Raymond Lowe,Dougherty,,fstokes@johnston-roberts.com,,2018,Mercedes-Benz,CLA,WDDSJ4GB0JN696633,4H634-1,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/12/24 18:05,4/12/24 18:05,"Carfax, Inc",Anthony Ruiz,Perez,Deborah Howard,Christopher,,rachael65@johnston-roberts.com,apowers@johnston-roberts.com,2016,Honda,Civic Sedan,2HGFC2F52GH572274,AZ6363,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/12/24 18:38,4/12/24 18:38,Hds Program Lead - Get E-Price,Leslie Herring,Vaz,Jimmy Lewis,Murugesan,,alexander63@johnston-roberts.com,,2024,Honda,CR-V Hybrid,2HKRS6H82RH809823,4H1110,,FALSE,FALSE,FALSE
+4282,Sold,Phone,3,4/12/24 18:52,4/12/24 18:52,Atamian Honda Website,Frederick Harrell,LeDuc,Samuel Phelps,Bromley,M,,,2022,Honda,HR-V,3CZRU6H3XNM739338,4H813-1,4/12/24 21:52,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/12/24 19:24,4/12/24 19:24,"Carfax, Inc",Anthony Ruiz,Perez,Victoria Donovan,Thomas,,bflores@johnston-roberts.com,,2021,Honda,Passport,5FNYF8H50MB021390,4H1055-1,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/12/24 19:27,4/12/24 19:27,Truecar/Truecar,Anthony Ruiz,Perez,Daniel Robertson,Diamantopoulos,,cynthiajones@johnston-roberts.com,,2021,Honda,CR-V,7FARW2H59ME010622,4H731-1,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/12/24 19:33,4/12/24 19:33,Truecar/Truecar,Anthony Ruiz,Perez,Brian Bartlett,Guzman,,sarah32@johnston-roberts.com,,2017,Honda,Accord Sedan,1HGCR2F3XHA199954,4H568-3,,FALSE,FALSE,FALSE
+4282,Bad,Internet,1,4/12/24 19:46,4/12/24 19:46,Thirdparty Honda -,Leslie Herring,Vaz,Michael Arellano,Perez,,kelly23@johnston-roberts.com,,2024,Honda,Civic,,,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/12/24 21:08,4/12/24 21:08,Cargurus Pre-Qualified,Anthony Ruiz,Perez,Kathleen Walton,Villegas,,edavidson@johnston-roberts.com,,2018,Mercedes-Benz,CLA,WDDSJ4GB0JN696633,4H634-1,,FALSE,FALSE,FALSE
+4282,Bad,Internet,1,4/12/24 21:12,4/12/24 21:12,Cargurus,Anthony Ruiz,Perez,Ryan Hardy,Erickson,,,,2018,Mercedes-Benz,CLA,WDDSJ4GB0JN696633,4H634-1,,FALSE,FALSE,FALSE
+4282,Sold,Internet,1,4/12/24 21:31,4/12/24 21:31,Cargurus - Digital Deal,Emily Blair,Alhado,Travis Fritz,Lopez Vasquez,Daniel,kevin25@johnston-roberts.com,,2024,Honda,Civic,2HGFE2F54RH551035,4H922,4/17/24 15:36,FALSE,FALSE,FALSE
+4282,Sold,Walk-in,2,4/12/24 22:34,4/12/24 22:34,Atamian Honda Website,Jeremy Wood,Torra,Christopher Alexander,Bartos,M,,,2021,Honda,HR-V,3CZRU6H54MM712779,AZ6372,4/13/24 22:50,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/12/24 23:46,4/12/24 23:46,"Carfax, Inc",Elizabeth Houston,Lemus,Michael Bell,Zhang,,josephbarnes@rosales-thompson.info,,2017,Honda,Accord Sedan,1HGCR2F3XHA199954,4H568-3,,FALSE,FALSE,FALSE
+4282,Lost,Internet,1,4/13/24 2:05,4/13/24 2:05,Truecar/Geico,Heather Welch,Buonopane,Timothy Hayden,Hernandez,,vhenry@gomez.org,,2020,Toyota,Highlander,5TDDZRBH7LS009889,4H884-1,,FALSE,FALSE,FALSE
+4282,Active,Internet,1,4/14/24 16:23,4/13/24 16:57,Honda Website,Norma Fisher,Ramey,Shannon Cooper,Rachumalla,Reddy,morrismichael@johnston-roberts.com,fleach@johnston-roberts.com,2024,Honda,Accord Hybrid,1HGCY2F52RA036933,4H963S,,FALSE,FALSE,FALSE
+4282,Sold,Phone,3,4/16/24 15:14,4/16/24 15:14,Service Drive,Benjamin Shelton,Moronta,Christopher York,Brown,J,debra49@villanueva.biz,debra49@villanueva.biz,2024,Honda,CR-V Hybrid,2HKRS6H83RH810849,4H1173,4/20/24 15:00,FALSE,TRUE,FALSE
+4282,,,,4/20/24 19:13,,,Benjamin Shelton,Moronta,Elizabeth Houston,Hansel,M,prichard@johnston-roberts.com,,,,,,,,FALSE,FALSE,FALSE
