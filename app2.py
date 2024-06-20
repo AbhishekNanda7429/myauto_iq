@@ -103,6 +103,8 @@ def map_data():
         if mapper_df is None:
             return jsonify({'error': 'Dataframe 2 is not processed yet.'}), 400
         mapped_df = merge_dataframes(merged_df, mapper_df, common_columns)
+        # Save merged dataframe to CSV file
+        mapped_df.to_csv('final_output.csv', index=False)
         # Convert merged dataframe to JSON
         response = mapped_df.to_json(orient='records')
         return response
