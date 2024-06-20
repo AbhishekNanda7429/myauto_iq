@@ -1,93 +1,76 @@
 from flask import Flask, jsonify
-import os
 import pandas as pd
-from flask import Flask, send_file
 
 app = Flask(__name__)
 
-# Route to get all users
-@app.route('/healthcheck', methods=['GET'])
-def healthcheck():
-    return jsonify("health check OK!!")
+# Global variables to store dataframes
+global_df1 = None
+global_df2 = None
 
-@app.route('/merge_csv', methods=['GET']) #merge all the input csv files without column check
-def merge_csv():
-    # Set the directory path
-    directory_path = "C:\\Users\\abhis\\Desktop\\CloudBuilders\\myauto_iq\\sample_lead_data"
+# Mock data for illustration
+raw_data1 = {
+    'Vehicle_Make': ['Toyota', 'Honda', 'Ford'],
+    'Vehicle_Model': ['Corolla', 'Civic', 'F-150'],
+    'Year': [2010, 2012, 2015]
+}
 
-    # Initialize an empty list to store the data frames
-    dfs = []
+raw_data2 = {
+    'Vehicle_Make': ['Toyota', 'Honda', 'Chevrolet'],
+    'Vehicle_Model': ['Corolla', 'Civic', 'Malibu'],
+    'Owner': ['Alice', 'Bob', 'Charlie']
+}
 
-# Loop through all files in the directory
-    for filename in os.listdir(directory_path):
-        if filename.endswith('.csv'):
-            file_path = os.path.join(directory_path, filename)
-            df = pd.read_csv(file_path)
-            dfs.append(df)
+# Endpoint to process data and store in global_df1
+@app.route('/api/process_data1', methods=['GET'])
+def process_data1():
+    global global_df1
+    try:
+        # Process data (mock data processing here)
+        global_df1 = pd.DataFrame(raw_data1)
+        return jsonify({'message': 'Dataframe 1 processed and stored globally'}), 200
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
 
-    # Concatenate all data frames into a single data frame
-    merged_df = pd.concat(dfs, ignore_index=True)
+# Endpoint to process data and store in global_df2
+@app.route('/api/process_data2', methods=['GET'])
+def process_data2():
+    global global_df2
+    try:
+        # Process data (mock data processing here)
+        global_df2 = pd.DataFrame(raw_data2)
+        return jsonify({'message': 'Dataframe 2 processed and stored globally'}), 200
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
 
-    # Save the merged data frame to a new CSV file
-    output_file = 'newdata.csv'
-    merged_df.to_csv(output_file, index=False)
+# Function to merge dataframes on common columns
+def merge_dataframes(df1, df2, on_columns):
+    if df1 is None or df2 is None:
+        raise ValueError("One or both dataframes are not initialized.")
+    merged_df = pd.merge(df1, df2, on=on_columns, how='inner')
+    return merged_df
 
-    # Return the merged CSV file as a download
-    #return send_file(output_file, as_attachment=True)
+# Endpoint to merge global dataframes and map columns
+@app.route('/api/merge_data', methods=['GET'])
+def merge_data():
+    global global_df1, global_df2
+    try:
+        # Check if dataframes are not None
+        if global_df1 is None:
+            return jsonify({'error': 'Dataframe 1 is not processed yet.'}), 400
+        if global_df2 is None:
+            return jsonify({'error': 'Dataframe 2 is not processed yet.'}), 400
 
-    # Return a success message
-    return jsonify({"message": "CSV files merged successfully."})
+        # Specify the common columns to merge on
+        common_columns = ['Vehicle_Make', 'Vehicle_Model']  # Replace with the actual column names
 
-@app.route('/merge_csv_1', methods=['GET']) #merge all the input csv after column check
-def merge_csv_check():
-    # Set the directory path
-    directory_path = "C:\\Users\\abhis\\Desktop\\CloudBuilders\\myauto_iq\\sample_lead_data"
+        # Perform the merge operation on the global dataframes
+        merged_df = merge_dataframes(global_df1, global_df2, common_columns)
 
-    # Initialize an empty list to store the data frames
-    dfs = []
-
-    # Get the column names from the first CSV file
-    first_file = None
-    for filename in os.listdir(directory_path):
-        if filename.endswith('.csv'):
-            first_file = os.path.join(directory_path, filename)
-            break
-
-    if first_file:
-        first_df = pd.read_csv(first_file)
-        expected_columns = list(first_df.columns)
-
-        # Loop through all files in the directory
-        for filename in os.listdir(directory_path):
-            if filename.endswith('.csv'):
-                file_path = os.path.join(directory_path, filename)
-                df = pd.read_csv(file_path)
-
-                # Check if the column names match
-                if list(df.columns) != expected_columns:
-                    return jsonify({"error": "Column names do not match across all CSV files."}), 400
-
-                dfs.append(df)
-
-        # Concatenate all data frames into a single data frame
-        merged_df = pd.concat(dfs, ignore_index=True)
-
-        # Save the merged data frame to a new CSV file
-        output_file = 'newdata.csv'
-        merged_df.to_csv(output_file, index=False)
-
-        # Return a success message
-        return jsonify({"message": "CSV files merged successfully."})
-    else:
-        return jsonify({"error": "No CSV files found in the specified directory."}), 404
-
+        # Convert merged dataframe to JSON
+        response = merged_df.to_json(orient='records')
+        return response
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
 
 if __name__ == '__main__':
     app.run(debug=True)
-
-
-
-#------------------------------------------------------------------------
-
-    # C:\Users\abhis\Desktop\CloudBuilders\myauto_iq\sample_lead_data
-    # sample_lead_data
