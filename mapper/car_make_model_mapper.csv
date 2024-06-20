@@ -1,0 +1,897 @@
+﻿veh_make,veh_model,MFG_TYPE,MFG_MAKE,MFG_POS,MFG_CNT,F11,F12,F13,New_Auto_Class
+ACURA,CL,Luxury,ACURA,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE CAR
+ACURA,ILX,Luxury,ACURA,Luxury,Japanese,Import,Luxury,Reliability,SMALL CAR
+ACURA,INTEGRA,Luxury,ACURA,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE CAR
+ACURA,LEGEND,Luxury,ACURA,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE CAR
+ACURA,MDX,Luxury,ACURA,Luxury,Japanese,Import,Luxury,Reliability,FULL SIZE SUV
+ACURA,NSX,Luxury,ACURA,Luxury,Japanese,Import,Luxury,Sport,SMALL CAR
+ACURA,RDX,Luxury,ACURA,Luxury,Japanese,Import,Premium,Reliability,MID SIZE SUV
+ACURA,RL,Luxury,ACURA,Luxury,Japanese,Import,Luxury,Reliability,FULL SIZE CAR
+ACURA,RLX,Luxury,ACURA,Luxury,Japanese,Import,Luxury,Reliability,FULL SIZE SUV
+ACURA,RSX,Luxury,ACURA,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE CAR
+ACURA,SLX,Luxury,ACURA,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE SUV
+ACURA,TL,Luxury,ACURA,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE CAR
+ACURA,TLX,Luxury,ACURA,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE CAR
+ACURA,TSX,Luxury,ACURA,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE CAR
+ACURA,VIGOR,Luxury,ACURA,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE CAR
+ACURA,ZDX,Luxury,ACURA,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE SUV
+ALFA ROMEO,GIULIA,Luxury,MERCEDES-BENZ,Luxury,European,Import,Premium,Status,MID SIZE CAR
+ALFA ROMEO,STELVIO,Luxury,MERCEDES-BENZ,Luxury,European,Import,Premium,Status,SMALL SUV
+ASTON MARTIN,DB9,Luxury,MERCEDES-BENZ,Luxury,European,Import,Premium,Status,MID SIZE CAR
+ASTON MARTIN,DBS,Luxury,MERCEDES-BENZ,Luxury,European,Import,Premium,Status,MID SIZE CAR
+ASTON MARTIN,RAPIDE,Luxury,MERCEDES-BENZ,Luxury,European,Import,Premium,Status,FULL SIZE CAR
+ASTON MARTIN,V8 VANTAGE,Luxury,MERCEDES-BENZ,Luxury,European,Import,Premium,Status,MID SIZE CAR
+AUDI,80,Luxury,AUDI,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+AUDI,90,Luxury,AUDI,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+AUDI,100,Luxury,AUDI,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+AUDI,200,Luxury,AUDI,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+AUDI,4000,Luxury,AUDI,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+AUDI,5000,Luxury,AUDI,Luxury,European,Import,Luxury,Sport,FULL SIZE CAR
+AUDI,A3,Luxury,AUDI,Luxury,European,Import,Luxury,Sport,SMALL CAR
+AUDI,A4,Luxury,AUDI,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+AUDI,A5,Luxury,AUDI,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+AUDI,A6,Luxury,AUDI,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+AUDI,A7,Luxury,AUDI,Luxury,European,Import,Luxury,Sport,FULL SIZE CAR
+AUDI,A8,Luxury,AUDI,Luxury,European,Import,Premium,Sport,FULL SIZE CAR
+AUDI,ALLROAD,Luxury,AUDI,Luxury,European,Import,Luxury,Sport,MID SIZE SUV
+AUDI,CABRIOLET,Luxury,AUDI,Luxury,European,Import,Luxury,Sport,SMALL CAR
+AUDI,COUPE,Luxury,AUDI,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+AUDI,Q3,Luxury,AUDI,Luxury,European,Import,Luxury,Sport,SMALL SUV
+AUDI,Q5,Luxury,AUDI,Luxury,European,Import,Luxury,Sport,MID SIZE SUV
+AUDI,Q5 HYBRID,Luxury,AUDI,Luxury,European,Import,Luxury,Sport,MID SIZE SUV
+AUDI,Q8,Luxury,AUDI,Luxury,European,Import,Luxury,Sport,MID SIZE SUV
+AUDI,Q7,Luxury,AUDI,Luxury,European,Import,Luxury,Sport,MID SIZE SUV
+AUDI,R8,Luxury,AUDI,Luxury,European,Import,Premium,Sport,MID SIZE CAR
+AUDI,RS 3,Luxury,AUDI,Luxury,European,Import,Premium,Sport,MID SIZE CAR
+AUDI,RS 4,Luxury,AUDI,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+AUDI,RS 5,Luxury,AUDI,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+AUDI,RS 6,Luxury,AUDI,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+AUDI,RS 7,Luxury,AUDI,Luxury,European,Import,Luxury,Sport,FULL SIZE CAR
+AUDI,S3,Luxury,AUDI,Luxury,European,Import,Luxury,Sport,SMALL CAR
+AUDI,S4,Luxury,AUDI,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+AUDI,S5,Luxury,AUDI,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+AUDI,S6,Luxury,AUDI,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+AUDI,S7,Luxury,AUDI,Luxury,European,Import,Luxury,Sport,FULL SIZE CAR
+AUDI,S8,Luxury,AUDI,Luxury,European,Import,Luxury,Sport,FULL SIZE CAR
+AUDI,SQ5,Luxury,AUDI,Luxury,European,Import,Luxury,Sport,SMALL SUV
+AUDI,TT,Luxury,AUDI,Luxury,European,Import,Convertible,Sport,SMALL CAR
+BENTLEY,CONTINENTAL,Luxury,MERCEDES-BENZ,Luxury,European,Import,Premium,Status,FULL SIZE CAR
+BENTLEY,ARNAGE,Luxury,MERCEDES-BENZ,Luxury,European,Import,Premium,Status,FULL SIZE CAR
+BMW,128i,Luxury,BMW-MINI,Luxury,European,Import,Luxury,Sport,SMALL CAR
+BMW,135i,Luxury,BMW-MINI,Luxury,European,Import,Luxury,Sport,SMALL CAR
+BMW,230i,Luxury,BMW-MINI,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+BMW,228i,Luxury,BMW-MINI,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+BMW,328i,Luxury,BMW-MINI,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+BMW,320i,Luxury,BMW-MINI,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+BMW,330e,Luxury,BMW-MINI,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+BMW,330i,Luxury,BMW-MINI,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+BMW,335i,Luxury,BMW-MINI,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+BMW,428i,Luxury,BMW-MINI,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+BMW,440i,Luxury,BMW-MINI,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+BMW,528i,Luxury,BMW-MINI,Luxury,European,Import,Luxury,Sport,FULL SIZE CAR
+BMW,530i,Luxury,BMW-MINI,Luxury,European,Import,Luxury,Sport,FULL SIZE CAR
+BMW,535i,Luxury,BMW-MINI,Luxury,European,Import,Luxury,Sport,FULL SIZE CAR
+BMW,540i,Luxury,BMW-MINI,Luxury,European,Import,Luxury,Sport,FULL SIZE CAR
+BMW,550i,Luxury,BMW-MINI,Luxury,European,Import,Luxury,Sport,FULL SIZE CAR
+BMW,640i,Luxury,BMW-MINI,Luxury,European,Import,Luxury,Sport,FULL SIZE CAR
+BMW,750i,Luxury,BMW-MINI,Luxury,European,Import,Luxury,Sport,FULL SIZE CAR
+BMW,750Li,Luxury,BMW-MINI,Luxury,European,Import,Luxury,Sport,FULL SIZE CAR
+BMW,1 SERIES,Luxury,BMW-MINI,Luxury,European,Import,Luxury,Sport,SMALL CAR
+BMW,2 SERIES,Luxury,BMW-MINI,Luxury,European,Import,Luxury,Sport,SMALL CAR
+BMW,3 SERIES,Luxury,BMW-MINI,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+BMW,4 SERIES,Luxury,BMW-MINI,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+BMW,5 SERIES,Luxury,BMW-MINI,Luxury,European,Import,Luxury,Sport,FULL SIZE CAR
+BMW,6 SERIES,Luxury,BMW-MINI,Luxury,European,Import,Luxury,Sport,FULL SIZE CAR
+BMW,7 SERIES,Luxury,BMW-MINI,Luxury,European,Import,Luxury,Sport,FULL SIZE CAR
+BMW,8 SERIES,Luxury,BMW-MINI,Luxury,European,Import,Luxury,Sport,FULL SIZE CAR
+BMW,I3,Luxury,BMW-MINI,Luxury,European,Import,Premium,Sport,SMALL CAR
+BMW,M,Luxury,BMW-MINI,Luxury,European,Import,Premium,Sport,MID SIZE CAR
+BMW,M2,Luxury,BMW-MINI,Luxury,European,Import,Premium,Sport,MID SIZE CAR
+BMW,M3,Luxury,BMW-MINI,Luxury,European,Import,Premium,Sport,MID SIZE CAR
+BMW,M4,Luxury,BMW-MINI,Luxury,European,Import,Premium,Sport,MID SIZE CAR
+BMW,M5,Luxury,BMW-MINI,Luxury,European,Import,Premium,Sport,FULL SIZE CAR
+BMW,M6,Luxury,BMW-MINI,Luxury,European,Import,Premium,Sport,FULL SIZE CAR
+BMW,M8,Luxury,BMW-MINI,Luxury,European,Import,Premium,Sport,MID SIZE CAR
+BMW,X1,Luxury,BMW-MINI,Luxury,European,Import,Luxury,Sport,SMALL SUV
+BMW,X2,Luxury,BMW-MINI,Luxury,European,Import,Luxury,Sport,SMALL SUV
+BMW,X3,Luxury,BMW-MINI,Luxury,European,Import,Luxury,Sport,MID SIZE SUV
+BMW,X4,Luxury,BMW-MINI,Luxury,European,Import,Luxury,Sport,MID SIZE SUV
+BMW,X5,Luxury,BMW-MINI,Luxury,European,Import,Luxury,Sport,FULL SIZE SUV
+BMW,X6,Luxury,BMW-MINI,Luxury,European,Import,Luxury,Sport,FULL SIZE SUV
+BMW,X7,Luxury,BMW-MINI,Luxury,European,Import,Luxury,Sport,FULL SIZE SUV
+BMW,Z3,Luxury,BMW-MINI,Luxury,European,Import,Convertible,Sport,SMALL CAR
+BMW,Z4,Luxury,BMW-MINI,Luxury,European,Import,Convertible,Sport,SMALL CAR
+BMW,Z8,Luxury,BMW-MINI,Luxury,European,Import,Convertible,Sport,SMALL CAR
+BMW,X1 M,Luxury,BMW-MINI,Luxury,European,Import,Luxury,Sport,SMALL SUV
+BMW,X2 M,Luxury,BMW-MINI,Luxury,European,Import,Luxury,Sport,SMALL SUV
+BMW,X3 M,Luxury,BMW-MINI,Luxury,European,Import,Luxury,Sport,MID SIZE SUV
+BMW,X4 M,Luxury,BMW-MINI,Luxury,European,Import,Luxury,Sport,MID SIZE SUV
+BMW,X5 M,Luxury,BMW-MINI,Luxury,European,Import,Luxury,Sport,FULL SIZE SUV
+BMW,X6 M,Luxury,BMW-MINI,Luxury,European,Import,Luxury,Sport,FULL SIZE SUV
+BMW,X7 M,Luxury,BMW-MINI,Luxury,European,Import,Luxury,Sport,FULL SIZE SUV
+BMW,ACTIVEHYBR,Luxury,BMW-MINI,Luxury,European,Import,Premium,Sport,MID SIZE CAR
+BUICK,CASCADA,Luxury,BUICK,Luxury,American,Domestic,Luxury,Value,MID SIZE CAR
+BUICK,CENTURY,Luxury,BUICK,Luxury,American,Domestic,Luxury,Value,MID SIZE CAR
+BUICK,ELECTRA,Luxury,BUICK,Luxury,American,Domestic,Luxury,Value,FULL SIZE CAR
+BUICK,ENCLAVE,Luxury,BUICK,Luxury,American,Domestic,Luxury,Value,MID SIZE SUV
+BUICK,ENCORE,Luxury,BUICK,Luxury,American,Domestic,Luxury,Value,SMALL SUV
+BUICK,ENVISION,Luxury,BUICK,Luxury,American,Domestic,Luxury,Value,SMALL SUV
+BUICK,LACROSSE,Luxury,BUICK,Luxury,American,Domestic,Luxury,Value,MID SIZE CAR
+BUICK,LESABRE,Luxury,BUICK,Luxury,American,Domestic,Luxury,Value,FULL SIZE CAR
+BUICK,LUCERNE,Luxury,BUICK,Luxury,American,Domestic,Luxury,Value,FULL SIZE CAR
+BUICK,PARK AVENUE,Luxury,BUICK,Luxury,American,Domestic,Luxury,Value,FULL SIZE CAR
+BUICK,RAINIER,Luxury,BUICK,Luxury,American,Domestic,Luxury,Value,FULL SIZE SUV
+BUICK,REATTA,Luxury,BUICK,Luxury,American,Domestic,Luxury,Value,MID SIZE CAR
+BUICK,REGAL,Luxury,BUICK,Luxury,American,Domestic,Luxury,Value,MID SIZE CAR
+BUICK,RENDEZVOUS,Luxury,BUICK,Luxury,American,Domestic,Luxury,Value,SMALL SUV
+BUICK,RIVIERA,Luxury,BUICK,Luxury,American,Domestic,Luxury,Value,SMALL CAR
+BUICK,ROADMASTER,Luxury,BUICK,Luxury,American,Domestic,Luxury,Value,FULL SIZE CAR
+BUICK,SKYHAWK,Luxury,BUICK,Luxury,American,Domestic,Luxury,Value,SMALL CAR
+BUICK,SKYLARK,Luxury,BUICK,Luxury,American,Domestic,Luxury,Value,SMALL CAR
+BUICK,SOMERSET,Luxury,BUICK,Luxury,American,Domestic,Luxury,Value,MID SIZE CAR
+BUICK,VERANO,Luxury,BUICK,Luxury,American,Domestic,Luxury,Value,SMALL CAR
+CADILLAC,ALLANTE,Luxury,CADILLAC,Luxury,American,Domestic,Luxury,Status,MID SIZE CAR
+CADILLAC,ATS,Luxury,CADILLAC,Luxury,American,Domestic,Luxury,Status,MID SIZE CAR
+CADILLAC,BROUGHAM,Luxury,CADILLAC,Luxury,American,Domestic,Luxury,Status,FULL SIZE CAR
+CADILLAC,CATERA,Luxury,CADILLAC,Luxury,American,Domestic,Luxury,Status,MID SIZE CAR
+CADILLAC,CIMARRON,Luxury,CADILLAC,Luxury,American,Domestic,Luxury,Status,MID SIZE CAR
+CADILLAC,CT4,Luxury,CADILLAC,Luxury,American,Domestic,Luxury,Status,MID SIZE CAR
+CADILLAC,CT5,Luxury,CADILLAC,Luxury,American,Domestic,Luxury,Status,MID SIZE CAR
+CADILLAC,CT6,Luxury,CADILLAC,Luxury,American,Domestic,Luxury,Status,FULL SIZE CAR
+CADILLAC,CTS,Luxury,CADILLAC,Luxury,American,Domestic,Luxury,Status,MID SIZE CAR
+CADILLAC,DEVILLE,Luxury,CADILLAC,Luxury,American,Domestic,Luxury,Status,FULL SIZE CAR
+CADILLAC,DTS,Luxury,CADILLAC,Luxury,American,Domestic,Luxury,Status,FULL SIZE CAR
+CADILLAC,ELDORADO,Luxury,CADILLAC,Luxury,American,Domestic,Luxury,Status,FULL SIZE CAR
+CADILLAC,ESCALADE,Luxury,CADILLAC,Luxury,American,Domestic,Luxury,Status,FULL SIZE SUV
+CADILLAC,FLEETWOOD,Luxury,CADILLAC,Luxury,American,Domestic,Luxury,Status,FULL SIZE CAR
+CADILLAC,SEVILLE,Luxury,CADILLAC,Luxury,American,Domestic,Luxury,Status,FULL SIZE CAR
+CADILLAC,SIXTY SPECIAL,Luxury,CADILLAC,Luxury,American,Domestic,Luxury,Status,FULL SIZE CAR
+CADILLAC,SRX,Luxury,CADILLAC,Luxury,American,Domestic,Luxury,Status,MID SIZE SUV
+CADILLAC,STS,Luxury,CADILLAC,Luxury,American,Domestic,Luxury,Status,MID SIZE CAR
+CADILLAC,XLR,Luxury,CADILLAC,Luxury,American,Domestic,Luxury,Status,FULL SIZE CAR
+CADILLAC,XT4,Luxury,CADILLAC,Luxury,American,Domestic,Luxury,Status,SMALL SUV
+CADILLAC,XT6,Luxury,CADILLAC,Luxury,American,Domestic,Luxury,Status,MID SIZE SUV
+CADILLAC,XT5,Luxury,CADILLAC,Luxury,American,Domestic,Luxury,Status,SMALL SUV
+CADILLAC,XTS,Luxury,CADILLAC,Luxury,American,Domestic,Luxury,Status,FULL SIZE CAR
+CHEVROLET,HHR,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,SMALL CAR
+CHEVROLET,ASTRO,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,MINIVAN
+CHEVROLET,AVALANCHE,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,FULL SIZE TRUCK
+CHEVROLET,AVEO,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,SMALL CAR
+CHEVROLET,BERETTA,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,SMALL CAR
+CHEVROLET,BLAZER,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,MID SIZE SUV
+CHEVROLET,BOLT EV,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,SMALL CAR
+CHEVROLET,C/K 10 SERIES,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,FULL SIZE TRUCK
+CHEVROLET,C/K 1500,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,FULL SIZE TRUCK
+CHEVROLET,C/K 1500 SERIES,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,FULL SIZE TRUCK
+CHEVROLET,C/K 20 SERIES,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,FULL SIZE TRUCK
+CHEVROLET,C/K 2500 SERIES,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,FULL SIZE TRUCK
+CHEVROLET,C/K 30 SERIES,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,FULL SIZE TRUCK
+CHEVROLET,C/K 3500 SERIES,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,FULL SIZE TRUCK
+CHEVROLET,CAMARO,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Muscle,Sport,MID SIZE CAR
+CHEVROLET,CAPRICE,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,FULL SIZE CAR
+CHEVROLET,CAPTIVA,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,SMALL SUV
+CHEVROLET,CAVALIER,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,SMALL CAR
+CHEVROLET,GEO PRIZM,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,SMALL CAR
+CHEVROLET,CELEBRITY,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,MID SIZE CAR
+CHEVROLET,CHEVETTE,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,SMALL CAR
+CHEVROLET,CITATION,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,SMALL CAR
+CHEVROLET,CLASSIC,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,MID SIZE CAR
+CHEVROLET,COBALT,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,SMALL CAR
+CHEVROLET,COLORADO,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,FULL SIZE TRUCK
+CHEVROLET,CORSICA,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,MID SIZE CAR
+CHEVROLET,CORVETTE,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Convertible,Sport,SMALL CAR
+CHEVROLET,CRUZE,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,SMALL CAR
+CHEVROLET,EL CAMINO,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,MID SIZE CAR
+CHEVROLET,EQUINOX,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,SMALL SUV
+CHEVROLET,EXPRESS 1500,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,FULL SIZE VAN
+CHEVROLET,EXPRESS 2500,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,FULL SIZE VAN
+CHEVROLET,EXPRESS 3500,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,FULL SIZE VAN
+CHEVROLET,EXPRESS CUTAWAY,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,MINIVAN
+CHEVROLET,EXPRESS PASSENGER,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,FULL SIZE VAN
+CHEVROLET,IMPALA,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,MID SIZE CAR
+CHEVROLET,LUMINA,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,SMALL CAR
+CHEVROLET,MALIBU,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,MID SIZE CAR
+CHEVROLET,METRO,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,SMALL CAR
+CHEVROLET,MONTE CARLO,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,MID SIZE CAR
+CHEVROLET,NOVA,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,MID SIZE CAR
+CHEVROLET,PRIZM,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,MID SIZE CAR
+CHEVROLET,R/V 10 SERIES,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,FULL SIZE TRUCK
+CHEVROLET,R/V 20 SERIES,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,FULL SIZE TRUCK
+CHEVROLET,S-10,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,SMALL TRUCK
+CHEVROLET,SILVERADO,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,FULL SIZE TRUCK
+CHEVROLET,SONIC,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,SMALL CAR
+CHEVROLET,SPARK,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,SMALL CAR
+CHEVROLET,SPECTRUM,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,SMALL CAR
+CHEVROLET,SPORTVAN,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,MINIVAN
+CHEVROLET,SPRINT,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,SMALL CAR
+CHEVROLET,SS,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,MID SIZE CAR
+CHEVROLET,SSR,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,SMALL TRUCK
+CHEVROLET,SUBURBAN,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,FULL SIZE SUV
+CHEVROLET,TAHOE,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,FULL SIZE SUV
+CHEVROLET,TRACKER,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,SMALL SUV
+CHEVROLET,TRAILBLAZER,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,SMALL SUV
+CHEVROLET,TRAVERSE,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,FULL SIZE SUV
+CHEVROLET,TRAX,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,SMALL SUV
+CHEVROLET,UPLANDER,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,MINIVAN
+CHEVROLET,VENTURE,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,MINIVAN
+CHEVROLET,VOLT,Reliability,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Low Maintenance,SMALL CAR
+CHRYSLER,200,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Standard,Sport,MID SIZE CAR
+CHRYSLER,300,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Standard,Sport,MID SIZE CAR
+CHRYSLER,ASPEN,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Standard,Sport,FULL SIZE SUV
+CHRYSLER,CIRRUS,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Standard,Sport,SMALL CAR
+CHRYSLER,CONCORDE,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Standard,Sport,MID SIZE CAR
+CHRYSLER,CONQUEST,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Standard,Sport,MID SIZE CAR
+CHRYSLER,CROSSFIRE,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Standard,Sport,SMALL CAR
+CHRYSLER,FIFTH AVENUE,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Standard,Sport,FULL SIZE CAR
+CHRYSLER,GRAND VOYAGER,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Standard,Sport,MINIVAN
+CHRYSLER,IMPERIAL,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Standard,Sport,FULL SIZE CAR
+CHRYSLER,INTREPID,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Standard,Sport,SMALL CAR
+CHRYSLER,LE BARON,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Standard,Sport,SMALL CAR
+CHRYSLER,LHS,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Standard,Sport,MID SIZE CAR
+CHRYSLER,NEW YORKER,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Standard,Sport,FULL SIZE CAR
+CHRYSLER,PACIFICA,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Standard,Sport,MINIVAN
+CHRYSLER,PROWLER,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Standard,Sport,MID SIZE CAR
+CHRYSLER,PT CRUISER,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Standard,Sport,SMALL CAR
+CHRYSLER,SEBRING,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Standard,Sport,SMALL CAR
+CHRYSLER,TOWN AND COUNTRY,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Standard,Sport,MINIVAN
+CHRYSLER,VOYAGER,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Standard,Sport,MINIVAN
+DAEWOO,LANOS,Value,KIA,Import,Korean,Import,Value,Value,MID SIZE CAR
+DAEWOO,LEGANZA,Value,KIA,Import,Korean,Import,Value,Value,MID SIZE CAR
+DAEWOO,NUBIRA,Value,KIA,Import,Korean,Import,Value,Value,MID SIZE CAR
+DATSUN,310,Value,NISSAN,Import,Japanese,Import,Value,Value,SMALL CAR
+DATSUN,200SX,Value,NISSAN,Import,Japanese,Import,Value,Value,SMALL CAR
+DATSUN,280ZX,Value,NISSAN,Import,Japanese,Import,Value,Value,SMALL CAR
+DATSUN,PULSAR,Value,NISSAN,Import,Japanese,Import,Value,Value,SMALL CAR
+DATSUN,SENTRA,Value,NISSAN,Import,Japanese,Import,Value,Value,SMALL CAR
+DATSUN,STANZA,Value,NISSAN,Import,Japanese,Import,Value,Value,SMALL CAR
+DODGE,D150,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,MID SIZE TRUCK
+DODGE,400,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,SMALL CAR
+DODGE,600,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,SMALL CAR
+DODGE,ARIES,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,SMALL CAR
+DODGE,AVENGER,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,MID SIZE CAR
+DODGE,CALIBER,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,SMALL CAR
+DODGE,CARAVAN,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,MINIVAN
+DODGE,CHALLENGER,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,MID SIZE CAR
+DODGE,CHARGER,Value,DODGE-RAM,Domestic,American,Domestic,Muscle,Sport,MID SIZE CAR
+DODGE,COLT,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,SMALL CAR
+DODGE,DAKOTA,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,MID SIZE TRUCK
+DODGE,DART,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,SMALL CAR
+DODGE,DAYTONA,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,SMALL CAR
+DODGE,DIPLOMAT,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,MID SIZE CAR
+DODGE,DURANGO,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,FULL SIZE SUV
+DODGE,DYNASTY,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,MID SIZE CAR
+DODGE,GRAND CARAVAN,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,MINIVAN
+DODGE,INTREPID,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,MID SIZE CAR
+DODGE,JOURNEY,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,FULL SIZE SUV
+DODGE,LANCER,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,SMALL CAR
+DODGE,MAGNUM,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,FULL SIZE CAR
+DODGE,MIRADA,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,SMALL CAR
+DODGE,MONACO,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,FULL SIZE CAR
+DODGE,NEON,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,SMALL CAR
+DODGE,NITRO,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,SMALL SUV
+DODGE,OMNI,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,SMALL CAR
+DODGE,RAIDER,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,SMALL SUV
+DODGE,RAM 100,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,MID SIZE TRUCK
+DODGE,RAM 150,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,FULL SIZE TRUCK
+DODGE,RAM 1500,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,FULL SIZE TRUCK
+DODGE,RAM 250,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,FULL SIZE TRUCK
+DODGE,RAM 350,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,FULL SIZE TRUCK
+DODGE,RAM 3500,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,FULL SIZE TRUCK
+DODGE,RAM 4500,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,FULL SIZE TRUCK
+DODGE,SHADOW,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,SMALL CAR
+DODGE,SPIRIT,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,SMALL CAR
+DODGE,STEALTH,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,MID SIZE CAR
+DODGE,STRATUS,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,MID SIZE CAR
+DODGE,VANS,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,MINIVAN
+DODGE,VIPER,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,MID SIZE CAR
+EAGLE,PREMIER,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Value,Value,MID SIZE CAR
+EAGLE,SUMMIT,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Value,Value,MID SIZE CAR
+EAGLE,TALON,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Value,Value,MID SIZE CAR
+EAGLE,VISION,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Value,Value,MID SIZE CAR
+FIAT,500,Value,FIAT,Import,European,Import,Sport,Value,SMALL CAR
+FIAT,124 SPIDER,Value,FIAT,Import,European,Import,Sport,Value,SMALL CAR
+FORD,AEROSTAR,Value,FORD,Domestic,American,Domestic,Standard,Sport,MINIVAN
+FORD,ASPIRE,Value,FORD,Domestic,American,Domestic,Standard,Sport,SMALL CAR
+FORD,BRONCO,Value,FORD,Domestic,American,Domestic,Standard,Sport,FULL SIZE SUV
+FORD,C-MAX ENERGI,Value,FORD,Domestic,American,Domestic,Standard,Sport,SMALL CAR
+FORD,CONTOUR,Value,FORD,Domestic,American,Domestic,Standard,Sport,MID SIZE CAR
+FORD,CROWN VICTORIA,Value,FORD,Domestic,American,Domestic,Standard,Sport,FULL SIZE CAR
+FORD,E-350,Value,FORD,Domestic,American,Domestic,Standard,Sport,MINIVAN
+FORD,E-450,Value,FORD,Domestic,American,Domestic,Standard,Sport,FULL SIZE TRUCK
+FORD,ECONOLINE,Value,FORD,Domestic,American,Domestic,Standard,Sport,FULL SIZE SUV
+FORD,ECOSPORT,Value,FORD,Domestic,American,Domestic,Standard,Sport,SMALL SUV
+FORD,EDGE,Value,FORD,Domestic,American,Domestic,Standard,Sport,MID SIZE SUV
+FORD,ESCAPE,Value,FORD,Domestic,American,Domestic,Standard,Sport,SMALL SUV
+FORD,ESCORT,Value,FORD,Domestic,American,Domestic,Standard,Sport,SMALL CAR
+FORD,EXCURSION,Value,FORD,Domestic,American,Domestic,Standard,Sport,FULL SIZE SUV
+FORD,EXPEDITION,Value,FORD,Domestic,American,Domestic,Standard,Sport,FULL SIZE SUV
+FORD,EXPLORER,Value,FORD,Domestic,American,Domestic,Standard,Sport,MID SIZE SUV
+FORD,F-100,Value,FORD,Domestic,American,Domestic,Standard,Sport,FULL SIZE TRUCK
+FORD,F-150,Value,FORD,Domestic,American,Domestic,Standard,Sport,FULL SIZE TRUCK
+FORD,F-250,Value,FORD,Domestic,American,Domestic,Standard,Sport,FULL SIZE TRUCK
+FORD,F-350,Value,FORD,Domestic,American,Domestic,Standard,Sport,FULL SIZE TRUCK
+FORD,F-450,Value,FORD,Domestic,American,Domestic,Standard,Sport,FULL SIZE TRUCK
+FORD,FAIRMONT,Value,FORD,Domestic,American,Domestic,Standard,Sport,MID SIZE CAR
+FORD,FESTIVA,Value,FORD,Domestic,American,Domestic,Standard,Sport,SMALL CAR
+FORD,FIESTA,Value,FORD,Domestic,American,Domestic,Standard,Sport,SMALL CAR
+FORD,FLEX,Value,FORD,Domestic,American,Domestic,Standard,Sport,MID SIZE SUV
+FORD,FOCUS,Value,FORD,Domestic,American,Domestic,Standard,Sport,SMALL CAR
+FORD,FREESTAR,Value,FORD,Domestic,American,Domestic,Standard,Sport,MINIVAN
+FORD,FREESTYLE,Value,FORD,Domestic,American,Domestic,Standard,Sport,SMALL CAR
+FORD,FUSION,Value,FORD,Domestic,American,Domestic,Standard,Sport,MID SIZE CAR
+FORD,FUSION HYBRID,Value,FORD,Domestic,American,Domestic,Standard,Sport,MID SIZE CAR
+FORD,GRANADA,Value,FORD,Domestic,American,Domestic,Standard,Sport,MID SIZE CAR
+FORD,MUSTANG,Value,FORD,Domestic,American,Domestic,Muscle,Sport,SMALL CAR
+FORD,PROBE,Value,FORD,Domestic,American,Domestic,Standard,Sport,SMALL CAR
+FORD,RANGER,Value,FORD,Domestic,American,Domestic,Standard,Sport,SMALL TRUCK
+FORD,SUPER DUTY F-250,Value,FORD,Domestic,American,Domestic,Standard,Sport,FULL SIZE TRUCK
+FORD,SHELBY GT500,Value,FORD,Domestic,American,Domestic,Standard,Sport,MID SIZE CAR
+FORD,TAURUS,Value,FORD,Domestic,American,Domestic,Standard,Sport,MID SIZE CAR
+FORD,TEMPO,Value,FORD,Domestic,American,Domestic,Standard,Sport,SMALL CAR
+FORD,THUNDERBIRD,Value,FORD,Domestic,American,Domestic,Standard,Sport,SMALL CAR
+FORD,TRANSIT-350,Value,FORD,Domestic,American,Domestic,Standard,Sport,FULL SIZE VAN
+FORD,VAN,Value,FORD,Domestic,American,Domestic,Standard,Sport,FULL SIZE TRUCK
+FORD,WINDSTAR,Value,FORD,Domestic,American,Domestic,Standard,Sport,MINIVAN
+GENESIS,G80,Luxury,HYUNDAI,Luxury,Korean,Import,Reliability,Value,FULL SIZE CAR
+GENESIS,G90,Luxury,HYUNDAI,Luxury,Korean,Import,Reliability,Value,FULL SIZE CAR
+GENESIS,G70,Luxury,HYUNDAI,Luxury,Korean,Import,Reliability,Value,FULL SIZE CAR
+GEO,METRO,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,SMALL CAR
+GEO,PRIZM,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,SMALL CAR
+GEO,SPECTRUM,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,SMALL CAR
+GEO,STORM,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,SMALL CAR
+GEO,TRACKER,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,SMALL SUV
+GMC,ACADIA,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Value,MID SIZE SUV
+GMC,C/K 1500 SERIES,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Value,FULL SIZE TRUCK
+GMC,C/K 2500 SERIES,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Value,FULL SIZE TRUCK
+GMC,C/K 3500 SERIES,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Value,FULL SIZE TRUCK
+GMC,CANYON,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Value,MID SIZE TRUCK
+GMC,ENVOY,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Value,MID SIZE SUV
+GMC,JIMMY,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Value,SMALL SUV
+GMC,R/V 1500 SERIES,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Value,FULL SIZE TRUCK
+GMC,G25,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Value,MINIVAN
+GMC,S-15,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Value,SMALL TRUCK
+GMC,SAVANA,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Value,MINIVAN
+GMC,SIERRA 1500,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Value,FULL SIZE TRUCK
+GMC,SIERRA 2500,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Value,FULL SIZE TRUCK
+GMC,SIERRA 3500,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Value,FULL SIZE TRUCK
+GMC,SONOMA,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Value,FULL SIZE TRUCK
+GMC,SUBURBAN,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Value,FULL SIZE TRUCK
+GMC,TERRAIN,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Value,SMALL SUV
+GMC,TYPHOON,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Value,FULL SIZE SUV
+GMC,YUKON,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Value,FULL SIZE SUV
+GMC,YUKON DENALI,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Value,FULL SIZE SUV
+GMC,YUKON XL,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Standard,Value,FULL SIZE SUV
+HONDA,ACCORD,Reliability,HONDA,Import,Japanese,Import,Reliability,Low Maintenance,MID SIZE CAR
+HONDA,ACCORD CROSSTOUR,Reliability,HONDA,Import,Japanese,Import,Reliability,Low Maintenance,MID SIZE CAR
+HONDA,CIVIC,Reliability,HONDA,Import,Japanese,Import,Reliability,Low Maintenance,SMALL CAR
+HONDA,CLARITY,Reliability,HONDA,Import,Japanese,Import,Reliability,Low Maintenance,SMALL CAR
+HONDA,CROSSTOUR,Reliability,HONDA,Import,Japanese,Import,Reliability,Low Maintenance,SMALL CAR
+HONDA,CR-V,Reliability,HONDA,Import,Japanese,Import,Reliability,Low Maintenance,SMALL SUV
+HONDA,CR-Z,Reliability,HONDA,Import,Japanese,Import,Reliability,Low Maintenance,SMALL CAR
+HONDA,ELEMENT,Reliability,HONDA,Import,Japanese,Import,Reliability,Low Maintenance,SMALL SUV
+HONDA,FIT,Reliability,HONDA,Import,Japanese,Import,Reliability,Low Maintenance,SMALL CAR
+HONDA,HR-V,Reliability,HONDA,Import,Japanese,Import,Reliability,Low Maintenance,MID SIZE CAR
+HONDA,INSIGHT,Reliability,HONDA,Import,Japanese,Import,Reliability,Low Maintenance,MID SIZE CAR
+HONDA,ODYSSEY,Reliability,HONDA,Import,Japanese,Import,Reliability,Low Maintenance,MINIVAN
+HONDA,PASSPORT,Reliability,HONDA,Import,Japanese,Import,Reliability,Low Maintenance,MID SIZE SUV
+HONDA,PILOT,Reliability,HONDA,Import,Japanese,Import,Reliability,Low Maintenance,FULL SIZE SUV
+HONDA,PRELUDE,Reliability,HONDA,Import,Japanese,Import,Reliability,Low Maintenance,SMALL CAR
+HONDA,RIDGELINE,Reliability,HONDA,Import,Japanese,Import,Reliability,Low Maintenance,FULL SIZE TRUCK
+HONDA,S2000,Reliability,HONDA,Import,Japanese,Import,Muscle,Sport,SMALL CAR
+HUMMER,H2,Luxury,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Luxury,Sport,FULL SIZE SUV
+HUMMER,H2 SUT,Luxury,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Luxury,Sport,FULL SIZE TRUCK
+HUMMER,H3,Luxury,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Luxury,Sport,FULL SIZE SUV
+HUMMER,H3T,Luxury,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Luxury,Sport,FULL SIZE TRUCK
+HYUNDAI,ACCENT,Value,HYUNDAI,Import,Korean,Import,Value,Reliability,SMALL CAR
+HYUNDAI,AZERA,Value,HYUNDAI,Import,Korean,Import,Value,Reliability,MID SIZE CAR
+HYUNDAI,ELANTRA,Value,HYUNDAI,Import,Korean,Import,Value,Reliability,SMALL CAR
+HYUNDAI,ENTOURAGE,Value,HYUNDAI,Import,Korean,Import,Value,Reliability,MINIVAN
+HYUNDAI,EQUUS,Value,HYUNDAI,Import,Korean,Import,Value,Reliability,FULL SIZE CAR
+HYUNDAI,EXCEL,Value,HYUNDAI,Import,Korean,Import,Value,Reliability,SMALL CAR
+HYUNDAI,GENESIS,Value,HYUNDAI,Import,Korean,Import,Value,Reliability,FULL SIZE CAR
+HYUNDAI,SANTA CRUZ,Value,HYUNDAI,Import,Korean,Import,Value,Reliability,MID SIZE TRUCK
+HYUNDAI,IONIQ,Value,HYUNDAI,Import,Korean,Import,Value,Reliability,SMALL CAR
+HYUNDAI,KONA,Value,HYUNDAI,Import,Korean,Import,Value,Reliability,SMALL SUV
+HYUNDAI,PALISADE,Value,HYUNDAI,Import,Korean,Import,Value,Reliability,FULL SIZE SUV
+HYUNDAI,SANTA FE,Value,HYUNDAI,Import,Korean,Import,Value,Reliability,MID SIZE SUV
+HYUNDAI,SCOUPE,Value,HYUNDAI,Import,Korean,Import,Value,Reliability,SMALL CAR
+HYUNDAI,SONATA,Value,HYUNDAI,Import,Korean,Import,Value,Reliability,MID SIZE CAR
+HYUNDAI,TIBURON,Value,HYUNDAI,Import,Korean,Import,Value,Reliability,SMALL CAR
+HYUNDAI,TUCSON,Value,HYUNDAI,Import,Korean,Import,Value,Reliability,MID SIZE SUV
+HYUNDAI,VELOSTER,Value,HYUNDAI,Import,Korean,Import,Value,Reliability,SMALL CAR
+HYUNDAI,VENUE,Value,HYUNDAI,Import,Korean,Import,Value,Reliability,SMALL CAR
+HYUNDAI,VERACRUZ,Value,HYUNDAI,Import,Korean,Import,Value,Reliability,SMALL SUV
+HYUNDAI,XG300,Value,HYUNDAI,Import,Korean,Import,Value,Reliability,SMALL CAR
+HYUNDAI,XG350,Value,HYUNDAI,Import,Korean,Import,Value,Reliability,SMALL CAR
+INFINITI,EX35,Luxury,INFINITI,Luxury,Japanese,Import,Luxury,Reliability,SMALL SUV
+INFINITI,EX37,Luxury,INFINITI,Luxury,Japanese,Import,Luxury,Reliability,SMALL CAR
+INFINITI,FX35,Luxury,INFINITI,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE SUV
+INFINITI,FX37,Luxury,INFINITI,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE CAR
+INFINITI,FX45,Luxury,INFINITI,Luxury,Japanese,Import,Luxury,Reliability,FULL SIZE SUV
+INFINITI,FX50,Luxury,INFINITI,Luxury,Japanese,Import,Luxury,Reliability,FULL SIZE SUV
+INFINITI,G20,Luxury,INFINITI,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE CAR
+INFINITI,G35,Luxury,INFINITI,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE CAR
+INFINITI,G37,Luxury,INFINITI,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE CAR
+INFINITI,I30,Luxury,INFINITI,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE CAR
+INFINITI,I35,Luxury,INFINITI,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE CAR
+INFINITI,J30,Luxury,INFINITI,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE CAR
+INFINITI,JX35,Luxury,INFINITI,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE CAR
+INFINITI,M35,Luxury,INFINITI,Luxury,Japanese,Import,Luxury,Reliability,FULL SIZE CAR
+INFINITI,M37,Luxury,INFINITI,Luxury,Japanese,Import,Luxury,Reliability,SMALL SUV
+INFINITI,M45,Luxury,INFINITI,Luxury,Japanese,Import,Luxury,Reliability,FULL SIZE CAR
+INFINITI,M56,Luxury,INFINITI,Luxury,Japanese,Import,Luxury,Reliability,FULL SIZE CAR
+INFINITI,Q40,Luxury,INFINITI,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE CAR
+INFINITI,Q45,Luxury,INFINITI,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE CAR
+INFINITI,Q50,Luxury,INFINITI,Luxury,Japanese,Import,Luxury,Reliability,SMALL CAR
+INFINITI,Q60,Luxury,INFINITI,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE CAR
+INFINITI,Q70,Luxury,INFINITI,Luxury,Japanese,Import,Luxury,Reliability,FULL SIZE CAR
+INFINITI,QX30,Luxury,INFINITI,Luxury,Japanese,Import,Luxury,Reliability,SMALL SUV
+INFINITI,QX4,Luxury,INFINITI,Luxury,Japanese,Import,Luxury,Reliability,FULL SIZE SUV
+INFINITI,QX50,Luxury,INFINITI,Luxury,Japanese,Import,Luxury,Reliability,SMALL CAR
+INFINITI,QX56,Luxury,INFINITI,Luxury,Japanese,Import,Luxury,Reliability,FULL SIZE SUV
+INFINITI,QX60,Luxury,INFINITI,Luxury,Japanese,Import,Luxury,Reliability,FULL SIZE CAR
+INFINITI,QX70,Luxury,INFINITI,Luxury,Japanese,Import,Luxury,Reliability,FULL SIZE SUV
+INFINITI,QX80,Luxury,INFINITI,Luxury,Japanese,Import,Luxury,Reliability,FULL SIZE SUV
+ISUZU,AMIGO,Value,MITSUBISHI,Import,Japanese,Import,Value,Value,SMALL SUV
+ISUZU,ASCENDER,Value,MITSUBISHI,Import,Japanese,Import,Value,Value,FULL SIZE SUV
+ISUZU,AXIOM,Value,MITSUBISHI,Import,Japanese,Import,Value,Value,SMALL SUV
+ISUZU,HOMBRE,Value,MITSUBISHI,Import,Japanese,Import,Value,Value,SMALL TRUCK
+ISUZU,I-MARK,Value,MITSUBISHI,Import,Japanese,Import,Value,Value,SMALL CAR
+ISUZU,IMPULSE,Value,MITSUBISHI,Import,Japanese,Import,Value,Value,SMALL CAR
+ISUZU,I-SERIES,Value,MITSUBISHI,Import,Japanese,Import,Value,Value,FULL SIZE TRUCK
+ISUZU,OASIS,Value,MITSUBISHI,Import,Japanese,Import,Value,Value,MINIVAN
+ISUZU,PICKUP,Value,MITSUBISHI,Import,Japanese,Import,Value,Value,SMALL TRUCK
+ISUZU,RODEO,Value,MITSUBISHI,Import,Japanese,Import,Value,Value,SMALL SUV
+ISUZU,RODEO SPORT,Value,MITSUBISHI,Import,Japanese,Import,Value,Value,SMALL SUV
+ISUZU,STYLUS,Value,MITSUBISHI,Import,Japanese,Import,Value,Value,SMALL CAR
+ISUZU,TROOPER,Value,MITSUBISHI,Import,Japanese,Import,Value,Value,FULL SIZE SUV
+ISUZU,TROOPER II,Value,MITSUBISHI,Import,Japanese,Import,Value,Value,SMALL SUV
+ISUZU,VEHICROSS,Value,MITSUBISHI,Import,Japanese,Import,Value,Value,SMALL SUV
+JAGUAR,F-PACE,Luxury,JAGUAR-LANDROVER,Luxury,European,Import,Luxury,Sport,MID SIZE SUV
+JAGUAR,F-TYPE,Luxury,JAGUAR-LANDROVER,Luxury,European,Import,Luxury,Sport,SMALL CAR
+JAGUAR,S-TYPE,Luxury,JAGUAR-LANDROVER,Luxury,European,Import,Luxury,Sport,FULL SIZE CAR
+JAGUAR,E-PACE,Luxury,JAGUAR-LANDROVER,Luxury,European,Import,Luxury,Sport,MID SIZE SUV
+JAGUAR,XE,Luxury,JAGUAR-LANDROVER,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+JAGUAR,XF,Luxury,JAGUAR-LANDROVER,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+JAGUAR,XJ,Luxury,JAGUAR-LANDROVER,Luxury,European,Import,Luxury,Sport,FULL SIZE CAR
+JAGUAR,XJL,Luxury,JAGUAR-LANDROVER,Luxury,European,Import,Luxury,Sport,FULL SIZE CAR
+JAGUAR,XJR,Luxury,JAGUAR-LANDROVER,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+JAGUAR,XK,Luxury,JAGUAR-LANDROVER,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+JAGUAR,XKR,Luxury,JAGUAR-LANDROVER,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+JAGUAR,X-TYPE,Luxury,JAGUAR-LANDROVER,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+JEEP,CHEROKEE,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Sport,Value,SMALL SUV
+JEEP,CJ-5,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Sport,Value,FULL SIZE SUV
+JEEP,CJ-7,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Sport,Value,FULL SIZE SUV
+JEEP,COMANCHE,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Sport,Value,FULL SIZE TRUCK
+JEEP,COMMANDER,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Sport,Value,MID SIZE SUV
+JEEP,COMPASS,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Sport,Value,SMALL SUV
+JEEP,GRAND CHEROKEE,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Sport,Value,MID SIZE SUV
+JEEP,GRAND WAGONEER,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Sport,Value,SMALL SUV
+JEEP,LIBERTY,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Sport,Value,SMALL SUV
+JEEP,PATRIOT,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Sport,Value,SMALL SUV
+JEEP,RENEGADE,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Sport,Value,SMALL SUV
+JEEP,SCRAMBLER,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Sport,Value,SMALL SUV
+JEEP,WAGONEER,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Sport,Value,SMALL SUV
+JEEP,WRANGLER,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Muscle,Sport,SMALL SUV
+JEEP,GLADIATOR,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Sport,Value,MID SIZE TRUCK
+KIA,AMANTI,Value,KIA,Import,Korean,Import,Value,Value,MID SIZE CAR
+KIA,BORREGO,Value,KIA,Import,Korean,Import,Value,Value,MID SIZE SUV
+KIA,CADENZA,Value,KIA,Import,Korean,Import,Value,Value,MID SIZE CAR
+KIA,FORTE,Value,KIA,Import,Korean,Import,Value,Value,SMALL CAR
+KIA,NIRO,Value,KIA,Import,Korean,Import,Value,Value,SMALL CAR
+KIA,OPTIMA,Value,KIA,Import,Korean,Import,Value,Value,MID SIZE CAR
+KIA,RIO,Value,KIA,Import,Korean,Import,Value,Value,SMALL CAR
+KIA,RONDO,Value,KIA,Import,Korean,Import,Value,Value,SMALL CAR
+KIA,SEDONA,Value,KIA,Import,Korean,Import,Value,Value,MINIVAN
+KIA,SEPHIA,Value,KIA,Import,Korean,Import,Value,Value,SMALL CAR
+KIA,SORENTO,Value,KIA,Import,Korean,Import,Value,Value,SMALL SUV
+KIA,SOUL,Value,KIA,Import,Korean,Import,Value,Value,SMALL CAR
+KIA,SPECTRA,Value,KIA,Import,Korean,Import,Value,Value,SMALL CAR
+KIA,SPORTAGE,Value,KIA,Import,Korean,Import,Value,Value,SMALL SUV
+KIA,K5,Value,KIA,Import,Korean,Import,Value,Value,MID SIZE CAR
+KIA,K900,Value,KIA,Import,Korean,Import,Value,Value,FULL SIZE CAR
+KIA,STINGER,Value,KIA,Import,Korean,Import,Value,Value,MID SIZE CAR
+KIA,TELLURIDE,Value,KIA,Import,Korean,Import,Value,Value,MID SIZE SUV
+KIA,SELTOS,Value,KIA,Import,Korean,Import,Value,Value,SMALL SUV
+LAND ROVER,DEFENDER,Luxury,JAGUAR-LANDROVER,Luxury,European,Import,Luxury,Sport,FULL SIZE SUV
+LAND ROVER,DISCOVERY,Luxury,JAGUAR-LANDROVER,Luxury,European,Import,Luxury,Sport,FULL SIZE SUV
+LAND ROVER,EVOQUE,Luxury,JAGUAR-LANDROVER,Luxury,European,Import,Luxury,Sport,SMALL SUV
+LAND ROVER,FREELANDER,Luxury,JAGUAR-LANDROVER,Luxury,European,Import,Luxury,Sport,SMALL SUV
+LAND ROVER,LR2,Luxury,JAGUAR-LANDROVER,Luxury,European,Import,Luxury,Sport,FULL SIZE SUV
+LAND ROVER,LR3,Luxury,JAGUAR-LANDROVER,Luxury,European,Import,Luxury,Sport,FULL SIZE SUV
+LAND ROVER,LR4,Luxury,JAGUAR-LANDROVER,Luxury,European,Import,Luxury,Sport,FULL SIZE SUV
+LAND ROVER,RANGE ROVER,Luxury,JAGUAR-LANDROVER,Luxury,European,Import,Luxury,Sport,FULL SIZE SUV
+LEXUS,CT,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,SMALL CAR
+LEXUS,ES,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,FULL SIZE CAR
+LEXUS,ES 250,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE CAR
+LEXUS,ES 300,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE CAR
+LEXUS,ES 330,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE CAR
+LEXUS,ES 350,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE CAR
+LEXUS,GS,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE CAR
+LEXUS,GS 300,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE CAR
+LEXUS,GS 350,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE CAR
+LEXUS,GS 400,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE CAR
+LEXUS,GS 430,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE CAR
+LEXUS,GS 450,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE CAR
+LEXUS,GS 460,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE CAR
+LEXUS,GX,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,FULL SIZE SUV
+LEXUS,GX 460,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,FULL SIZE SUV
+LEXUS,GX 470,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,FULL SIZE SUV
+LEXUS,HS 250,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE CAR
+LEXUS,IS,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE CAR
+LEXUS,IS 200,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE CAR
+LEXUS,IS 250,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE CAR
+LEXUS,IS 300,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE CAR
+LEXUS,IS 350,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE CAR
+LEXUS,LS,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,FULL SIZE CAR
+LEXUS,LS 400,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,FULL SIZE CAR
+LEXUS,LS 430,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,FULL SIZE CAR
+LEXUS,LS 460,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,FULL SIZE CAR
+LEXUS,LS 600,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,FULL SIZE CAR
+LEXUS,LX 450,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,FULL SIZE SUV
+LEXUS,LX 470,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,FULL SIZE SUV
+LEXUS,LX 570,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,FULL SIZE SUV
+LEXUS,NX,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,SMALL SUV
+LEXUS,NX 200,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,SMALL CAR
+LEXUS,NX 300,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,SMALL CAR
+LEXUS,RC,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE CAR
+LEXUS,RC 300,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE CAR
+LEXUS,RC 350,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE CAR
+LEXUS,RX,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,SMALL SUV
+LEXUS,RX 300,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE SUV
+LEXUS,RX 330,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE SUV
+LEXUS,RX 350,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE SUV
+LEXUS,RX 400,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE SUV
+LEXUS,RX 450,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE SUV
+LEXUS,SC 300,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE CAR
+LEXUS,SC 400,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE CAR
+LEXUS,UX,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,SMALL CAR
+LEXUS,SC 430,Luxury,LEXUS,Luxury,Japanese,Import,Luxury,Reliability,MID SIZE CAR
+LINCOLN,AVIATOR,Luxury,LINCOLN,Luxury,American,Domestic,Luxury,Status,FULL SIZE SUV
+LINCOLN,CONTINENTAL,Luxury,LINCOLN,Luxury,American,Domestic,Luxury,Status,FULL SIZE CAR
+LINCOLN,LS,Luxury,LINCOLN,Luxury,American,Domestic,Luxury,Status,FULL SIZE CAR
+LINCOLN,MARK,Luxury,LINCOLN,Luxury,American,Domestic,Luxury,Status,FULL SIZE CAR
+LINCOLN,MARK LT,Luxury,LINCOLN,Luxury,American,Domestic,Luxury,Status,FULL SIZE TRUCK
+LINCOLN,MKC,Luxury,LINCOLN,Luxury,American,Domestic,Luxury,Status,SMALL SUV
+LINCOLN,MKS,Luxury,LINCOLN,Luxury,American,Domestic,Luxury,Status,MID SIZE CAR
+LINCOLN,CORSAIR,Luxury,LINCOLN,Luxury,American,Domestic,Luxury,Status,FULL SIZE SUV
+LINCOLN,MKT,Luxury,LINCOLN,Luxury,American,Domestic,Luxury,Status,SMALL CAR
+LINCOLN,MKX,Luxury,LINCOLN,Luxury,American,Domestic,Luxury,Status,MID SIZE SUV
+LINCOLN,MKZ,Luxury,LINCOLN,Luxury,American,Domestic,Luxury,Status,MID SIZE CAR
+LINCOLN,MKZ HYBRID,Luxury,LINCOLN,Luxury,American,Domestic,Luxury,Status,SMALL CAR
+LINCOLN,NAUTILUS,Luxury,LINCOLN,Luxury,American,Domestic,Luxury,Status,SMALL SUV
+LINCOLN,NAVIGATOR,Luxury,LINCOLN,Luxury,American,Domestic,Luxury,Status,FULL SIZE SUV
+LINCOLN,TOWN CAR,Luxury,LINCOLN,Luxury,American,Domestic,Luxury,Status,FULL SIZE CAR
+LINCOLN,ZEPHYR,Luxury,LINCOLN,Luxury,American,Domestic,Luxury,Status,FULL SIZE CAR
+LOTUS,EVORA,Luxury,LOTUS,Luxury,European,Import,Luxury,Sport,SMALL CAR
+MASERATI,GHIBLI,Luxury,PORSCHE,Luxury,European,Import,Premium,Status,FULL SIZE CAR
+MASERATI,GRAN TURISMO,Luxury,PORSCHE,Luxury,European,Import,Premium,Status,MID SIZE CAR
+MASERATI,GRANSPORT,Luxury,PORSCHE,Luxury,European,Import,Premium,Status,MID SIZE CAR
+MASERATI,LEVANTE,Luxury,PORSCHE,Luxury,European,Import,Premium,Status,MID SIZE SUV
+MASERATI,QUATTROPORTE,Luxury,PORSCHE,Luxury,European,Import,Premium,Status,FULL SIZE CAR
+MASERATI,SPYDER,Luxury,PORSCHE,Luxury,European,Import,Premium,Status,MID SIZE CAR
+MAZDA,323,Value,MAZDA,Import,Japanese,Import,Standard,Value,SMALL CAR
+MAZDA,626,Value,MAZDA,Import,Japanese,Import,Standard,Value,MID SIZE CAR
+MAZDA,929,Value,MAZDA,Import,Japanese,Import,Standard,Value,MID SIZE CAR
+MAZDA,B-SERIES,Value,MAZDA,Import,Japanese,Import,Standard,Value,SMALL TRUCK
+MAZDA,CX-3,Value,MAZDA,Import,Japanese,Import,Standard,Value,SMALL CAR
+MAZDA,CX-5,Value,MAZDA,Import,Japanese,Import,Standard,Value,SMALL SUV
+MAZDA,CX-7,Value,MAZDA,Import,Japanese,Import,Standard,Value,MID SIZE SUV
+MAZDA,CX-9,Value,MAZDA,Import,Japanese,Import,Standard,Value,MID SIZE SUV
+MAZDA,MAZDA CX-9,Value,MAZDA,Import,Japanese,Import,Standard,Value,MID SIZE SUV
+MAZDA,GLC,Value,MAZDA,Import,Japanese,Import,Standard,Value,SMALL CAR
+MAZDA,MAZDA2,Value,MAZDA,Import,Japanese,Import,Standard,Value,FULL SIZE SUV
+MAZDA,MAZDA3,Value,MAZDA,Import,Japanese,Import,Standard,Value,SMALL CAR
+MAZDA,MAZDA5,Value,MAZDA,Import,Japanese,Import,Standard,Value,SMALL CAR
+MAZDA,MAZDA6,Value,MAZDA,Import,Japanese,Import,Standard,Value,MID SIZE CAR
+MAZDA,MIATA,Value,MAZDA,Import,Japanese,Import,Standard,Value,SMALL CAR
+MAZDA,MILLENIA,Value,MAZDA,Import,Japanese,Import,Standard,Value,MID SIZE CAR
+MAZDA,MPV,Value,MAZDA,Import,Japanese,Import,Standard,Value,SMALL CAR
+MAZDA,MX-3,Value,MAZDA,Import,Japanese,Import,Standard,Value,SMALL CAR
+MAZDA,MX-5,Value,MAZDA,Import,Japanese,Import,Convertible,Sport,SMALL CAR
+MAZDA,MX-6,Value,MAZDA,Import,Japanese,Import,Standard,Value,SMALL CAR
+MAZDA,NAVAJO,Value,MAZDA,Import,Japanese,Import,Standard,Value,FULL SIZE SUV
+MAZDA,PROTEGE,Value,MAZDA,Import,Japanese,Import,Standard,Value,SMALL CAR
+MAZDA,RX-7,Value,MAZDA,Import,Japanese,Import,Standard,Value,SMALL CAR
+MAZDA,RX-8,Value,MAZDA,Import,Japanese,Import,Standard,Value,MID SIZE CAR
+MAZDA,TRIBUTE,Value,MAZDA,Import,Japanese,Import,Standard,Value,SMALL SUV
+MERCEDES-BENZ,190-CLASS,Luxury,MERCEDES-BENZ,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+MERCEDES-BENZ,240-CLASS,Luxury,MERCEDES-BENZ,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+MERCEDES-BENZ,300-CLASS,Luxury,MERCEDES-BENZ,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+MERCEDES-BENZ,380-CLASS,Luxury,MERCEDES-BENZ,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+MERCEDES-BENZ,400-CLASS,Luxury,MERCEDES-BENZ,Luxury,European,Import,Luxury,Sport,FULL SIZE CAR
+MERCEDES-BENZ,420-CLASS,Luxury,MERCEDES-BENZ,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+MERCEDES-BENZ,500-CLASS,Luxury,MERCEDES-BENZ,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+MERCEDES-BENZ,560-CLASS,Luxury,MERCEDES-BENZ,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+MERCEDES-BENZ,B-CLASS,Luxury,MERCEDES-BENZ,Luxury,European,Import,Luxury,Sport,SMALL CAR
+MERCEDES-BENZ,A-CLASS,Luxury,MERCEDES-BENZ,Luxury,European,Import,Luxury,Sport,SMALL CAR
+MERCEDES-BENZ,C-CLASS,Luxury,MERCEDES-BENZ,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+MERCEDES-BENZ,CLA-CLASS,Luxury,MERCEDES-BENZ,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+MERCEDES-BENZ,CL-CLASS,Luxury,MERCEDES-BENZ,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+MERCEDES-BENZ,CLK-CLASS,Luxury,MERCEDES-BENZ,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+MERCEDES-BENZ,CLS-CLASS,Luxury,MERCEDES-BENZ,Luxury,European,Import,Luxury,Sport,FULL SIZE CAR
+MERCEDES-BENZ,E-CLASS,Luxury,MERCEDES-BENZ,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+MERCEDES-BENZ,G-CLASS,Luxury,MERCEDES-BENZ,Luxury,European,Import,Luxury,Sport,FULL SIZE SUV
+MERCEDES-BENZ,GLA,Luxury,MERCEDES-BENZ,Luxury,European,Import,Luxury,Sport,SMALL SUV
+MERCEDES-BENZ,GLC,Luxury,MERCEDES-BENZ,Luxury,European,Import,Luxury,Sport,SMALL SUV
+MERCEDES-BENZ,GL,Luxury,MERCEDES-BENZ,Luxury,European,Import,Luxury,Sport,FULL SIZE SUV
+MERCEDES-BENZ,GLE,Luxury,MERCEDES-BENZ,Luxury,European,Import,Luxury,Sport,SMALL SUV
+MERCEDES-BENZ,GLK,Luxury,MERCEDES-BENZ,Luxury,European,Import,Luxury,Sport,SMALL SUV
+MERCEDES-BENZ,GLS,Luxury,MERCEDES-BENZ,Luxury,European,Import,Luxury,Sport,FULL SIZE SUV
+MERCEDES-BENZ,M-CLASS,Luxury,MERCEDES-BENZ,Luxury,European,Import,Luxury,Sport,FULL SIZE SUV
+MERCEDES-BENZ,METRIS,Luxury,MERCEDES-BENZ,Luxury,European,Import,Luxury,Sport,MINIVAN
+MERCEDES-BENZ,SPRINTER,Luxury,MERCEDES-BENZ,Luxury,European,Import,Luxury,Sport,MINIVAN
+MERCEDES-BENZ,R-CLASS,Luxury,MERCEDES-BENZ,Luxury,European,Import,Luxury,Sport,SMALL SUV
+MERCEDES-BENZ,S-CLASS,Luxury,MERCEDES-BENZ,Luxury,European,Import,Luxury,Sport,FULL SIZE CAR
+MERCEDES-BENZ,SL-CLASS,Luxury,MERCEDES-BENZ,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+MERCEDES-BENZ,SLK-CLASS,Luxury,MERCEDES-BENZ,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+MERCEDES-BENZ,SLR-CLASS,Luxury,MERCEDES-BENZ,Luxury,European,Import,Luxury,Sport,MID SIZE CAR
+MERCURY,CAPRI,Value,MERCURY,Domestic,American,Domestic,Value,Value,SMALL CAR
+MERCURY,COUGAR,Value,MERCURY,Domestic,American,Domestic,Value,Value,MID SIZE CAR
+MERCURY,GRAND MARQUIS,Value,MERCURY,Domestic,American,Domestic,Value,Value,FULL SIZE CAR
+MERCURY,LYNX,Value,MERCURY,Domestic,American,Domestic,Value,Value,SMALL CAR
+MERCURY,MARAUDER,Value,MERCURY,Domestic,American,Domestic,Value,Value,MID SIZE CAR
+MERCURY,MARINER,Value,MERCURY,Domestic,American,Domestic,Value,Value,FULL SIZE SUV
+MERCURY,MARQUIS,Value,MERCURY,Domestic,American,Domestic,Value,Value,MID SIZE CAR
+MERCURY,MILAN,Value,MERCURY,Domestic,American,Domestic,Value,Value,MID SIZE CAR
+MERCURY,MONTEGO,Value,MERCURY,Domestic,American,Domestic,Value,Value,FULL SIZE CAR
+MERCURY,MONTEREY,Value,MERCURY,Domestic,American,Domestic,Value,Value,MINIVAN
+MERCURY,MOUNTAINEER,Value,MERCURY,Domestic,American,Domestic,Value,Value,FULL SIZE TRUCK
+MERCURY,MYSTIQUE,Value,MERCURY,Domestic,American,Domestic,Value,Value,MID SIZE CAR
+MERCURY,SABLE,Value,MERCURY,Domestic,American,Domestic,Value,Value,MID SIZE CAR
+MERCURY,TOPAZ,Value,MERCURY,Domestic,American,Domestic,Value,Value,SMALL CAR
+MERCURY,TRACER,Value,MERCURY,Domestic,American,Domestic,Value,Value,MID SIZE CAR
+MERCURY,VILLAGER,Value,MERCURY,Domestic,American,Domestic,Value,Value,MINIVAN
+MERCURY,ZEPHYR,Value,MERCURY,Domestic,American,Domestic,Value,Value,MID SIZE CAR
+MINI,CLUBMAN,Luxury,BMW-MINI,Luxury,European,Import,Sport,Value,SMALL CAR
+MINI,COOPER,Luxury,BMW-MINI,Luxury,European,Import,Sport,Value,SMALL CAR
+MINI,COUNTRYMAN,Luxury,BMW-MINI,Luxury,European,Import,Sport,Value,SMALL CAR
+MINI,HARDTOP,Luxury,BMW-MINI,Luxury,European,Import,Sport,Value,SMALL CAR
+MINI,PACEMAN,Luxury,BMW-MINI,Luxury,European,Import,Sport,Value,SMALL CAR
+MINI,ROADSTER,Luxury,BMW-MINI,Luxury,European,Import,Sport,Value,SMALL CAR
+MITSUBISHI,3000GT,Value,MITSUBISHI,Import,Japanese,Import,Value,Value,MID SIZE CAR
+MITSUBISHI,DIAMANTE,Value,MITSUBISHI,Import,Japanese,Import,Value,Value,MID SIZE CAR
+MITSUBISHI,ECLIPSE,Value,MITSUBISHI,Import,Japanese,Import,Convertible,Value,SMALL CAR
+MITSUBISHI,ENDEAVOR,Value,MITSUBISHI,Import,Japanese,Import,Value,Value,MID SIZE SUV
+MITSUBISHI,EXPO,Value,MITSUBISHI,Import,Japanese,Import,Value,Value,SMALL CAR
+MITSUBISHI,GALANT,Value,MITSUBISHI,Import,Japanese,Import,Value,Value,MID SIZE CAR
+MITSUBISHI,LANCER,Value,MITSUBISHI,Import,Japanese,Import,Value,Value,SMALL CAR
+MITSUBISHI,MIRAGE,Value,MITSUBISHI,Import,Japanese,Import,Value,Value,SMALL CAR
+MITSUBISHI,MONTERO,Value,MITSUBISHI,Import,Japanese,Import,Value,Value,FULL SIZE SUV
+MITSUBISHI,OUTLANDER,Value,MITSUBISHI,Import,Japanese,Import,Value,Value,SMALL SUV
+MITSUBISHI,PRECIS,Value,MITSUBISHI,Import,Japanese,Import,Value,Value,SMALL CAR
+MITSUBISHI,RAIDER,Value,MITSUBISHI,Import,Japanese,Import,Value,Value,FULL SIZE TRUCK
+MITSUBISHI,STARION,Value,MITSUBISHI,Import,Japanese,Import,Value,Value,MID SIZE CAR
+MITSUBISHI,TREDIA,Value,MITSUBISHI,Import,Japanese,Import,Value,Value,SMALL CAR
+NISSAN,200SX,Reliability,NISSAN,Import,Japanese,Import,Convertible,Sport,SMALL CAR
+NISSAN,240SX,Reliability,NISSAN,Import,Japanese,Import,Convertible,Sport,SMALL CAR
+NISSAN,300ZX,Reliability,NISSAN,Import,Japanese,Import,Convertible,Sport,MID SIZE CAR
+NISSAN,350Z,Reliability,NISSAN,Import,Japanese,Import,Convertible,Sport,MID SIZE CAR
+NISSAN,370Z,Reliability,NISSAN,Import,Japanese,Import,Convertible,Sport,SMALL CAR
+NISSAN,ALTIMA,Reliability,NISSAN,Import,Japanese,Import,Reliability,Low Maintenance,MID SIZE CAR
+NISSAN,ARMADA,Reliability,NISSAN,Import,Japanese,Import,Reliability,Low Maintenance,FULL SIZE SUV
+NISSAN,AXXESS,Reliability,NISSAN,Import,Japanese,Import,Reliability,Low Maintenance,MINIVAN
+NISSAN,CUBE,Reliability,NISSAN,Import,Japanese,Import,Reliability,Low Maintenance,SMALL CAR
+NISSAN,FRONTIER,Reliability,NISSAN,Import,Japanese,Import,Reliability,Low Maintenance,SMALL TRUCK
+NISSAN,GT-R,Reliability,NISSAN,Import,Japanese,Import,Reliability,Low Maintenance,SMALL CAR
+NISSAN,JUKE,Reliability,NISSAN,Import,Japanese,Import,Reliability,Low Maintenance,SMALL CAR
+NISSAN,KICKS,Reliability,NISSAN,Import,Japanese,Import,Reliability,Low Maintenance,SMALL SUV
+NISSAN,LEAF,Reliability,NISSAN,Import,Japanese,Import,Reliability,Low Maintenance,SMALL SUV
+NISSAN,MAXIMA,Reliability,NISSAN,Import,Japanese,Import,Reliability,Low Maintenance,MID SIZE CAR
+NISSAN,MURANO,Reliability,NISSAN,Import,Japanese,Import,Reliability,Low Maintenance,MID SIZE SUV
+NISSAN,NV200,Reliability,NISSAN,Import,Japanese,Import,Reliability,Low Maintenance,MINIVAN
+NISSAN,NX,Reliability,NISSAN,Import,Japanese,Import,Reliability,Low Maintenance,SMALL CAR
+NISSAN,PATHFINDER,Reliability,NISSAN,Import,Japanese,Import,Reliability,Low Maintenance,MID SIZE SUV
+NISSAN,PULSAR,Reliability,NISSAN,Import,Japanese,Import,Reliability,Low Maintenance,SMALL CAR
+NISSAN,QUEST,Reliability,NISSAN,Import,Japanese,Import,Reliability,Low Maintenance,MINIVAN
+NISSAN,ROGUE,Reliability,NISSAN,Import,Japanese,Import,Reliability,Low Maintenance,SMALL SUV
+NISSAN,SENTRA,Reliability,NISSAN,Import,Japanese,Import,Reliability,Low Maintenance,SMALL CAR
+NISSAN,STANZA,Reliability,NISSAN,Import,Japanese,Import,Reliability,Low Maintenance,SMALL CAR
+NISSAN,TITAN,Reliability,NISSAN,Import,Japanese,Import,Reliability,Low Maintenance,FULL SIZE TRUCK
+NISSAN,VERSA,Reliability,NISSAN,Import,Japanese,Import,Reliability,Low Maintenance,SMALL CAR
+NISSAN,XTERRA,Reliability,NISSAN,Import,Japanese,Import,Reliability,Low Maintenance,SMALL SUV
+OLDSMOBILE,ACHIEVA,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,SMALL CAR
+OLDSMOBILE,ALERO,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,MID SIZE CAR
+OLDSMOBILE,AURORA,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,FULL SIZE CAR
+OLDSMOBILE,BRAVADA,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,FULL SIZE SUV
+OLDSMOBILE,CIERA,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,MID SIZE CAR
+OLDSMOBILE,CRUISER,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,MID SIZE CAR
+OLDSMOBILE,CUTLASS,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,SMALL CAR
+OLDSMOBILE,EIGHTY-EIGHT,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,SMALL CAR
+OLDSMOBILE,FIRENZA,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,SMALL CAR
+OLDSMOBILE,INTRIGUE,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,MID SIZE CAR
+OLDSMOBILE,LSS,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,MID SIZE CAR
+OLDSMOBILE,NINETY-EIGHT,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,FULL SIZE CAR
+OLDSMOBILE,OMEGA,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,SMALL CAR
+OLDSMOBILE,REGENCY,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,FULL SIZE CAR
+OLDSMOBILE,SILHOUETTE,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,MINIVAN
+OLDSMOBILE,TORONADO,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,FULL SIZE CAR
+PLYMOUTH,ACCLAIM,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Value,Value,SMALL CAR
+PLYMOUTH,BREEZE,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Value,Value,MID SIZE CAR
+PLYMOUTH,CARAVELLE,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Value,Value,SMALL CAR
+PLYMOUTH,COLT,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Value,Value,SMALL CAR
+PLYMOUTH,GRAN FURY,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Value,Value,FULL SIZE CAR
+PLYMOUTH,HORIZON,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Value,Value,SMALL CAR
+PLYMOUTH,LASER,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Value,Value,SMALL CAR
+PLYMOUTH,NEON,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Value,Value,SMALL CAR
+PLYMOUTH,PROWLER,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Value,Value,MID SIZE CAR
+PLYMOUTH,RELIANT K,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Value,Value,SMALL CAR
+PLYMOUTH,RELIANT K AMERICA,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Value,Value,SMALL CAR
+PLYMOUTH,SCAMP,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Value,Value,SMALL TRUCK
+PLYMOUTH,SUNDANCE,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Value,Value,SMALL CAR
+PLYMOUTH,TURISMO,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Value,Value,SMALL CAR
+PLYMOUTH,VOYAGER,Value,CHRYSLER-JEEP,Domestic,American,Domestic,Value,Value,MINIVAN
+PONTIAC,2000,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,SMALL CAR
+PONTIAC,6000,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,SMALL CAR
+PONTIAC,AZTEK,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,SMALL SUV
+PONTIAC,BONNEVILLE,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,FULL SIZE CAR
+PONTIAC,FIERO,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,SMALL CAR
+PONTIAC,FIREBIRD,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,MID SIZE CAR
+PONTIAC,G3,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,MID SIZE CAR
+PONTIAC,G5,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,SMALL CAR
+PONTIAC,G6,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,SMALL CAR
+PONTIAC,G8,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,MID SIZE CAR
+PONTIAC,GRAND AM,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,SMALL CAR
+PONTIAC,GRAND PRIX,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,MID SIZE CAR
+PONTIAC,GTO,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,FULL SIZE CAR
+PONTIAC,LE MANS,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,MID SIZE CAR
+PONTIAC,MONTANA,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,MINIVAN
+PONTIAC,PARISIENNE,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,FULL SIZE CAR
+PONTIAC,PHOENIX,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,SMALL CAR
+PONTIAC,SOLSTICE,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,SMALL CAR
+PONTIAC,SUNBIRD,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,SMALL CAR
+PONTIAC,SUNFIRE,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,SMALL CAR
+PONTIAC,TORRENT,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,SMALL CAR
+PONTIAC,VIBE,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,SMALL CAR
+PORSCHE,911,Luxury,PORSCHE,Luxury,European,Import,Premium,Sport,MID SIZE CAR
+PORSCHE,928,Luxury,PORSCHE,Luxury,European,Import,Premium,Status,MID SIZE CAR
+PORSCHE,944,Luxury,PORSCHE,Luxury,European,Import,Premium,Status,MID SIZE CAR
+PORSCHE,968,Luxury,PORSCHE,Luxury,European,Import,Premium,Status,MID SIZE CAR
+PORSCHE,BOXSTER,Luxury,PORSCHE,Luxury,European,Import,Premium,Sport,MID SIZE CAR
+PORSCHE,CAYENNE,Luxury,PORSCHE,Luxury,European,Import,Premium,Status,FULL SIZE SUV
+PORSCHE,CAYMAN,Luxury,PORSCHE,Luxury,European,Import,Premium,Status,MID SIZE CAR
+PORSCHE,MACAN,Luxury,PORSCHE,Luxury,European,Import,Premium,Status,SMALL SUV
+PORSCHE,PANAMERA,Luxury,PORSCHE,Luxury,European,Import,Premium,Status,FULL SIZE CAR
+RAM,1500,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,FULL SIZE TRUCK
+RAM,2500,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,FULL SIZE TRUCK
+RAM,3500,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,FULL SIZE TRUCK
+RAM,4500,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,MID SIZE CAR
+RAM,DAKOTA,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,MID SIZE TRUCK
+RAM,PROMASTER 1500,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,MINIVAN
+RAM,PROMASTER CITY,Value,DODGE-RAM,Domestic,American,Domestic,Standard,Sport,MINIVAN
+SAAB,900,Value,CHEVROLET-GMC-HUMMER,Import,European,Import,Value,Value,SMALL CAR
+SAAB,9000,Value,CHEVROLET-GMC-HUMMER,Import,European,Import,Value,Value,MID SIZE CAR
+SAAB,3-Sep,Value,CHEVROLET-GMC-HUMMER,Import,European,Import,Value,Value,MID SIZE CAR
+SAAB,5-Sep,Value,CHEVROLET-GMC-HUMMER,Import,European,Import,Value,Value,MID SIZE CAR
+SAAB,9-2X,Value,CHEVROLET-GMC-HUMMER,Import,European,Import,Value,Value,MID SIZE CAR
+SAAB,9-4X,Value,CHEVROLET-GMC-HUMMER,Import,European,Import,Value,Value,MINIVAN
+SAAB,9-7X,Value,CHEVROLET-GMC-HUMMER,Import,European,Import,Value,Value,FULL SIZE SUV
+SATURN,ASTRA,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,SMALL CAR
+SATURN,AURA,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,MID SIZE CAR
+SATURN,ION,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,MID SIZE CAR
+SATURN,L-SERIES,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,SMALL CAR
+SATURN,OUTLOOK,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,FULL SIZE SUV
+SATURN,SKY,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,SMALL CAR
+SATURN,S-SERIES,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,SMALL CAR
+SATURN,SW RHD,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,SMALL CAR
+SATURN,VUE,Value,CHEVROLET-GMC-HUMMER,Domestic,American,Domestic,Value,Value,SMALL SUV
+SCION,FR-S,Reliability,TOYOTA,Import,Japanese,Import,Value,Value,SMALL CAR
+SCION,IA,Reliability,TOYOTA,Import,Japanese,Import,Value,Value,SMALL CAR
+SCION,IQ,Reliability,TOYOTA,Import,Japanese,Import,Value,Value,SMALL CAR
+SCION,TC,Reliability,TOYOTA,Import,Japanese,Import,Value,Value,SMALL CAR
+SCION,XA,Reliability,TOYOTA,Import,Japanese,Import,Value,Value,SMALL CAR
+SCION,XB,Reliability,TOYOTA,Import,Japanese,Import,Value,Value,SMALL SUV
+SCION,XD,Reliability,TOYOTA,Import,Japanese,Import,Value,Value,SMALL CAR
+SMART,FORTWO,Value,MERCEDES-BENZ,Import,European,Import,Value,Value,SMALL CAR
+SUBARU,BAJA,Reliability,SUBARU,Import,Japanese,Import,Reliability,Low Maintenance,SMALL TRUCK
+SUBARU,BRZ,Reliability,SUBARU,Import,Japanese,Import,Reliability,Low Maintenance,MID SIZE CAR
+SUBARU,CROSSTREK,Reliability,SUBARU,Import,Japanese,Import,Reliability,Low Maintenance,SMALL SUV
+SUBARU,DL,Reliability,SUBARU,Import,Japanese,Import,Reliability,Low Maintenance,SMALL CAR
+SUBARU,FORESTER,Reliability,SUBARU,Import,Japanese,Import,Reliability,Low Maintenance,SMALL SUV
+SUBARU,GL,Reliability,SUBARU,Import,Japanese,Import,Reliability,Low Maintenance,SMALL CAR
+SUBARU,IMPREZA,Reliability,SUBARU,Import,Japanese,Import,Reliability,Low Maintenance,SMALL CAR
+SUBARU,JUSTY,Reliability,SUBARU,Import,Japanese,Import,Reliability,Low Maintenance,SMALL CAR
+SUBARU,LEGACY,Reliability,SUBARU,Import,Japanese,Import,Reliability,Low Maintenance,SMALL CAR
+SUBARU,LOYALE,Reliability,SUBARU,Import,Japanese,Import,Reliability,Low Maintenance,SMALL CAR
+SUBARU,OUTBACK,Reliability,SUBARU,Import,Japanese,Import,Reliability,Low Maintenance,SMALL CAR
+SUBARU,RX,Reliability,SUBARU,Import,Japanese,Import,Reliability,Low Maintenance,SMALL CAR
+SUBARU,SVX,Reliability,SUBARU,Import,Japanese,Import,Reliability,Low Maintenance,SMALL CAR
+SUBARU,TRIBECA,Reliability,SUBARU,Import,Japanese,Import,Reliability,Low Maintenance,FULL SIZE SUV
+SUBARU,WRX,Reliability,SUBARU,Import,Japanese,Import,Muscle,Sport,SMALL CAR
+SUBARU,XT,Reliability,SUBARU,Import,Japanese,Import,Reliability,Low Maintenance,SMALL CAR
+SUBARU,ASCENT,Reliability,SUBARU,Import,Japanese,Import,Reliability,Low Maintenance,MID SIZE SUV
+SUZUKI,AERIO,Value,SUZUKI,Import,Japanese,Import,Value,Value,SMALL CAR
+SUZUKI,EQUATOR,Value,SUZUKI,Import,Japanese,Import,Value,Value,FULL SIZE TRUCK
+SUZUKI,ESTEEM,Value,SUZUKI,Import,Japanese,Import,Value,Value,SMALL CAR
+SUZUKI,FORENZA,Value,SUZUKI,Import,Japanese,Import,Value,Value,SMALL CAR
+SUZUKI,GRAND VITARA,Value,SUZUKI,Import,Japanese,Import,Value,Value,SMALL SUV
+SUZUKI,KIZASHI,Value,SUZUKI,Import,Japanese,Import,Value,Value,SMALL CAR
+SUZUKI,RENO,Value,SUZUKI,Import,Japanese,Import,Value,Value,SMALL CAR
+SUZUKI,SAMURAI,Value,SUZUKI,Import,Japanese,Import,Value,Value,SMALL SUV
+SUZUKI,SIDEKICK,Value,SUZUKI,Import,Japanese,Import,Value,Value,SMALL SUV
+SUZUKI,SWIFT,Value,SUZUKI,Import,Japanese,Import,Value,Value,SMALL CAR
+SUZUKI,SX4,Value,SUZUKI,Import,Japanese,Import,Value,Value,MID SIZE CAR
+SUZUKI,VERONA,Value,SUZUKI,Import,Japanese,Import,Value,Value,MID SIZE CAR
+SUZUKI,VITARA,Value,SUZUKI,Import,Japanese,Import,Value,Value,SMALL SUV
+SUZUKI,XL7,Value,SUZUKI,Import,Japanese,Import,Value,Value,FULL SIZE CAR
+TESLA,MODEL 3,Luxury,TESLA,Luxury,Japanese,Import,Reliability,Low Maintenance,MID SIZE CAR
+TESLA,MODEL S,Luxury,TESLA,Luxury,Japanese,Import,Reliability,Low Maintenance,FULL SIZE CAR
+TESLA,MODEL Y,Luxury,TESLA,Luxury,Japanese,Import,Reliability,Low Maintenance,SMALL SUV
+TESLA,MODEL X,Luxury,TESLA,Luxury,Japanese,Import,Reliability,Low Maintenance,MID SIZE SUV
+TOYOTA,4RUNNER,Reliability,TOYOTA,Import,Japanese,Import,Reliability,Low Maintenance,SMALL SUV
+TOYOTA,AVALON,Reliability,TOYOTA,Import,Japanese,Import,Reliability,Low Maintenance,FULL SIZE CAR
+TOYOTA,CAMRY,Reliability,TOYOTA,Import,Japanese,Import,Reliability,Low Maintenance,MID SIZE CAR
+TOYOTA,CAMRY HYBRID,Reliability,TOYOTA,Import,Japanese,Import,Reliability,Low Maintenance,MID SIZE CAR
+TOYOTA,CELICA,Reliability,TOYOTA,Import,Japanese,Import,Reliability,Low Maintenance,SMALL CAR
+TOYOTA,C-HR,Reliability,TOYOTA,Import,Japanese,Import,Reliability,Low Maintenance,SMALL SUV
+TOYOTA,COROLLA,Reliability,TOYOTA,Import,Japanese,Import,Reliability,Low Maintenance,SMALL CAR
+TOYOTA,CRESSIDA,Reliability,TOYOTA,Import,Japanese,Import,Reliability,Low Maintenance,SMALL CAR
+TOYOTA,DLX,Reliability,TOYOTA,Import,Japanese,Import,Reliability,Low Maintenance,MID SIZE CAR
+TOYOTA,ECHO,Reliability,TOYOTA,Import,Japanese,Import,Reliability,Low Maintenance,SMALL CAR
+TOYOTA,FJ CRUISER,Reliability,TOYOTA,Import,Japanese,Import,Reliability,Low Maintenance,MID SIZE SUV
+TOYOTA,HIGHLANDER,Reliability,TOYOTA,Import,Japanese,Import,Reliability,Low Maintenance,MID SIZE SUV
+TOYOTA,LAND CRUISER,Reliability,TOYOTA,Import,Japanese,Import,Reliability,Low Maintenance,FULL SIZE SUV
+TOYOTA,MATRIX,Reliability,TOYOTA,Import,Japanese,Import,Reliability,Low Maintenance,SMALL CAR
+TOYOTA,MR2,Reliability,TOYOTA,Import,Japanese,Import,Reliability,Low Maintenance,SMALL CAR
+TOYOTA,PASEO,Reliability,TOYOTA,Import,Japanese,Import,Reliability,Low Maintenance,SMALL CAR
+TOYOTA,PREVIA,Reliability,TOYOTA,Import,Japanese,Import,Reliability,Low Maintenance,MINIVAN
+TOYOTA,PRIUS,Reliability,TOYOTA,Import,Japanese,Import,Reliability,Low Maintenance,SMALL CAR
+TOYOTA,RAV4,Reliability,TOYOTA,Import,Japanese,Import,Reliability,Low Maintenance,SMALL SUV
+TOYOTA,SEQUOIA,Reliability,TOYOTA,Import,Japanese,Import,Reliability,Low Maintenance,FULL SIZE SUV
+TOYOTA,SIENNA,Reliability,TOYOTA,Import,Japanese,Import,Reliability,Low Maintenance,MINIVAN
+TOYOTA,SUPRA,Reliability,TOYOTA,Import,Japanese,Import,Reliability,Low Maintenance,SMALL CAR
+TOYOTA,86,Reliability,TOYOTA,Import,Japanese,Import,Reliability,Low Maintenance,SMALL CAR
+TOYOTA,T100,Reliability,TOYOTA,Import,Japanese,Import,Reliability,Low Maintenance,FULL SIZE TRUCK
+TOYOTA,TACOMA,Reliability,TOYOTA,Import,Japanese,Import,Reliability,Low Maintenance,MID SIZE TRUCK
+TOYOTA,TERCEL,Reliability,TOYOTA,Import,Japanese,Import,Reliability,Low Maintenance,SMALL CAR
+TOYOTA,TUNDRA,Reliability,TOYOTA,Import,Japanese,Import,Reliability,Low Maintenance,FULL SIZE TRUCK
+TOYOTA,VENZA,Reliability,TOYOTA,Import,Japanese,Import,Reliability,Low Maintenance,SMALL SUV
+TOYOTA,YARIS,Reliability,TOYOTA,Import,Japanese,Import,Reliability,Low Maintenance,SMALL CAR
+VOLKSWAGEN,ARTEON,Value,VOLKSWAGEN,Import,European,Import,Standard,Value,MID SIZE CAR
+VOLKSWAGEN,ATLAS,Value,VOLKSWAGEN,Import,European,Import,Standard,Value,SMALL SUV
+VOLKSWAGEN,BEETLE,Value,VOLKSWAGEN,Import,European,Import,Sport,Value,SMALL CAR
+VOLKSWAGEN,CABRIO,Value,VOLKSWAGEN,Import,European,Import,Convertible,Value,SMALL CAR
+VOLKSWAGEN,CABRIOLET,Value,VOLKSWAGEN,Import,European,Import,Convertible,Value,SMALL CAR
+VOLKSWAGEN,CC,Value,VOLKSWAGEN,Import,European,Import,Standard,Value,MID SIZE CAR
+VOLKSWAGEN,CORRADO,Value,VOLKSWAGEN,Import,European,Import,Standard,Value,SMALL CAR
+VOLKSWAGEN,EOS,Value,VOLKSWAGEN,Import,European,Import,Standard,Value,SMALL CAR
+VOLKSWAGEN,EUROVAN,Value,VOLKSWAGEN,Import,European,Import,Standard,Value,MINIVAN
+VOLKSWAGEN,FOX,Value,VOLKSWAGEN,Import,European,Import,Standard,Value,SMALL CAR
+VOLKSWAGEN,GLI,Value,VOLKSWAGEN,Import,European,Import,Standard,Value,MID SIZE CAR
+VOLKSWAGEN,GOLF,Value,VOLKSWAGEN,Import,European,Import,Standard,Value,SMALL CAR
+VOLKSWAGEN,GTI,Value,VOLKSWAGEN,Import,European,Import,Standard,Value,SMALL CAR
+VOLKSWAGEN,JETTA,Value,VOLKSWAGEN,Import,European,Import,Standard,Value,SMALL CAR
+VOLKSWAGEN,PASSAT,Value,VOLKSWAGEN,Import,European,Import,Standard,Value,MID SIZE CAR
+VOLKSWAGEN,PHAETON,Value,VOLKSWAGEN,Import,European,Import,Standard,Value,FULL SIZE CAR
+VOLKSWAGEN,QUANTUM,Value,VOLKSWAGEN,Import,European,Import,Standard,Value,SMALL CAR
+VOLKSWAGEN,R32,Value,VOLKSWAGEN,Import,European,Import,Standard,Value,SMALL CAR
+VOLKSWAGEN,RABBIT,Value,VOLKSWAGEN,Import,European,Import,Standard,Value,SMALL CAR
+VOLKSWAGEN,ROUTAN,Value,VOLKSWAGEN,Import,European,Import,Standard,Value,MINIVAN
+VOLKSWAGEN,SCIROCCO,Value,VOLKSWAGEN,Import,European,Import,Standard,Value,SMALL CAR
+VOLKSWAGEN,TIGUAN,Value,VOLKSWAGEN,Import,European,Import,Standard,Value,SMALL SUV
+VOLKSWAGEN,TOUAREG,Value,VOLKSWAGEN,Import,European,Import,Standard,Value,MID SIZE SUV
+VOLKSWAGEN,VANAGON,Value,VOLKSWAGEN,Import,European,Import,Standard,Value,MINIVAN
+VOLVO,240,Luxury,VOLVO,Import,European,Import,Luxury,Value,SMALL CAR
+VOLVO,260,Luxury,VOLVO,Import,European,Import,Luxury,Value,SMALL CAR
+VOLVO,740,Luxury,VOLVO,Import,European,Import,Luxury,Value,MID SIZE CAR
+VOLVO,760,Luxury,VOLVO,Import,European,Import,Luxury,Value,MID SIZE CAR
+VOLVO,850,Luxury,VOLVO,Import,European,Import,Luxury,Value,MID SIZE CAR
+VOLVO,940,Luxury,VOLVO,Import,European,Import,Luxury,Value,MID SIZE CAR
+VOLVO,960,Luxury,VOLVO,Import,European,Import,Luxury,Value,MID SIZE CAR
+VOLVO,C30,Luxury,VOLVO,Import,European,Import,Luxury,Value,SMALL CAR
+VOLVO,C70,Luxury,VOLVO,Import,European,Import,Luxury,Value,FULL SIZE CAR
+VOLVO,S40,Luxury,VOLVO,Import,European,Import,Luxury,Value,MID SIZE CAR
+VOLVO,S60,Luxury,VOLVO,Import,European,Import,Luxury,Value,MID SIZE CAR
+VOLVO,S70,Luxury,VOLVO,Import,European,Import,Luxury,Value,MID SIZE CAR
+VOLVO,S80,Luxury,VOLVO,Import,European,Import,Luxury,Value,MID SIZE CAR
+VOLVO,S90,Luxury,VOLVO,Import,European,Import,Luxury,Value,MID SIZE CAR
+VOLVO,V40,Luxury,VOLVO,Import,European,Import,Luxury,Value,FULL SIZE CAR
+VOLVO,V50,Luxury,VOLVO,Import,European,Import,Luxury,Value,FULL SIZE CAR
+VOLVO,V60,Luxury,VOLVO,Import,European,Import,Luxury,Value,FULL SIZE SUV
+VOLVO,V70,Luxury,VOLVO,Import,European,Import,Luxury,Value,MID SIZE SUV
+VOLVO,V90,Luxury,VOLVO,Import,European,Import,Luxury,Value,MID SIZE CAR
+VOLVO,XC,Luxury,VOLVO,Import,European,Import,Luxury,Value,MID SIZE CAR
+VOLVO,XC40,Luxury,VOLVO,Import,European,Import,Luxury,Value,SMALL SUV
+VOLVO,XC60,Luxury,VOLVO,Import,European,Import,Luxury,Value,SMALL SUV
+VOLVO,XC70,Luxury,VOLVO,Import,European,Import,Luxury,Value,SMALL SUV
+VOLVO,XC90,Luxury,VOLVO,Import,European,Import,Luxury,Value,MID SIZE SUV
