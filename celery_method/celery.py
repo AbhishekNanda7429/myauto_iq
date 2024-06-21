@@ -1,8 +1,21 @@
 from flask import Flask, jsonify
 import os
 import pandas as pd
+from fuzzywuzzy import process
+from concurrent.futures import ThreadPoolExecutor
+import dask.dataframe as dd
+from celery_method.celery import Celery
+from celery_method.celery_config import make_celery
 
 app = Flask(__name__)
+
+# Flask configuration for Celery
+app.config.update(
+    CELERY_BROKER_URL='redis://localhost:6379/0',
+    CELERY_RESULT_BACKEND='redis://localhost:6379/0'
+)
+
+celery = make_celery(app)
 
 # Define constants for path and column names
 CSV_PATH = "C:\\Users\\abhis\\Desktop\\CloudBuilders\\myauto_iq\\sample_lead_data"  
@@ -60,11 +73,50 @@ def drop_nan(df):
     return df
 
 # Function to merge dataframes
-def merge_dataframes(df1, df2, on_column):
+def fuzzy_logic(df1, df2, on_column, threshold=90):
     if df1 is None or df2 is None:
         raise ValueError("One or both dataframes are not initialized.")
-    merged_data = pd.merge(df1, df2, on=on_column, how='inner')
+    
+    # Create a copy of the dataframes to avoid modifying the original ones
+    df1_copy = df1.copy()
+    df2_copy = df2.copy()
+
+    for col in on_column:
+        df1_copy[col + '_match'] = df1_copy[col].apply(lambda x: process.extractOne(x, df2_copy[col], score_cutoff=threshold))
+        df1_copy[col + '_match'] = df1_copy[col + '_match'].apply(lambda x: x[0] if x else None)
+
+    # Merge on the matched columns
+    for col in on_column:
+        df2_copy = df2_copy.rename(columns={col: col + '_match'})
+
+    merged_data = pd.merge(df1_copy, df2_copy, on=[col + '_match' for col in on_column], how='inner')
+
+    # Drop the additional match columns
+    for col in on_column:
+        merged_data = merged_data.drop(columns=[col + '_match'])
+
     return merged_data
+
+# Function to merge global dataframes with fuzzy matching
+def map_data():
+    global merged_df,mapper_df
+    try:
+        # Check if dataframes are not None
+        if merged_df is None:
+            return jsonify({'error': 'Dataframe 1 is not processed yet.'}), 400
+        if mapper_df is None:
+            return jsonify({'error': 'Dataframe 2 is not processed yet.'}), 400
+        mapped_df = fuzzy_logic(merged_df, mapper_df, common_columns)
+        # Save merged dataframe to CSV file
+        mapped_df.to_csv('final_output.csv', index=False)
+
+        return mapped_df
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
+
+@celery.task()
+def df_task():
+    return map_data().to_json(orient='records')
 
 # API endpoint to process CSV files
 @app.route('/process_leads', methods=['GET'])
@@ -72,7 +124,7 @@ def process_leads():
     global merged_df
     try:
         merged_df = merge_csv_files(CSV_PATH, COLUMN_NAMES)
-        merged_df = fill_missing_values(merged_df, 'ffill')  # Replace 'ff
+        merged_df = fill_missing_values(merged_df, 'ffill')  
         # Convert dataframe to JSON for API response
         response = merged_df.to_json(orient='records')
         return response
@@ -94,19 +146,11 @@ def process_mapper():
 
 # API endpoint to map the dataframes
 @app.route('/map', methods=['GET'])
-def map_data():
+def map():
     global merged_df,mapper_df
     try:
-        # Check if dataframes are not None
-        if merged_df is None:
-            return jsonify({'error': 'Dataframe 1 is not processed yet.'}), 400
-        if mapper_df is None:
-            return jsonify({'error': 'Dataframe 2 is not processed yet.'}), 400
-        mapped_df = merge_dataframes(merged_df, mapper_df, common_columns)
-        # Save merged dataframe to CSV file
-        mapped_df.to_csv('final_output.csv', index=False)
-        # Convert merged dataframe to JSON
-        response = mapped_df.to_json(orient='records')
+        final_df = map_data()
+        response = final_df.to_json(orient='records')
         return response
     except Exception as e:
         return jsonify({'error': str(e)}), 500
@@ -114,15 +158,41 @@ def map_data():
 # API endpoint to call all the other APIs
 @app.route('/process_all', methods=['GET'])
 def process_all():
-    with app.test_client() as client:
-        res1 = client.get('/process_leads')
-        if res1.status_code != 200:
-            return res1
-        res2 = client.get('/process_mapper')
-        if res1.status_code != 200:
-            return res2
-        res3 = client.get('/map')
-        return res3
+    try:
+        with ThreadPoolExecutor() as executor:
+            res1 = executor.submit(process_leads)
+            res2 = executor.submit(process_mapper)
+            res1.result()
+            res2.result()
 
+        task = df_task.apply_async()
+        
+
+        return jsonify({"status": "Processing started", "task_id": task.id}), 202
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
+    
+@app.route('/status/<task_id>')
+def task_status(task_id):
+    task = df_task.AsyncResult(task_id)
+    if task.state == 'PENDING':
+        response = {
+            'state': task.state,
+            'status': 'Pending...'
+        }
+    elif task.state != 'FAILURE':
+        response = {
+            'state': task.state,
+            'status': task.info.get('status', '')
+        }
+        if 'result' in task.info:
+            response['result'] = task.info['result']
+    else:
+        response = {
+            'state': task.state,
+            'status': str(task.info),  # this is the exception raised
+        }
+    return jsonify(response)
+    
 if __name__ == '__main__':
     app.run(debug=True)
